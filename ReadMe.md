@@ -13,8 +13,8 @@ id: Oceania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Oceania/
-markerFolder: ./Oceania/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Oceania]

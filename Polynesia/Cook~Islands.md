@@ -95,10 +95,10 @@ Sub-region_Name ::  [[Polynesia]]
 [	M49	 :: 184 ] 
 
 [	is_independent	 :: Associated with NZ ] 
-[	Developed_/_Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 ::  ] 
-[	Small_Island_Developing_States_(SIDS)	 :: x ] 
+[	Developed_/Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 :: x ] 
 
 [	ISO3166-1-numeric	 :: 184 ] 
 

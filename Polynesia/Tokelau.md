@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -9.36667
 - -171.217
@@ -91,10 +91,10 @@ Sub-region_Name ::  [[Polynesia]]
 [	M49	 :: 772 ] 
 
 [	is_independent	 :: Territory of NZ ] 
-[	Developed_/_Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 ::  ] 
-[	Small_Island_Developing_States_(SIDS)	 ::  ] 
+[	Developed_/Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 ::  ] 
 
 [	ISO3166-1-numeric	 :: 772 ] 
 
@@ -102,12 +102,13 @@ Sub-region_Name ::  [[Polynesia]]
 
 [ISO2::TK] 
 [ISO3::TKL] 
+
 ```leaflet
 id: Tokelau
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tokelau/
+geojsonFolder: ./Tokelau//
 markerFolder: ./Tokelau/
 ```
 

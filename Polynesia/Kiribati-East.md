@@ -34,6 +34,10 @@ Languages:
 - gil
 ---
 
+# [[Kiribati-East]] 
+
+[[Kiribati]] is difficult for Mapping, because its many Islands range in Longitude from 172° across the [[Anti-Meridian]] to 210°. 
+This is the eastern part that falls into the [[../Polynesia]]n Area. 
 
 [	ISO4217-currency_alphabetic	 :: AUD ] 
 [	ISO4217-currency_name	 :: Australian Dollar ] 
@@ -91,10 +95,10 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 [	M49	 :: 296 ] 
 
 [	is_independent	 :: Yes ] 
-[	Developed_/_Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 :: x ] 
-[	Small_Island_Developing_States_(SIDS)	 :: x ] 
+[	Developed_/Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 :: x ] 
+[	Small_Island_Developing_States	 :: x ] 
 
 [	ISO3166-1-numeric	 :: 296 ] 
 
@@ -102,6 +106,7 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 [ISO2::KI] 
 [ISO3::KIR] 
+
 ```leaflet
 id: Kiribati
 zoomFeatures: true 

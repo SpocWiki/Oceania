@@ -1,4 +1,4 @@
-﻿---
+---
 location: [21.3114,-157.796] 
 type: Country
 tags:
@@ -11,6 +11,7 @@ confidential: public
 ---
 [ISO2::] 
 [ISO3::] 
+
 ```leaflet
 id: Hawaii
 zoomFeatures: true 

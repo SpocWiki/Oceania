@@ -1,7 +1,4 @@
 ---
-location:
-- 1.4
-- 172.967
 type: Country
 tags:
 - geo/Country

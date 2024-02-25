@@ -103,6 +103,8 @@ Sub-region_Name ::  [[Polynesia]]
 [ISO2::TK] 
 [ISO3::TKL] 
 
+## #has_/map 
+
 ```leaflet
 id: Tokelau
 zoomFeatures: true 

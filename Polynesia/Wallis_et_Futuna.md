@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-13.2833,-176.167] 
 type: Country
 tags:
@@ -11,6 +11,10 @@ confidential: public
 ---
 [ISO2::WF] 
 [ISO3::WLF] 
+
+## #has_/map 
+
+
 ```leaflet
 id: Wallis et Futuna
 zoomFeatures: true 

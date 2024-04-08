@@ -126,8 +126,10 @@ Continent :: [[Oceania]]
 Capital :: [[Papeete]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-149.567] 
-[geo-lat::-17.5333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-149.567] 
+[has_place_latitude::-17.5333] 
 
 
 

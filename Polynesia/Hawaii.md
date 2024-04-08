@@ -30,8 +30,10 @@ Continent :: [[Oceania]]
 Capital ::[[../../America~North/USA/USA~Pacific/Hawaii/City/Honolulu]]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-157.796] 
-[geo-lat::21.3114] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-157.796] 
+[has_place_latitude::21.3114] 
 
 
 

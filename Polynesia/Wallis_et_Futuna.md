@@ -33,8 +33,10 @@ Continent :: [[Oceania]]
 Capital :: [[Mata-Utu]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-176.167] 
-[geo-lat::-13.2833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-176.167] 
+[has_place_latitude::-13.2833] 
 
 
 

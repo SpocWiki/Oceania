@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-149.5667] 
-[geo-lat::-17.53333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-149.5667] 
+[has_place_latitude::-17.53333] 
 [name::Papeete] 
 State ::  
 Country ::[[../../Polynesia/French_Polynesia]]]  

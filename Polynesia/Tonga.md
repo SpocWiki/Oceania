@@ -125,8 +125,10 @@ Continent :: [[Oceania]]
 Capital :: [[Nuku_alofa]]  
 [Alcohol-l::3.8] 
 [Language-Id::499] 
-[geo-lon::-175.2] 
-[geo-lat::-21.1333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-175.2] 
+[has_place_latitude::-21.1333] 
 
 
 

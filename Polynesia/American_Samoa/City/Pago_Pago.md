@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-170.7] 
-[geo-lat::-14.28333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-170.7] 
+[has_place_latitude::-14.28333] 
 [name::Pago Pago] 
 State ::  
 Country :: [[American_Samoa]]  

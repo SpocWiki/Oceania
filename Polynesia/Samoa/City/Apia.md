@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-171.75] 
-[geo-lat::-13.83333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-171.75] 
+[has_place_latitude::-13.83333] 
 [name::Apia] 
 State ::  
 Country :: [[Samoa]]  

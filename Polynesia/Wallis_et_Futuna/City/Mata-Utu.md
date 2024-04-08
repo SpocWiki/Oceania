@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-176.1667] 
-[geo-lat::-13.28333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-176.1667] 
+[has_place_latitude::-13.28333] 
 [name::Mata-Utu] 
 State ::  
 Country ::[[../../Polynesia/Wallis_et_Futuna]]]  

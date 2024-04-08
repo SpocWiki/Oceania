@@ -124,8 +124,10 @@ Continent :: [[Oceania]]
 Capital :: [[Alofi]]  
 [Alcohol-l::9.9] 
 [Language-Id::] 
-[geo-lon::-169.875] 
-[geo-lat::-19.0589] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-169.875] 
+[has_place_latitude::-19.0589] 
 
 
 

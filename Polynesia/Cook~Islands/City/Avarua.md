@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-159.7833] 
-[geo-lat::-21.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-159.7833] 
+[has_place_latitude::-21.2] 
 [name::Avarua] 
 State ::  
 Country :: [[../../../Cook~Islands]]  

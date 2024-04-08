@@ -127,8 +127,10 @@ Continent :: [[Oceania]]
 Capital :: [[Pago_Pago]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-170.7] 
-[geo-lat::-14.2833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-170.7] 
+[has_place_latitude::-14.2833] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-175.2] 
-[geo-lat::-21.13333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-175.2] 
+[has_place_latitude::-21.13333] 
 [name::Nuku?alofa] 
 State ::  
 Country :: [[Tonga]]  

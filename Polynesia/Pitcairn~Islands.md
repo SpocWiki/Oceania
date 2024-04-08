@@ -29,8 +29,10 @@ Continent :: [[Oceania]]
 Capital :: [[Adamstown]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-130.1] 
-[geo-lat::-25.0667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-130.1] 
+[has_place_latitude::-25.0667] 
 
 
 

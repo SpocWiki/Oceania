@@ -127,8 +127,10 @@ Continent :: [[Oceania]]
 Capital :: [[Avarua]]  
 [Alcohol-l::3.7] 
 [Language-Id::] 
-[geo-lon::-159.783] 
-[geo-lat::-21.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-159.783] 
+[has_place_latitude::-21.2] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-171.2167] 
-[geo-lat::-9.366667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-171.2167] 
+[has_place_latitude::-9.366667] 
 [name::Fakaofo] 
 State ::  
 Country :: [[geo/Continent/Oceania/Polynesia/Tokelau]]  

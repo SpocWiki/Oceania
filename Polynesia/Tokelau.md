@@ -126,8 +126,10 @@ Continent :: [[Oceania]]
 Capital :: [[Fakaofo]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-171.217] 
-[geo-lat::-9.36667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-171.217] 
+[has_place_latitude::-9.36667] 
 
 
 

@@ -125,8 +125,10 @@ Continent :: [[Oceania]]
 Capital :: [[Apia]]  
 [Alcohol-l::4.8] 
 [Language-Id::499] 
-[geo-lon::-171.75] 
-[geo-lat::-13.8333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-171.75] 
+[has_place_latitude::-13.8333] 
 
 
 

@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- WS
-- WSM
 - Samoa
 - ساموا
 - 萨摩亚

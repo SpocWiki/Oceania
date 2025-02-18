@@ -33,6 +33,7 @@ Languages:
 - en-WS
 ---
 
+# [[Samoa]] 
 
 [	ISO4217-currency_alphabetic	 :: WST ] 
 [	ISO4217-currency_name	 :: Tala ] 
@@ -130,6 +131,13 @@ Capital :: [[Apia]]
 [has_place_latitude::-13.8333] 
 
 
+## #has_/text_of_/abstract 
+
+> **Samoa**, officially the Independent State of Samoa and known until 1997 as Western Samoa (Samoan: Sāmoa i Sisifo), is an island country in Polynesia, consisting of two main islands (Savai'i and Upolu); two smaller, inhabited islands (Manono and Apolima); and several smaller, uninhabited islands, including the Aleipata Islands (Nuʻutele, Nuʻulua, Fanuatapu and Namua). Samoa is located 64 km (40 mi; 35 nmi) west of American Samoa, 889 km (552 mi; 480 nmi) northeast of Tonga, 1,152 km (716 mi; 622 nmi) northeast of Fiji, 483 km (300 mi; 261 nmi) east of Wallis and Futuna, 1,151 km (715 mi; 621 nmi) southeast of Tuvalu, 519 km (322 mi; 280 nmi) south of Tokelau, 4,190 km (2,600 mi; 2,260 nmi) southwest of Hawaii, and 610 km (380 mi; 330 nmi) northwest of Niue. The capital and largest city is Apia. The Lapita people discovered and settled the Samoan Islands around 3,500 years ago. They developed a Samoan language and Samoan cultural identity.
+>
+> Samoa is a unitary parliamentary democracy with 11 administrative divisions. It is a sovereign state and a member of the Commonwealth of Nations. Western Samoa was admitted to the United Nations on 15 December 1976. Because of the Samoans' seafaring skills, pre-20th-century European explorers referred to the entire island group, including American Samoa, as the "Navigator Islands". The country became a colony of the German Empire in 1899 after the Tripartite Convention, and was known as German Samoa. German administration ended in August 1914 after New Zealand troops bloodlessly occupied the colony at the start of World War I. New Zealand officially gained control of the region as a League of Nations mandate in 1920, when it became the Territory of Western Samoa. After being converted into a United Nations Trust Territory in 1946, Samoa gained independence on 1 January 1962.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Samoa)
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/geo/Continent/Oceania/Samoa|Samoa]] 

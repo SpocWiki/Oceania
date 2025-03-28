@@ -1,20 +1,20 @@
----
+﻿---
 location:
-  - -14.2833
-  - -170.7
+- -14.2833
+- -170.7
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26836
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses:
-  - Country
+- Country
 publish: true
-title: American Samoa
+title: "American Samoa"
 linkTitle: 
 keywords: 
 layout: 
@@ -22,170 +22,169 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - American Samoa
-  - Samoa Americana
-  - Samoa américaines
-  - ساموا الأمريكية
-  - 美属萨摩亚
-  - Американское Самоа
+- "American Samoa"
+- "Samoa Americana"
+- "Samoa américaines"
+- "ساموا الأمريكية"
+- 美属萨摩亚
+- "Американское Самоа"
 Languages:
-  - en-AS
-  - sm
-  - to
+- en-AS
+- sm
+- to
 has_id_wikidata: Q16641
-named after:
-  - "[[_Standards/WikiData/WD~Samoan Islands,162126]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
+named_after:
+- "[[_Standards/WikiData/WD~Samoan Islands,162126]]"
+- "[[_Standards/WikiData/WD~United States,30]]"
 anthem:
-  - "[[_Standards/WikiData/WD~Amerika Samoa,179197]]"
-  - "[[_Standards/WikiData/WD~The Star-Spangled Banner,44696]]"
+- "[[_Standards/WikiData/WD~Amerika Samoa,179197]]"
+- "[[_Standards/WikiData/WD~The Star-Spangled Banner,44696]]"
 flag: "[[_Standards/WikiData/WD~flag of American Samoa,242502]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~Tutuila,269205]]"
-  - "[[_Standards/WikiData/WD~Swains Island,1128488]]"
-  - "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
-  - "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
-instance of:
-  - "[[_Standards/WikiData/WD~insular area of the United States,462778]]"
-  - "[[_Standards/WikiData/WD~unincorporated territory of the United States,783733]]"
-  - "[[_Standards/WikiData/WD~political territorial entity,1048835]]"
-  - "[[_Standards/WikiData/WD~territory of the United States,1352230]]"
-emergency phone number: "[[_Standards/WikiData/WD~911,533806]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Swains Island,1128488]]"
-  - "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
-  - "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
-  - "[[_Standards/WikiData/WD~Western District,2437227]]"
-  - "[[_Standards/WikiData/WD~Eastern District,2625563]]"
-ethnic group:
-  - "[[_Standards/WikiData/WD~Samoans,1135531]]"
-  - "[[_Standards/WikiData/WD~Filipino people,4172847]]"
-  - "[[_Standards/WikiData/WD~Tongans,41201692]]"
-highest point: "[[_Standards/WikiData/WD~Lata Mountain,1226878]]"
-legislative body: "[[_Standards/WikiData/WD~American Samoa Fono,1267503]]"
-part of:
-  - "[[_Standards/WikiData/WD~Q3432631,3432631]]"
-  - "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~Samoa,683]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of American Samoa,4405805]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Samoa Time Zone,4816926]]"
-  - "[[_Standards/WikiData/WD~Pacific_Pago_Pago,63285986]]"
-  - "[[_Standards/WikiData/WD~UTC−11_00,2154]]"
+has_part_s_:
+- '[[_Standards/WikiData/WD~Tutuila,269205]]'
+- "[[_Standards/WikiData/WD~Swains Island,1128488]]"
+- "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
+- "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
+instance_of:
+- "[[_Standards/WikiData/WD~insular area of the United States,462778]]"
+- "[[_Standards/WikiData/WD~unincorporated territory of the United States,783733]]"
+- "[[_Standards/WikiData/WD~political territorial entity,1048835]]"
+- "[[_Standards/WikiData/WD~territory of the United States,1352230]]"
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Swains Island,1128488]]"
+- "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
+- "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
+- "[[_Standards/WikiData/WD~Western District,2437227]]"
+- "[[_Standards/WikiData/WD~Eastern District,2625563]]"
+ethnic_group:
+- '[[_Standards/WikiData/WD~Samoans,1135531]]'
+- "[[_Standards/WikiData/WD~Filipino people,4172847]]"
+- '[[_Standards/WikiData/WD~Tongans,41201692]]'
+highest_point: "[[_Standards/WikiData/WD~Lata Mountain,1226878]]"
+legislative_body: "[[_Standards/WikiData/WD~American Samoa Fono,1267503]]"
+part_of:
+- '[[_Standards/WikiData/WD~Q3432631,3432631]]'
+- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- '[[_Standards/WikiData/WD~Samoa,683]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography of American Samoa,4405805]]"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Samoa Time Zone,4816926]]"
+- '[[_Standards/WikiData/WD~Pacific_Pago_Pago,63285986]]'
+- '[[_Standards/WikiData/WD~UTC−11_00,2154]]'
 bibliography: "[[_Standards/WikiData/WD~bibliography of American Samoa,4903318]]"
-foundational text: "[[_Standards/WikiData/WD~Constitution of American Samoa,5164161]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of American Samoa,5251985]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of American Samoa,5252010]]"
-executive body: "[[_Standards/WikiData/WD~Government of American Samoa,5589175]]"
-highest judicial authority: "[[_Standards/WikiData/WD~High Court of American Samoa,5755207]]"
-history of topic: "[[_Standards/WikiData/WD~history of American Samoa,5899251]]"
-head of government: "[[_Standards/WikiData/WD~Lemanu Peleti Mauga,6521013]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_American Samoa,6677306]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of American Samoa,7112177]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_American Samoa,15612026]]"
-office held by head of government: "[[_Standards/WikiData/WD~Governor of American Samoa,20804530]]"
-inception: 1899-01-01T00:00:00Z
-archives at: "[[_Standards/WikiData/WD~American Samoa Office of Archives and Records Management,106690731]]"
-coordinates of easternmost point: Point(-168.151944444 -14.546666666)
-UMLS CUI: C0242536
-ISNI: "0000000404229726"
-official website: https://www.americansamoa.gov/
-coordinates of geographic center:
-  - Point(-170.7028 -14.2901)
-  - Point(-169.0576 -13.8517)
-motto text:
-  - Samoa, Bydded i Dduw Ddod yn Gyntaf
-  - Sāmoa, Muamua Le Atua
-  - Samoa, Let God Be First
-coordinates of southernmost point: Point(-168.152777777 -14.569722222)
-coordinates of northernmost point: Point(-171.077777777 -11.055555555)
+foundational_text: "[[_Standards/WikiData/WD~Constitution of American Samoa,5164161]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of American Samoa,5251985]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of American Samoa,5252010]]"
+executive_body: "[[_Standards/WikiData/WD~Government of American Samoa,5589175]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~High Court of American Samoa,5755207]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of American Samoa,5899251]]"
+head_of_government: "[[_Standards/WikiData/WD~Lemanu Peleti Mauga,6521013]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_American Samoa,6677306]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of American Samoa,7112177]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American Samoa,15612026]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor of American Samoa,20804530]]"
+inception: "1899-01-01T00:00:00Z"
+archives_at: "[[_Standards/WikiData/WD~American Samoa Office of Archives and Records Management,106690731]]"
+coordinates_of_easternmost_point: "Point(-168.151944444 -14.546666666)"
+UMLS_CUI: C0242536
+ISNI: 0000000404229726
+official_website: "https://www.americansamoa.gov/"
+coordinates_of_geographic_center:
+- "Point(-170.7028 -14.2901)"
+- "Point(-169.0576 -13.8517)"
+motto_text:
+- "Samoa, Bydded i Dduw Ddod yn Gyntaf"
+- "Sāmoa, Muamua Le Atua"
+- "Samoa, Let God Be First"
+coordinates_of_southernmost_point: "Point(-168.152777777 -14.569722222)"
+coordinates_of_northernmost_point: "Point(-171.077777777 -11.055555555)"
 continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
-different from: "[[_Standards/WikiData/WD~Samoa,683]]"
-official language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Samoan,34011]]"
-language used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Samoan,34011]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~United States,30]]"
+different_from: '[[_Standards/WikiData/WD~Samoa,683]]'
+official_language:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Samoan,34011]]'
+language_used:
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Samoan,34011]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United States,30]]"
 country: "[[_Standards/WikiData/WD~United States,30]]"
-lowest point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-mains voltage: 120
-compulsory education (maximum age): 18
-marriageable age: 18
-minimum temperature record: 53
-literacy rate: 97
-maximum temperature record: 99
+lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+mains_voltage: 120
+compulsory_education_maximum_age_: 18
+marriageable_age: 18
+minimum_temperature_record: 53
+literacy_rate: 97
+maximum_temperature_record: 99
 demonym:
-  - Uson-Samoano
-  - samoana americana
-  - samoane americane
-  - samoani americani
-  - samoano americano
-  - samoan
-  - samoan
-  - samoana
-  - samoane
-  - samoani
-  - American Samoan
-native label: Teritori o Amerika Sāmoa
-short name:
-  - 🇦🇸
-  - AS
-coordinate location: Point(-170.7075 -14.295833)
+- Uson-Samoano
+- "samoana americana"
+- "samoane americane"
+- "samoani americani"
+- "samoano americano"
+- samoan
+- samoan
+- samoana
+- samoane
+- samoani
+- "American Samoan"
+native_label: "Teritori o Amerika Sāmoa"
+short_name:
+- "\U0001F1E6\U0001F1F8"
+- AS
+coordinate_location: "Point(-170.7075 -14.295833)"
 area: 199
-top-level Internet domain: "[[_Standards/WikiData/WD~.as,41731]]"
-OpenStreetMap zoom level: "8"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.as,41731]]'
+OpenStreetMap_zoom_level: 8
 capital: "[[_Standards/WikiData/WD~Pago Pago,51678]]"
-nominal GDP: 709000000
-elevation above sea level: 765
-FIPS 5-2 numeric code (US states): "60"
+nominal_GDP: 709000000
+elevation_above_sea_level: 765
+FIPS_5_2_numeric_code_US_states_: 60
 population: 49710
-maritime identification digits: "559"
-water as percent of area: 86.84
-FIPS 10-4 (countries and regions): AQ
-IAB code: "1233"
-INSEE countries and foreign territories code: "99506"
-ISO 3166-1 numeric code: "016"
-M49 code: "016"
-IOC country code: ASA
-ISO 3166-1 alpha-2 code: AS
-FIPS 5-2 alpha code (US states): AS
-ISO 3166-1 alpha-3 code: ASM
-PM20 geo code: D61
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20American%20Samoa.svg
-OmegaWiki Defined Meaning: "615647"
-geoshape: http://commons.wikimedia.org/data/main/Data:American+Samoa.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa-banner.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa%20location%20map.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa%20on%20the%20globe%20%28Polynesia%20centered%29.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/AmericanSamoa.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-American%20Samoa.ogg
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20American%20Samoa.svg
-described at URL: https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html
-country calling code: "+1684"
-Libris-URI: 0xbdcn9j3fb26t0
-U.S. National Archives Identifier: "10044688"
-Commons gallery: American Samoa
-Commons category: American Samoa
-Unicode character: 🇦🇸
-Wolfram Language entity code: Entity["Country", "AmericanSamoa"]
-ISO 3166-2 code: US-AS
-MeSH tree code: Z01.639.760.815.800.100
+maritime_identification_digits: 559
+water_as_percent_of_area: 86.84
+FIPS_10_4_countries_and_regions_: AQ
+IAB_code: 1233
+INSEE_countries_and_foreign_territories_code: 99506
+ISO_3166_1_numeric_code: 016
+M49_code: 016
+IOC_country_code: ASA
+ISO_3166_1_alpha_2_code: AS
+FIPS_5_2_alpha_code_US_states_: AS
+ISO_3166_1_alpha_3_code: ASM
+PM20_geo_code: D61
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20American%20Samoa.svg"
+OmegaWiki_Defined_Meaning: 615647
+geoshape: "http://commons.wikimedia.org/data/main/Data:American+Samoa.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa-banner.jpg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa%20location%20map.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Samoa%20on%20the%20globe%20%28Polynesia%20centered%29.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/AmericanSamoa.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-us-American%20Samoa.ogg"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20American%20Samoa.svg"
+described_at_URL: "https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html"
+country_calling_code: +1684
+Libris_URI: 0xbdcn9j3fb26t0
+U_S_National_Archives_Identifier: 10044688
+Commons_gallery: "American Samoa"
+Commons_category: "American Samoa"
+Unicode_character: "\U0001F1E6\U0001F1F8"
+Wolfram_Language_entity_code: "Entity[\"Country\", \"AmericanSamoa\"]"
+ISO_3166_2_code: US-AS
+MeSH_tree_code: Z01.639.760.815.800.100
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 

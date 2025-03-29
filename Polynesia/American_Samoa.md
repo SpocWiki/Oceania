@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -14.2833
 - -170.7
@@ -180,7 +180,7 @@ Libris_URI: 0xbdcn9j3fb26t0
 U_S_National_Archives_Identifier: 10044688
 Commons_gallery: "American Samoa"
 Commons_category: "American Samoa"
-Unicode_character: "\U0001F1E6\U0001F1F8"
+Unicode_character: 🇦🇸
 Wolfram_Language_entity_code: "Entity[\"Country\", \"AmericanSamoa\"]"
 ISO_3166_2_code: US-AS
 MeSH_tree_code: Z01.639.760.815.800.100

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -21.1333
 - -175.2
@@ -242,7 +242,7 @@ official_name:
 ISO_3166_1_alpha_3_code: TON
 ITU_letter_code: TON
 IOC_country_code: TGA
-Unicode_character: "\U0001F1F9\U0001F1F4"
+Unicode_character: 🇹🇴 
 coordinates_of_northernmost_point: "Point(-175.63 -15.57)"
 native_label: Tonga
 U_S_National_Archives_Identifier: 10044446

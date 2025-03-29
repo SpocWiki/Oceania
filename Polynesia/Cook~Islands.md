@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -21.2
 - -159.783
@@ -126,7 +126,7 @@ official_website: "http://www.ck/govt.htm"
 country_calling_code: +682
 U_S_National_Archives_Identifier: 10045269
 Dewey_Decimal_Classification: 2--9623
-Unicode_character: "\U0001F1E8\U0001F1F0"
+Unicode_character: 🇨🇰 
 hashtag: CookIslands
 demonym:
 - "Cook Islander"

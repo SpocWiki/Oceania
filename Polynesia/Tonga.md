@@ -33,31 +33,31 @@ Languages:
 - en-TO
 has_id_wikidata: Q678
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 member_of:
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Tonga,188072]]"
-head_of_state: "[[_Standards/WikiData/WD~Tupou VI of Tonga,208497]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Tonga,380354]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Tonga,188072]]"
+head_of_state: "[[_Standards/WikiData/WD~Tupou_VI_of_Tonga,208497]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Tonga,380354]]"
 different_from: '[[_Standards/WikiData/WD~Rarotonga,471793]]'
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
@@ -67,42 +67,42 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~927,25743546]]'
 - '[[_Standards/WikiData/WD~928,25743548]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Owariasahi,694893]]'
 - '[[_Standards/WikiData/WD~Auckland,37100]]'
-anthem: "[[_Standards/WikiData/WD~Ko e fasi 'o e tu'i 'o e 'Otu Tonga,755676]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Tonga,915636]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Tonga,1075000]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Tonga,1273397]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative Assembly of Tonga,1287831]]"
+anthem: "[[_Standards/WikiData/WD~Ko_e_fasi_'o_e_tu'i_'o_e_'Otu_Tonga,755676]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Tonga,915636]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Tonga,1075000]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Tonga,1273397]]"
+legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_Tonga,1287831]]"
 highest_point: '[[_Standards/WikiData/WD~Kao,1520405]]'
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Tonga,2726935]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Tonga,2748202]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tonga,2726935]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tonga,2748202]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Vava‘u,4102091]]'
-- "[[_Standards/WikiData/WD~Niua district,4321649]]"
-- "[[_Standards/WikiData/WD~Haʻapai district,4494291]]"
-- "[[_Standards/WikiData/WD~ʻEua district,4533167]]"
+- "[[_Standards/WikiData/WD~Niua_district,4321649]]"
+- "[[_Standards/WikiData/WD~Haʻapai_district,4494291]]"
+- "[[_Standards/WikiData/WD~ʻEua_district,4533167]]"
 - '[[_Standards/WikiData/WD~Tongatapu,10383165]]'
-culture: "[[_Standards/WikiData/WD~culture of Tonga,4405888]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Tonga,7112489]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Tonga,4405888]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Tonga,7112489]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Tongatapu,7122271]]'
 - '[[_Standards/WikiData/WD~UTC+13_00,7118]]'
-head_of_government: "[[_Standards/WikiData/WD~ʻAisake Eke,8083950]]"
+head_of_government: "[[_Standards/WikiData/WD~ʻAisake_Eke,8083950]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335074,13335074]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tonga,14616289]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Tonga topics,15573746]]"
-follows: "[[_Standards/WikiData/WD~British Tonga,17197946]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Tonga_topics,15573746]]"
+follows: "[[_Standards/WikiData/WD~British_Tonga,17197946]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103549,27103549]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch of Tonga,42298576]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Tonga,42298576]]"
 coordinates_of_westernmost_point: "Point(-175.633333333 -15.6)"
 coordinates_of_easternmost_point: "Point(-173.716666666 -15.85)"
 UMLS_CUI: C0040407
@@ -155,12 +155,12 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Germany,183]]'
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 country: '[[_Standards/WikiData/WD~Tonga,678]]'
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -169,8 +169,8 @@ language_used:
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Tongan,34094]]'
-shares_border_with: "[[_Standards/WikiData/WD~United States,30]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+shares_border_with: "[[_Standards/WikiData/WD~United_States,30]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 inception: "1970-01-01T00:00:00Z"
 VAT_rate: 15
 marriageable_age: 18

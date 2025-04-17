@@ -34,69 +34,69 @@ Languages:
 - to
 has_id_wikidata: Q16641
 named_after:
-- "[[_Standards/WikiData/WD~Samoan Islands,162126]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Samoan_Islands,162126]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 anthem:
-- "[[_Standards/WikiData/WD~Amerika Samoa,179197]]"
-- "[[_Standards/WikiData/WD~The Star-Spangled Banner,44696]]"
-flag: "[[_Standards/WikiData/WD~flag of American Samoa,242502]]"
+- "[[_Standards/WikiData/WD~Amerika_Samoa,179197]]"
+- "[[_Standards/WikiData/WD~The_Star-Spangled_Banner,44696]]"
+flag: "[[_Standards/WikiData/WD~flag_of_American_Samoa,242502]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~Tutuila,269205]]'
-- "[[_Standards/WikiData/WD~Swains Island,1128488]]"
-- "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
-- "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
+- "[[_Standards/WikiData/WD~Swains_Island,1128488]]"
+- "[[_Standards/WikiData/WD~Manuʻa_District,1247537]]"
+- "[[_Standards/WikiData/WD~Rose_Atoll,1636779]]"
 instance_of:
-- "[[_Standards/WikiData/WD~insular area of the United States,462778]]"
-- "[[_Standards/WikiData/WD~unincorporated territory of the United States,783733]]"
-- "[[_Standards/WikiData/WD~political territorial entity,1048835]]"
-- "[[_Standards/WikiData/WD~territory of the United States,1352230]]"
+- "[[_Standards/WikiData/WD~insular_area_of_the_United_States,462778]]"
+- "[[_Standards/WikiData/WD~unincorporated_territory_of_the_United_States,783733]]"
+- "[[_Standards/WikiData/WD~political_territorial_entity,1048835]]"
+- "[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]"
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~New World Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Swains Island,1128488]]"
-- "[[_Standards/WikiData/WD~Manuʻa District,1247537]]"
-- "[[_Standards/WikiData/WD~Rose Atoll,1636779]]"
-- "[[_Standards/WikiData/WD~Western District,2437227]]"
-- "[[_Standards/WikiData/WD~Eastern District,2625563]]"
+- "[[_Standards/WikiData/WD~Swains_Island,1128488]]"
+- "[[_Standards/WikiData/WD~Manuʻa_District,1247537]]"
+- "[[_Standards/WikiData/WD~Rose_Atoll,1636779]]"
+- "[[_Standards/WikiData/WD~Western_District,2437227]]"
+- "[[_Standards/WikiData/WD~Eastern_District,2625563]]"
 ethnic_group:
 - '[[_Standards/WikiData/WD~Samoans,1135531]]'
-- "[[_Standards/WikiData/WD~Filipino people,4172847]]"
+- "[[_Standards/WikiData/WD~Filipino_people,4172847]]"
 - '[[_Standards/WikiData/WD~Tongans,41201692]]'
-highest_point: "[[_Standards/WikiData/WD~Lata Mountain,1226878]]"
-legislative_body: "[[_Standards/WikiData/WD~American Samoa Fono,1267503]]"
+highest_point: "[[_Standards/WikiData/WD~Lata_Mountain,1226878]]"
+legislative_body: "[[_Standards/WikiData/WD~American_Samoa_Fono,1267503]]"
 part_of:
 - '[[_Standards/WikiData/WD~Q3432631,3432631]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
 - '[[_Standards/WikiData/WD~Samoa,683]]'
-geography_of_topic: "[[_Standards/WikiData/WD~geography of American Samoa,4405805]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_American_Samoa,4405805]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Samoa Time Zone,4816926]]"
+- "[[_Standards/WikiData/WD~Samoa_Time_Zone,4816926]]"
 - '[[_Standards/WikiData/WD~Pacific_Pago_Pago,63285986]]'
 - '[[_Standards/WikiData/WD~UTC−11_00,2154]]'
-bibliography: "[[_Standards/WikiData/WD~bibliography of American Samoa,4903318]]"
-foundational_text: "[[_Standards/WikiData/WD~Constitution of American Samoa,5164161]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of American Samoa,5251985]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of American Samoa,5252010]]"
-executive_body: "[[_Standards/WikiData/WD~Government of American Samoa,5589175]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~High Court of American Samoa,5755207]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of American Samoa,5899251]]"
-head_of_government: "[[_Standards/WikiData/WD~Lemanu Peleti Mauga,6521013]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_American Samoa,6677306]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of American Samoa,7112177]]"
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_American_Samoa,4903318]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution_of_American_Samoa,5164161]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_American_Samoa,5251985]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_American_Samoa,5252010]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_American_Samoa,5589175]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~High_Court_of_American_Samoa,5755207]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_American_Samoa,5899251]]"
+head_of_government: "[[_Standards/WikiData/WD~Lemanu_Peleti_Mauga,6521013]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_American_Samoa,6677306]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_American_Samoa,7112177]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American Samoa,15612026]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor of American Samoa,20804530]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American_Samoa,15612026]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_American_Samoa,20804530]]"
 inception: "1899-01-01T00:00:00Z"
-archives_at: "[[_Standards/WikiData/WD~American Samoa Office of Archives and Records Management,106690731]]"
+archives_at: "[[_Standards/WikiData/WD~American_Samoa_Office_of_Archives_and_Records_Management,106690731]]"
 coordinates_of_easternmost_point: "Point(-168.151944444 -14.546666666)"
 UMLS_CUI: C0242536
 ISNI: 0000000404229726
@@ -110,7 +110,7 @@ motto_text:
 - "Samoa, Let God Be First"
 coordinates_of_southernmost_point: "Point(-168.152777777 -14.569722222)"
 coordinates_of_northernmost_point: "Point(-171.077777777 -11.055555555)"
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 different_from: '[[_Standards/WikiData/WD~Samoa,683]]'
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
@@ -118,10 +118,10 @@ official_language:
 language_used:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Samoan,34011]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United States,30]]"
-country: "[[_Standards/WikiData/WD~United States,30]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific Ocean,98]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United_States,30]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 mains_voltage: 120
 compulsory_education_maximum_age_: 18
 marriageable_age: 18
@@ -148,7 +148,7 @@ coordinate_location: "Point(-170.7075 -14.295833)"
 area: 199
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.as,41731]]'
 OpenStreetMap_zoom_level: 8
-capital: "[[_Standards/WikiData/WD~Pago Pago,51678]]"
+capital: "[[_Standards/WikiData/WD~Pago_Pago,51678]]"
 nominal_GDP: 709000000
 elevation_above_sea_level: 765
 FIPS_5_2_numeric_code_US_states_: 60

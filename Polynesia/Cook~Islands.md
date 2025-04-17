@@ -36,32 +36,32 @@ Languages:
 - en-CK
 - mi
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~associated state,1138279]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~associated_state,1138279]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~International Civil Aviation Organization,125761]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian Development Bank,188822]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
 capital: '[[_Standards/WikiData/WD~Avarua,170482]]'
-flag: "[[_Standards/WikiData/WD~flag of the Cook Islands,193693]]"
-highest_point: "[[_Standards/WikiData/WD~Te Manga,498069]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of the Cook Islands,647914]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of the Cook Islands,658660]]"
+flag: "[[_Standards/WikiData/WD~flag_of_the_Cook_Islands,193693]]"
+highest_point: "[[_Standards/WikiData/WD~Te_Manga,498069]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Cook_Islands,647914]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Cook_Islands,658660]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-part_of: "[[_Standards/WikiData/WD~Realm of New Zealand,889033]]"
-anthem: "[[_Standards/WikiData/WD~Te Atua Mou E,1147730]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+part_of: "[[_Standards/WikiData/WD~Realm_of_New_Zealand,889033]]"
+anthem: "[[_Standards/WikiData/WD~Te_Atua_Mou_E,1147730]]"
 has_part_s_: '[[_Standards/WikiData/WD~Mangaia,1359323]]'
-electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-head_of_government: "[[_Standards/WikiData/WD~Henry Puna,2569345]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of the Cook Islands,3044355]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+head_of_government: "[[_Standards/WikiData/WD~Henry_Puna,2569345]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Cook_Islands,3044355]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~998,25648832]]'
@@ -72,33 +72,33 @@ language_used:
 - '[[_Standards/WikiData/WD~Rarotongan,31204110]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Pukapukan,36447]]'
-- "[[_Standards/WikiData/WD~Cook Islands Maori,36745]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Cook Islands,3578713]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of the Cook Islands,7112755]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of the Cook Islands,7138950]]"
+- "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Cook_Islands,3578713]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cook_Islands,7112755]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_Cook_Islands,7138950]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of New Zealand,14931517]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_New_Zealand,14931517]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q26834319,26834319]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cook Islands,28777635]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of the Cook Islands,39593532]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cook_Islands,28777635]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Cook_Islands,39593532]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Rarotonga,63285979]]'
 - '[[_Standards/WikiData/WD~UTC−10_00,2163]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS006-E-38664%20-%20View%20of%20the%20Cook%20Islands.jpg"
-continent: "[[_Standards/WikiData/WD~Insular Oceania,538]]"
+continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~Cook Islands Maori,36745]]"
-country: "[[_Standards/WikiData/WD~Cook Islands,26988]]"
+- "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
+country: "[[_Standards/WikiData/WD~Cook_Islands,26988]]"
 mains_voltage: 240
 area: 240
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
 twinned_administrative_body: '[[_Standards/WikiData/WD~Auckland,37100]]'
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ck,42270]]'
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 number_of_out_of_school_children: 366
 M49_code: 184
 ISO_3166_1_numeric_code: 184

@@ -41,15 +41,17 @@ markerFolder: ./Palmerston/
 
 ## Confidential Links & Embeds: 
 
-### [Palmerston.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.public.md) 
+### [Palmerston](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.md) 
 
-### [Palmerston.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.internal.md) 
+### [Palmerston.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.public.md) 
 
-### [Palmerston.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.protect.md) 
+### [Palmerston.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.internal.md) 
 
-### [Palmerston.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.private.md) 
+### [Palmerston.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.protect.md) 
 
-### [Palmerston.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.personal.md) 
+### [Palmerston.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.private.md) 
 
-### [Palmerston.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPalmerston.secret.md)
+### [Palmerston.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.personal.md) 
+
+### [Palmerston.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Palmerston.secret.md)
 

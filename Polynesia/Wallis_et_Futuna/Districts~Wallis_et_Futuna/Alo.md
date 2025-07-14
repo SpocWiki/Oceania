@@ -40,15 +40,17 @@ markerFolder: ./Alo/
 
 ## Confidential Links & Embeds: 
 
-### [Alo.public](/_public/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.public.md) 
+### [Alo](/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.md) 
 
-### [Alo.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.internal.md) 
+### [Alo.public](/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.public.md) 
 
-### [Alo.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.protect.md) 
+### [Alo.internal](/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.internal.md) 
 
-### [Alo.private](/_private/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.private.md) 
+### [Alo.protect](/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.protect.md) 
 
-### [Alo.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.personal.md) 
+### [Alo.private](/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.private.md) 
 
-### [Alo.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaAlo.secret.md)
+### [Alo.personal](/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.personal.md) 
+
+### [Alo.secret](/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Alo.secret.md)
 

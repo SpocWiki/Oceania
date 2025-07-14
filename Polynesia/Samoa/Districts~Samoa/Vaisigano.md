@@ -41,15 +41,17 @@ markerFolder: ./Vaisigano/
 
 ## Confidential Links & Embeds: 
 
-### [Vaisigano.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.public.md) 
+### [Vaisigano](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.md) 
 
-### [Vaisigano.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.internal.md) 
+### [Vaisigano.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.public.md) 
 
-### [Vaisigano.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.protect.md) 
+### [Vaisigano.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.internal.md) 
 
-### [Vaisigano.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.private.md) 
+### [Vaisigano.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.protect.md) 
 
-### [Vaisigano.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.personal.md) 
+### [Vaisigano.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.private.md) 
 
-### [Vaisigano.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaVaisigano.secret.md)
+### [Vaisigano.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.personal.md) 
+
+### [Vaisigano.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Vaisigano.secret.md)
 

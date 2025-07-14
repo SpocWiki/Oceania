@@ -374,15 +374,17 @@ Capital :: [[Nuku_alofa]]
 
 ## Confidential Links & Embeds: 
 
-### [Tonga.public](/_public/\Earth\Continent\Oceania\PolynesiaTonga.public.md) 
+### [Tonga](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga.md) 
 
-### [Tonga.internal](/_internal/\Earth\Continent\Oceania\PolynesiaTonga.internal.md) 
+### [Tonga.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga.public.md) 
 
-### [Tonga.protect](/_protect/\Earth\Continent\Oceania\PolynesiaTonga.protect.md) 
+### [Tonga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga.internal.md) 
 
-### [Tonga.private](/_private/\Earth\Continent\Oceania\PolynesiaTonga.private.md) 
+### [Tonga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga.protect.md) 
 
-### [Tonga.personal](/_personal/\Earth\Continent\Oceania\PolynesiaTonga.personal.md) 
+### [Tonga.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga.private.md) 
 
-### [Tonga.secret](/_secret/\Earth\Continent\Oceania\PolynesiaTonga.secret.md)
+### [Tonga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga.personal.md) 
+
+### [Tonga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga.secret.md)
 

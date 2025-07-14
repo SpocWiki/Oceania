@@ -41,15 +41,17 @@ Capital :: [[Mata-Utu]]
 
 ## Confidential Links & Embeds: 
 
-### [Wallis_et_Futuna.public](/_public/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.public.md) 
+### [Wallis_et_Futuna](/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.md) 
 
-### [Wallis_et_Futuna.internal](/_internal/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.internal.md) 
+### [Wallis_et_Futuna.public](/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.public.md) 
 
-### [Wallis_et_Futuna.protect](/_protect/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.protect.md) 
+### [Wallis_et_Futuna.internal](/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.internal.md) 
 
-### [Wallis_et_Futuna.private](/_private/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.private.md) 
+### [Wallis_et_Futuna.protect](/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.protect.md) 
 
-### [Wallis_et_Futuna.personal](/_personal/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.personal.md) 
+### [Wallis_et_Futuna.private](/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.private.md) 
 
-### [Wallis_et_Futuna.secret](/_secret/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.secret.md)
+### [Wallis_et_Futuna.personal](/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.personal.md) 
+
+### [Wallis_et_Futuna.secret](/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna.secret.md)
 

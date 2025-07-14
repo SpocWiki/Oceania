@@ -40,15 +40,17 @@ markerFolder: ./
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\OceaniaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Oceania/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\OceaniaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Oceania/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\OceaniaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Oceania/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\OceaniaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Oceania/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\OceaniaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Oceania/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\OceaniaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Oceania/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Oceania/ReadMe.secret.md)
 

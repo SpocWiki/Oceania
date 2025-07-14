@@ -41,15 +41,17 @@ markerFolder: ./Aiga-i-le-Tai/
 
 ## Confidential Links & Embeds: 
 
-### [Aiga-i-le-Tai.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.public.md) 
+### [Aiga-i-le-Tai](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.md) 
 
-### [Aiga-i-le-Tai.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.internal.md) 
+### [Aiga-i-le-Tai.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.public.md) 
 
-### [Aiga-i-le-Tai.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.protect.md) 
+### [Aiga-i-le-Tai.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.internal.md) 
 
-### [Aiga-i-le-Tai.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.private.md) 
+### [Aiga-i-le-Tai.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.protect.md) 
 
-### [Aiga-i-le-Tai.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.personal.md) 
+### [Aiga-i-le-Tai.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.private.md) 
 
-### [Aiga-i-le-Tai.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAiga-i-le-Tai.secret.md)
+### [Aiga-i-le-Tai.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.personal.md) 
+
+### [Aiga-i-le-Tai.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Aiga-i-le-Tai.secret.md)
 

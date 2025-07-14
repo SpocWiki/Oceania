@@ -131,15 +131,17 @@ Capital :: [[Alofi]]
 
 ## Confidential Links & Embeds: 
 
-### [Niue.public](/_public/\Earth\Continent\Oceania\PolynesiaNiue.public.md) 
+### [Niue](/_Standards/Earth/Continent/Oceania/Polynesia/Niue.md) 
 
-### [Niue.internal](/_internal/\Earth\Continent\Oceania\PolynesiaNiue.internal.md) 
+### [Niue.public](/_public/Earth/Continent/Oceania/Polynesia/Niue.public.md) 
 
-### [Niue.protect](/_protect/\Earth\Continent\Oceania\PolynesiaNiue.protect.md) 
+### [Niue.internal](/_internal/Earth/Continent/Oceania/Polynesia/Niue.internal.md) 
 
-### [Niue.private](/_private/\Earth\Continent\Oceania\PolynesiaNiue.private.md) 
+### [Niue.protect](/_protect/Earth/Continent/Oceania/Polynesia/Niue.protect.md) 
 
-### [Niue.personal](/_personal/\Earth\Continent\Oceania\PolynesiaNiue.personal.md) 
+### [Niue.private](/_private/Earth/Continent/Oceania/Polynesia/Niue.private.md) 
 
-### [Niue.secret](/_secret/\Earth\Continent\Oceania\PolynesiaNiue.secret.md)
+### [Niue.personal](/_personal/Earth/Continent/Oceania/Polynesia/Niue.personal.md) 
+
+### [Niue.secret](/_secret/Earth/Continent/Oceania/Polynesia/Niue.secret.md)
 

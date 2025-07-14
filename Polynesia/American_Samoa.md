@@ -301,15 +301,17 @@ Capital :: [[Pago_Pago]]
 
 ## Confidential Links & Embeds: 
 
-### [American_Samoa.public](/_public/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.public.md) 
+### [American_Samoa](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa.md) 
 
-### [American_Samoa.internal](/_internal/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.internal.md) 
+### [American_Samoa.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa.public.md) 
 
-### [American_Samoa.protect](/_protect/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.protect.md) 
+### [American_Samoa.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa.internal.md) 
 
-### [American_Samoa.private](/_private/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.private.md) 
+### [American_Samoa.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa.protect.md) 
 
-### [American_Samoa.personal](/_personal/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.personal.md) 
+### [American_Samoa.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa.private.md) 
 
-### [American_Samoa.secret](/_secret/\Earth\Continent\Oceania\PolynesiaAmerican_Samoa.secret.md)
+### [American_Samoa.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa.personal.md) 
+
+### [American_Samoa.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa.secret.md)
 

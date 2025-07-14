@@ -25,18 +25,19 @@ type: folder_brief_live
  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Polynesia.public](/_public/\Earth\Continent\OceaniaPolynesia.public.md) 
+### [Polynesia](/_Standards/Earth/Continent/Oceania/Polynesia.md) 
 
-### [Polynesia.internal](/_internal/\Earth\Continent\OceaniaPolynesia.internal.md) 
+### [Polynesia.public](/_public/Earth/Continent/Oceania/Polynesia.public.md) 
 
-### [Polynesia.protect](/_protect/\Earth\Continent\OceaniaPolynesia.protect.md) 
+### [Polynesia.internal](/_internal/Earth/Continent/Oceania/Polynesia.internal.md) 
 
-### [Polynesia.private](/_private/\Earth\Continent\OceaniaPolynesia.private.md) 
+### [Polynesia.protect](/_protect/Earth/Continent/Oceania/Polynesia.protect.md) 
 
-### [Polynesia.personal](/_personal/\Earth\Continent\OceaniaPolynesia.personal.md) 
+### [Polynesia.private](/_private/Earth/Continent/Oceania/Polynesia.private.md) 
 
-### [Polynesia.secret](/_secret/\Earth\Continent\OceaniaPolynesia.secret.md)
+### [Polynesia.personal](/_personal/Earth/Continent/Oceania/Polynesia.personal.md) 
+
+### [Polynesia.secret](/_secret/Earth/Continent/Oceania/Polynesia.secret.md)
 

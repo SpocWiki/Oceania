@@ -41,15 +41,17 @@ markerFolder: ./Rarotonga/
 
 ## Confidential Links & Embeds: 
 
-### [Rarotonga.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.public.md) 
+### [Rarotonga](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.md) 
 
-### [Rarotonga.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.internal.md) 
+### [Rarotonga.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.public.md) 
 
-### [Rarotonga.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.protect.md) 
+### [Rarotonga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.internal.md) 
 
-### [Rarotonga.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.private.md) 
+### [Rarotonga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.protect.md) 
 
-### [Rarotonga.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.personal.md) 
+### [Rarotonga.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.private.md) 
 
-### [Rarotonga.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRarotonga.secret.md)
+### [Rarotonga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.personal.md) 
+
+### [Rarotonga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rarotonga.secret.md)
 

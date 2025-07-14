@@ -41,15 +41,17 @@ markerFolder: ./Mitiaro/
 
 ## Confidential Links & Embeds: 
 
-### [Mitiaro.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.public.md) 
+### [Mitiaro](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.md) 
 
-### [Mitiaro.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.internal.md) 
+### [Mitiaro.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.public.md) 
 
-### [Mitiaro.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.protect.md) 
+### [Mitiaro.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.internal.md) 
 
-### [Mitiaro.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.private.md) 
+### [Mitiaro.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.protect.md) 
 
-### [Mitiaro.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.personal.md) 
+### [Mitiaro.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.private.md) 
 
-### [Mitiaro.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMitiaro.secret.md)
+### [Mitiaro.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.personal.md) 
+
+### [Mitiaro.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mitiaro.secret.md)
 

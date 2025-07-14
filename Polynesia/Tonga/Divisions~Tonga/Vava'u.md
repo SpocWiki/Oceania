@@ -41,15 +41,17 @@ markerFolder: ./Vava'u/
 
 ## Confidential Links & Embeds: 
 
-### [Vava'u.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.public.md) 
+### [Vava'u](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.md) 
 
-### [Vava'u.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.internal.md) 
+### [Vava'u.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.public.md) 
 
-### [Vava'u.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.protect.md) 
+### [Vava'u.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.internal.md) 
 
-### [Vava'u.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.private.md) 
+### [Vava'u.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.protect.md) 
 
-### [Vava'u.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.personal.md) 
+### [Vava'u.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.private.md) 
 
-### [Vava'u.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.secret.md)
+### [Vava'u.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.personal.md) 
+
+### [Vava'u.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Vava'u.secret.md)
 

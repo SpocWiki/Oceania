@@ -41,15 +41,17 @@ markerFolder: ./Swain's_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Swain's_Island.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.public.md) 
+### [Swain's_Island](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.md) 
 
-### [Swain's_Island.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.internal.md) 
+### [Swain's_Island.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.public.md) 
 
-### [Swain's_Island.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.protect.md) 
+### [Swain's_Island.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.internal.md) 
 
-### [Swain's_Island.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.private.md) 
+### [Swain's_Island.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.protect.md) 
 
-### [Swain's_Island.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.personal.md) 
+### [Swain's_Island.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.private.md) 
 
-### [Swain's_Island.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaSwain's_Island.secret.md)
+### [Swain's_Island.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.personal.md) 
+
+### [Swain's_Island.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.secret.md)
 

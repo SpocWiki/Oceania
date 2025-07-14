@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apia.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.public.md) 
+### [Apia](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.md) 
 
-### [Apia.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.internal.md) 
+### [Apia.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.public.md) 
 
-### [Apia.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.protect.md) 
+### [Apia.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.internal.md) 
 
-### [Apia.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.private.md) 
+### [Apia.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.protect.md) 
 
-### [Apia.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.personal.md) 
+### [Apia.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.private.md) 
 
-### [Apia.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.secret.md)
+### [Apia.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.personal.md) 
+
+### [Apia.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.secret.md)
 

@@ -142,15 +142,17 @@ Capital :: [[Apia]]
 
 ## Confidential Links & Embeds: 
 
-### [Samoa.public](/_public/\Earth\Continent\Oceania\PolynesiaSamoa.public.md) 
+### [Samoa](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa.md) 
 
-### [Samoa.internal](/_internal/\Earth\Continent\Oceania\PolynesiaSamoa.internal.md) 
+### [Samoa.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa.public.md) 
 
-### [Samoa.protect](/_protect/\Earth\Continent\Oceania\PolynesiaSamoa.protect.md) 
+### [Samoa.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa.internal.md) 
 
-### [Samoa.private](/_private/\Earth\Continent\Oceania\PolynesiaSamoa.private.md) 
+### [Samoa.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa.protect.md) 
 
-### [Samoa.personal](/_personal/\Earth\Continent\Oceania\PolynesiaSamoa.personal.md) 
+### [Samoa.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa.private.md) 
 
-### [Samoa.secret](/_secret/\Earth\Continent\Oceania\PolynesiaSamoa.secret.md)
+### [Samoa.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa.personal.md) 
+
+### [Samoa.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa.secret.md)
 

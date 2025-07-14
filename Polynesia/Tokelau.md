@@ -132,15 +132,17 @@ Capital :: [[Fakaofo]]
 
 ## Confidential Links & Embeds: 
 
-### [Tokelau.public](/_public/\Earth\Continent\Oceania\PolynesiaTokelau.public.md) 
+### [Tokelau](/_Standards/Earth/Continent/Oceania/Polynesia/Tokelau.md) 
 
-### [Tokelau.internal](/_internal/\Earth\Continent\Oceania\PolynesiaTokelau.internal.md) 
+### [Tokelau.public](/_public/Earth/Continent/Oceania/Polynesia/Tokelau.public.md) 
 
-### [Tokelau.protect](/_protect/\Earth\Continent\Oceania\PolynesiaTokelau.protect.md) 
+### [Tokelau.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tokelau.internal.md) 
 
-### [Tokelau.private](/_private/\Earth\Continent\Oceania\PolynesiaTokelau.private.md) 
+### [Tokelau.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tokelau.protect.md) 
 
-### [Tokelau.personal](/_personal/\Earth\Continent\Oceania\PolynesiaTokelau.personal.md) 
+### [Tokelau.private](/_private/Earth/Continent/Oceania/Polynesia/Tokelau.private.md) 
 
-### [Tokelau.secret](/_secret/\Earth\Continent\Oceania\PolynesiaTokelau.secret.md)
+### [Tokelau.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tokelau.personal.md) 
+
+### [Tokelau.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tokelau.secret.md)
 

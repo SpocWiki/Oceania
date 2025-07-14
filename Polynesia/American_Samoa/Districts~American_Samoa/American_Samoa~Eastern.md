@@ -41,15 +41,17 @@ markerFolder: ./American_Samoa~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### [American_Samoa~Eastern.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.public.md) 
+### [American_Samoa~Eastern](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.md) 
 
-### [American_Samoa~Eastern.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.internal.md) 
+### [American_Samoa~Eastern.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.public.md) 
 
-### [American_Samoa~Eastern.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.protect.md) 
+### [American_Samoa~Eastern.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.internal.md) 
 
-### [American_Samoa~Eastern.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.private.md) 
+### [American_Samoa~Eastern.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.protect.md) 
 
-### [American_Samoa~Eastern.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.personal.md) 
+### [American_Samoa~Eastern.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.private.md) 
 
-### [American_Samoa~Eastern.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.secret.md)
+### [American_Samoa~Eastern.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.personal.md) 
+
+### [American_Samoa~Eastern.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./'Eua/
 
 ## Confidential Links & Embeds: 
 
-### ['Eua.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.public.md) 
+### ['Eua](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.md) 
 
-### ['Eua.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.internal.md) 
+### ['Eua.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.public.md) 
 
-### ['Eua.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.protect.md) 
+### ['Eua.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.internal.md) 
 
-### ['Eua.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.private.md) 
+### ['Eua.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.protect.md) 
 
-### ['Eua.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.personal.md) 
+### ['Eua.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.private.md) 
 
-### ['Eua.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.secret.md)
+### ['Eua.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.personal.md) 
+
+### ['Eua.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/'Eua.secret.md)
 

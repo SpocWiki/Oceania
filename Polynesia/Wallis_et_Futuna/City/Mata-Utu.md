@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mata-Utu.public](/_public/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.public.md) 
+### [Mata-Utu](/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.md) 
 
-### [Mata-Utu.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.internal.md) 
+### [Mata-Utu.public](/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.public.md) 
 
-### [Mata-Utu.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.protect.md) 
+### [Mata-Utu.internal](/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.internal.md) 
 
-### [Mata-Utu.private](/_private/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.private.md) 
+### [Mata-Utu.protect](/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.protect.md) 
 
-### [Mata-Utu.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.personal.md) 
+### [Mata-Utu.private](/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.private.md) 
 
-### [Mata-Utu.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\CityMata-Utu.secret.md)
+### [Mata-Utu.personal](/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.personal.md) 
+
+### [Mata-Utu.secret](/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.secret.md)
 

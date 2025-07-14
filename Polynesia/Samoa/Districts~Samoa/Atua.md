@@ -41,15 +41,17 @@ markerFolder: ./Atua/
 
 ## Confidential Links & Embeds: 
 
-### [Atua.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.public.md) 
+### [Atua](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.md) 
 
-### [Atua.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.internal.md) 
+### [Atua.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.public.md) 
 
-### [Atua.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.protect.md) 
+### [Atua.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.internal.md) 
 
-### [Atua.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.private.md) 
+### [Atua.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.protect.md) 
 
-### [Atua.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.personal.md) 
+### [Atua.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.private.md) 
 
-### [Atua.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaAtua.secret.md)
+### [Atua.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.personal.md) 
+
+### [Atua.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Atua.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adamstown.public](/_public/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.public.md) 
+### [Adamstown](/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.md) 
 
-### [Adamstown.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.internal.md) 
+### [Adamstown.public](/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.public.md) 
 
-### [Adamstown.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.protect.md) 
+### [Adamstown.internal](/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.internal.md) 
 
-### [Adamstown.private](/_private/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.private.md) 
+### [Adamstown.protect](/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.protect.md) 
 
-### [Adamstown.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.personal.md) 
+### [Adamstown.private](/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.private.md) 
 
-### [Adamstown.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.secret.md)
+### [Adamstown.personal](/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.personal.md) 
+
+### [Adamstown.secret](/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.secret.md)
 

@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\OceaniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Oceania/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\OceaniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Oceania/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\OceaniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Oceania/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\OceaniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Oceania/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\OceaniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Oceania/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\OceaniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Oceania/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Oceania/License.secret.md)
 

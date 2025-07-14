@@ -133,15 +133,17 @@ Capital :: [[South_Tarawa]]
 
 ## Confidential Links & Embeds: 
 
-### [Kiribati-East.public](/_public/\Earth\Continent\Oceania\PolynesiaKiribati-East.public.md) 
+### [Kiribati-East](/_Standards/Earth/Continent/Oceania/Polynesia/Kiribati-East.md) 
 
-### [Kiribati-East.internal](/_internal/\Earth\Continent\Oceania\PolynesiaKiribati-East.internal.md) 
+### [Kiribati-East.public](/_public/Earth/Continent/Oceania/Polynesia/Kiribati-East.public.md) 
 
-### [Kiribati-East.protect](/_protect/\Earth\Continent\Oceania\PolynesiaKiribati-East.protect.md) 
+### [Kiribati-East.internal](/_internal/Earth/Continent/Oceania/Polynesia/Kiribati-East.internal.md) 
 
-### [Kiribati-East.private](/_private/\Earth\Continent\Oceania\PolynesiaKiribati-East.private.md) 
+### [Kiribati-East.protect](/_protect/Earth/Continent/Oceania/Polynesia/Kiribati-East.protect.md) 
 
-### [Kiribati-East.personal](/_personal/\Earth\Continent\Oceania\PolynesiaKiribati-East.personal.md) 
+### [Kiribati-East.private](/_private/Earth/Continent/Oceania/Polynesia/Kiribati-East.private.md) 
 
-### [Kiribati-East.secret](/_secret/\Earth\Continent\Oceania\PolynesiaKiribati-East.secret.md)
+### [Kiribati-East.personal](/_personal/Earth/Continent/Oceania/Polynesia/Kiribati-East.personal.md) 
+
+### [Kiribati-East.secret](/_secret/Earth/Continent/Oceania/Polynesia/Kiribati-East.secret.md)
 

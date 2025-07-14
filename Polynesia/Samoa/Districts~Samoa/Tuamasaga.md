@@ -41,15 +41,17 @@ markerFolder: ./Tuamasaga/
 
 ## Confidential Links & Embeds: 
 
-### [Tuamasaga.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.public.md) 
+### [Tuamasaga](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.md) 
 
-### [Tuamasaga.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.internal.md) 
+### [Tuamasaga.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.public.md) 
 
-### [Tuamasaga.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.protect.md) 
+### [Tuamasaga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.internal.md) 
 
-### [Tuamasaga.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.private.md) 
+### [Tuamasaga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.protect.md) 
 
-### [Tuamasaga.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.personal.md) 
+### [Tuamasaga.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.private.md) 
 
-### [Tuamasaga.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaTuamasaga.secret.md)
+### [Tuamasaga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.personal.md) 
+
+### [Tuamasaga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Tuamasaga.secret.md)
 

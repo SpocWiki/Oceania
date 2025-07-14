@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fakaofo.public](/_public/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.public.md) 
+### [Fakaofo](/_Standards/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.md) 
 
-### [Fakaofo.internal](/_internal/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.internal.md) 
+### [Fakaofo.public](/_public/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.public.md) 
 
-### [Fakaofo.protect](/_protect/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.protect.md) 
+### [Fakaofo.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.internal.md) 
 
-### [Fakaofo.private](/_private/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.private.md) 
+### [Fakaofo.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.protect.md) 
 
-### [Fakaofo.personal](/_personal/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.personal.md) 
+### [Fakaofo.private](/_private/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.private.md) 
 
-### [Fakaofo.secret](/_secret/\Earth\Continent\Oceania\Polynesia\TokelauFakaofo.secret.md)
+### [Fakaofo.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.personal.md) 
+
+### [Fakaofo.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tokelau/Fakaofo.secret.md)
 

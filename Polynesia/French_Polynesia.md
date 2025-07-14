@@ -132,15 +132,17 @@ Capital :: [[Papeete]]
 
 ## Confidential Links & Embeds: 
 
-### [French_Polynesia.public](/_public/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.public.md) 
+### [French_Polynesia](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia.md) 
 
-### [French_Polynesia.internal](/_internal/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.internal.md) 
+### [French_Polynesia.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia.public.md) 
 
-### [French_Polynesia.protect](/_protect/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.protect.md) 
+### [French_Polynesia.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia.internal.md) 
 
-### [French_Polynesia.private](/_private/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.private.md) 
+### [French_Polynesia.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia.protect.md) 
 
-### [French_Polynesia.personal](/_personal/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.personal.md) 
+### [French_Polynesia.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia.private.md) 
 
-### [French_Polynesia.secret](/_secret/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.secret.md)
+### [French_Polynesia.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia.personal.md) 
+
+### [French_Polynesia.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia.secret.md)
 

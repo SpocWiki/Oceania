@@ -41,15 +41,17 @@ markerFolder: ./Atiu/
 
 ## Confidential Links & Embeds: 
 
-### [Atiu.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.public.md) 
+### [Atiu](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.md) 
 
-### [Atiu.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.internal.md) 
+### [Atiu.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.public.md) 
 
-### [Atiu.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.protect.md) 
+### [Atiu.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.internal.md) 
 
-### [Atiu.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.private.md) 
+### [Atiu.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.protect.md) 
 
-### [Atiu.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.personal.md) 
+### [Atiu.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.private.md) 
 
-### [Atiu.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAtiu.secret.md)
+### [Atiu.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.personal.md) 
+
+### [Atiu.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Atiu.secret.md)
 

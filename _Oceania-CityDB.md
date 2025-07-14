@@ -343,15 +343,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Oceania-CityDB.public](/_public/\Earth\Continent\Oceania_Oceania-CityDB.public.md) 
+### [_Oceania-CityDB](/_Standards/Earth/Continent/Oceania/_Oceania-CityDB.md) 
 
-### [_Oceania-CityDB.internal](/_internal/\Earth\Continent\Oceania_Oceania-CityDB.internal.md) 
+### [_Oceania-CityDB.public](/_public/Earth/Continent/Oceania/_Oceania-CityDB.public.md) 
 
-### [_Oceania-CityDB.protect](/_protect/\Earth\Continent\Oceania_Oceania-CityDB.protect.md) 
+### [_Oceania-CityDB.internal](/_internal/Earth/Continent/Oceania/_Oceania-CityDB.internal.md) 
 
-### [_Oceania-CityDB.private](/_private/\Earth\Continent\Oceania_Oceania-CityDB.private.md) 
+### [_Oceania-CityDB.protect](/_protect/Earth/Continent/Oceania/_Oceania-CityDB.protect.md) 
 
-### [_Oceania-CityDB.personal](/_personal/\Earth\Continent\Oceania_Oceania-CityDB.personal.md) 
+### [_Oceania-CityDB.private](/_private/Earth/Continent/Oceania/_Oceania-CityDB.private.md) 
 
-### [_Oceania-CityDB.secret](/_secret/\Earth\Continent\Oceania_Oceania-CityDB.secret.md)
+### [_Oceania-CityDB.personal](/_personal/Earth/Continent/Oceania/_Oceania-CityDB.personal.md) 
+
+### [_Oceania-CityDB.secret](/_secret/Earth/Continent/Oceania/_Oceania-CityDB.secret.md)
 

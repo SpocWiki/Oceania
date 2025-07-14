@@ -41,15 +41,17 @@ markerFolder: ./Ha'apai/
 
 ## Confidential Links & Embeds: 
 
-### [Ha'apai.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.public.md) 
+### [Ha'apai](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.md) 
 
-### [Ha'apai.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.internal.md) 
+### [Ha'apai.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.public.md) 
 
-### [Ha'apai.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.protect.md) 
+### [Ha'apai.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.internal.md) 
 
-### [Ha'apai.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.private.md) 
+### [Ha'apai.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.protect.md) 
 
-### [Ha'apai.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.personal.md) 
+### [Ha'apai.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.private.md) 
 
-### [Ha'apai.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.secret.md)
+### [Ha'apai.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.personal.md) 
+
+### [Ha'apai.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Ha'apai.secret.md)
 

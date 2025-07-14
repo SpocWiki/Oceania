@@ -41,15 +41,17 @@ markerFolder: ./Mangaia/
 
 ## Confidential Links & Embeds: 
 
-### [Mangaia.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.public.md) 
+### [Mangaia](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.md) 
 
-### [Mangaia.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.internal.md) 
+### [Mangaia.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.public.md) 
 
-### [Mangaia.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.protect.md) 
+### [Mangaia.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.internal.md) 
 
-### [Mangaia.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.private.md) 
+### [Mangaia.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.protect.md) 
 
-### [Mangaia.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.personal.md) 
+### [Mangaia.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.private.md) 
 
-### [Mangaia.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.secret.md)
+### [Mangaia.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.personal.md) 
+
+### [Mangaia.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mangaia.secret.md)
 

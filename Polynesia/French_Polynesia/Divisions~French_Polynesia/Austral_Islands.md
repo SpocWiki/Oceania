@@ -41,15 +41,17 @@ markerFolder: ./Austral_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Austral_Islands.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.public.md) 
+### [Austral_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.md) 
 
-### [Austral_Islands.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.internal.md) 
+### [Austral_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.public.md) 
 
-### [Austral_Islands.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.protect.md) 
+### [Austral_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.internal.md) 
 
-### [Austral_Islands.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.private.md) 
+### [Austral_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.protect.md) 
 
-### [Austral_Islands.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.personal.md) 
+### [Austral_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.private.md) 
 
-### [Austral_Islands.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.secret.md)
+### [Austral_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.personal.md) 
+
+### [Austral_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.secret.md)
 

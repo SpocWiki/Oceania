@@ -41,15 +41,17 @@ markerFolder: ./American_Samoa~Western/
 
 ## Confidential Links & Embeds: 
 
-### [American_Samoa~Western.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.public.md) 
+### [American_Samoa~Western](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.md) 
 
-### [American_Samoa~Western.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.internal.md) 
+### [American_Samoa~Western.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.public.md) 
 
-### [American_Samoa~Western.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.protect.md) 
+### [American_Samoa~Western.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.internal.md) 
 
-### [American_Samoa~Western.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.private.md) 
+### [American_Samoa~Western.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.protect.md) 
 
-### [American_Samoa~Western.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.personal.md) 
+### [American_Samoa~Western.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.private.md) 
 
-### [American_Samoa~Western.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Western.secret.md)
+### [American_Samoa~Western.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.personal.md) 
+
+### [American_Samoa~Western.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Western.secret.md)
 

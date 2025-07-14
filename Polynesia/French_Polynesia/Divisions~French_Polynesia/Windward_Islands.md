@@ -41,15 +41,17 @@ markerFolder: ./Windward_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Windward_Islands.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.public.md) 
+### [Windward_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.md) 
 
-### [Windward_Islands.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.internal.md) 
+### [Windward_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.public.md) 
 
-### [Windward_Islands.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.protect.md) 
+### [Windward_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.internal.md) 
 
-### [Windward_Islands.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.private.md) 
+### [Windward_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.protect.md) 
 
-### [Windward_Islands.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.personal.md) 
+### [Windward_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.private.md) 
 
-### [Windward_Islands.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaWindward_Islands.secret.md)
+### [Windward_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.personal.md) 
+
+### [Windward_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.secret.md)
 

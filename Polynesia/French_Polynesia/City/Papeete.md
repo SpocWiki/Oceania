@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Papeete.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.public.md) 
+### [Papeete](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.md) 
 
-### [Papeete.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.internal.md) 
+### [Papeete.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.public.md) 
 
-### [Papeete.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.protect.md) 
+### [Papeete.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.internal.md) 
 
-### [Papeete.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.private.md) 
+### [Papeete.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.protect.md) 
 
-### [Papeete.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.personal.md) 
+### [Papeete.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.private.md) 
 
-### [Papeete.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.secret.md)
+### [Papeete.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.personal.md) 
+
+### [Papeete.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.secret.md)
 

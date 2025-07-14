@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alofi.public](/_public/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.public.md) 
+### [Alofi](/_Standards/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.md) 
 
-### [Alofi.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.internal.md) 
+### [Alofi.public](/_public/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.public.md) 
 
-### [Alofi.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.protect.md) 
+### [Alofi.internal](/_internal/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.internal.md) 
 
-### [Alofi.private](/_private/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.private.md) 
+### [Alofi.protect](/_protect/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.protect.md) 
 
-### [Alofi.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.personal.md) 
+### [Alofi.private](/_private/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.private.md) 
 
-### [Alofi.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.secret.md)
+### [Alofi.personal](/_personal/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.personal.md) 
+
+### [Alofi.secret](/_secret/Earth/Continent/Oceania/Polynesia/Niue/City/Alofi.secret.md)
 

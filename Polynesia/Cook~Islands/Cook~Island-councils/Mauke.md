@@ -41,15 +41,17 @@ markerFolder: ./Mauke/
 
 ## Confidential Links & Embeds: 
 
-### [Mauke.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.public.md) 
+### [Mauke](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.md) 
 
-### [Mauke.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.internal.md) 
+### [Mauke.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.public.md) 
 
-### [Mauke.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.protect.md) 
+### [Mauke.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.internal.md) 
 
-### [Mauke.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.private.md) 
+### [Mauke.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.protect.md) 
 
-### [Mauke.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.personal.md) 
+### [Mauke.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.private.md) 
 
-### [Mauke.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMauke.secret.md)
+### [Mauke.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.personal.md) 
+
+### [Mauke.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Mauke.secret.md)
 

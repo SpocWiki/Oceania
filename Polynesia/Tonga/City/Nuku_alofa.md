@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nuku_alofa.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.public.md) 
+### [Nuku_alofa](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.md) 
 
-### [Nuku_alofa.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.internal.md) 
+### [Nuku_alofa.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.public.md) 
 
-### [Nuku_alofa.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.protect.md) 
+### [Nuku_alofa.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.internal.md) 
 
-### [Nuku_alofa.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.private.md) 
+### [Nuku_alofa.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.protect.md) 
 
-### [Nuku_alofa.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.personal.md) 
+### [Nuku_alofa.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.private.md) 
 
-### [Nuku_alofa.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.secret.md)
+### [Nuku_alofa.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.personal.md) 
+
+### [Nuku_alofa.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.secret.md)
 

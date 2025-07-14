@@ -37,15 +37,17 @@ Capital :: [[Adamstown]]
 
 ## Confidential Links & Embeds: 
 
-### [Pitcairn~Islands.public](/_public/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.public.md) 
+### [Pitcairn~Islands](/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.md) 
 
-### [Pitcairn~Islands.internal](/_internal/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.internal.md) 
+### [Pitcairn~Islands.public](/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.public.md) 
 
-### [Pitcairn~Islands.protect](/_protect/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.protect.md) 
+### [Pitcairn~Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.internal.md) 
 
-### [Pitcairn~Islands.private](/_private/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.private.md) 
+### [Pitcairn~Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.protect.md) 
 
-### [Pitcairn~Islands.personal](/_personal/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.personal.md) 
+### [Pitcairn~Islands.private](/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.private.md) 
 
-### [Pitcairn~Islands.secret](/_secret/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.secret.md)
+### [Pitcairn~Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.personal.md) 
+
+### [Pitcairn~Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.secret.md)
 

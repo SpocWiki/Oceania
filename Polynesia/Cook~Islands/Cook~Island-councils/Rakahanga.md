@@ -41,15 +41,17 @@ markerFolder: ./Rakahanga/
 
 ## Confidential Links & Embeds: 
 
-### [Rakahanga.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.public.md) 
+### [Rakahanga](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.md) 
 
-### [Rakahanga.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.internal.md) 
+### [Rakahanga.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.public.md) 
 
-### [Rakahanga.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.protect.md) 
+### [Rakahanga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.internal.md) 
 
-### [Rakahanga.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.private.md) 
+### [Rakahanga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.protect.md) 
 
-### [Rakahanga.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.personal.md) 
+### [Rakahanga.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.private.md) 
 
-### [Rakahanga.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsRakahanga.secret.md)
+### [Rakahanga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.personal.md) 
+
+### [Rakahanga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Rakahanga.secret.md)
 

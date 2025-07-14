@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pago_Pago.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.public.md) 
+### [Pago_Pago](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.md) 
 
-### [Pago_Pago.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.internal.md) 
+### [Pago_Pago.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.public.md) 
 
-### [Pago_Pago.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.protect.md) 
+### [Pago_Pago.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.internal.md) 
 
-### [Pago_Pago.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.private.md) 
+### [Pago_Pago.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.protect.md) 
 
-### [Pago_Pago.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.personal.md) 
+### [Pago_Pago.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.private.md) 
 
-### [Pago_Pago.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.secret.md)
+### [Pago_Pago.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.personal.md) 
+
+### [Pago_Pago.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.secret.md)
 

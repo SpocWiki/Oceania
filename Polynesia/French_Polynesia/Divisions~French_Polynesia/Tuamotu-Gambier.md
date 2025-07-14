@@ -40,11 +40,16 @@ markerFolder: ./Tuamotu-Gambier/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier|Tuamotu-Gambier]] 
-- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.public|Tuamotu-Gambier.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.internal|Tuamotu-Gambier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.protect|Tuamotu-Gambier.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.private|Tuamotu-Gambier.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.personal|Tuamotu-Gambier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Tuamotu-Gambier.secret|Tuamotu-Gambier.secret]] 
+
+### [Tuamotu-Gambier.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.public.md) 
+
+### [Tuamotu-Gambier.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.internal.md) 
+
+### [Tuamotu-Gambier.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.protect.md) 
+
+### [Tuamotu-Gambier.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.private.md) 
+
+### [Tuamotu-Gambier.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.personal.md) 
+
+### [Tuamotu-Gambier.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaTuamotu-Gambier.secret.md)
 

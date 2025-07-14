@@ -40,11 +40,16 @@ markerFolder: ./Ha'apai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/Counties/Ha'apai|Ha'apai]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/Counties/Ha'apai.public|Ha'apai.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Ha'apai.internal|Ha'apai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Ha'apai.protect|Ha'apai.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/Counties/Ha'apai.private|Ha'apai.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Ha'apai.personal|Ha'apai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Ha'apai.secret|Ha'apai.secret]] 
+
+### [Ha'apai.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.public.md) 
+
+### [Ha'apai.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.internal.md) 
+
+### [Ha'apai.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.protect.md) 
+
+### [Ha'apai.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.private.md) 
+
+### [Ha'apai.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.personal.md) 
+
+### [Ha'apai.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaHa'apai.secret.md)
 

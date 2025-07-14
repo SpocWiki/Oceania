@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,11 +442,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/_Oceania-CountryDb|_Oceania-CountryDb]] 
-- [[../../../../_public/geo/Continent/Oceania/_Oceania-CountryDb.public|_Oceania-CountryDb.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/_Oceania-CountryDb.internal|_Oceania-CountryDb.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/_Oceania-CountryDb.protect|_Oceania-CountryDb.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/_Oceania-CountryDb.private|_Oceania-CountryDb.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/_Oceania-CountryDb.personal|_Oceania-CountryDb.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/_Oceania-CountryDb.secret|_Oceania-CountryDb.secret]] 
+
+### [_Oceania-CountryDb.public](/_public/\Earth\Continent\Oceania_Oceania-CountryDb.public.md) 
+
+### [_Oceania-CountryDb.internal](/_internal/\Earth\Continent\Oceania_Oceania-CountryDb.internal.md) 
+
+### [_Oceania-CountryDb.protect](/_protect/\Earth\Continent\Oceania_Oceania-CountryDb.protect.md) 
+
+### [_Oceania-CountryDb.private](/_private/\Earth\Continent\Oceania_Oceania-CountryDb.private.md) 
+
+### [_Oceania-CountryDb.personal](/_personal/\Earth\Continent\Oceania_Oceania-CountryDb.personal.md) 
+
+### [_Oceania-CountryDb.secret](/_secret/\Earth\Continent\Oceania_Oceania-CountryDb.secret.md)
+

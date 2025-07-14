@@ -40,11 +40,16 @@ markerFolder: ./Tongatapu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/Counties/Tongatapu|Tongatapu]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/Counties/Tongatapu.public|Tongatapu.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.internal|Tongatapu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Tongatapu.protect|Tongatapu.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/Counties/Tongatapu.private|Tongatapu.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Tongatapu.personal|Tongatapu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Tongatapu.secret|Tongatapu.secret]] 
+
+### [Tongatapu.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.public.md) 
+
+### [Tongatapu.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.internal.md) 
+
+### [Tongatapu.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.protect.md) 
+
+### [Tongatapu.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.private.md) 
+
+### [Tongatapu.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.personal.md) 
+
+### [Tongatapu.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaTongatapu.secret.md)
 

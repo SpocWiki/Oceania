@@ -40,11 +40,16 @@ markerFolder: ./Manihiki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki|Manihiki]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.public|Manihiki.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.internal|Manihiki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.protect|Manihiki.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.private|Manihiki.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.personal|Manihiki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Manihiki.secret|Manihiki.secret]] 
+
+### [Manihiki.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.public.md) 
+
+### [Manihiki.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.internal.md) 
+
+### [Manihiki.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.protect.md) 
+
+### [Manihiki.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.private.md) 
+
+### [Manihiki.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.personal.md) 
+
+### [Manihiki.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsManihiki.secret.md)
 

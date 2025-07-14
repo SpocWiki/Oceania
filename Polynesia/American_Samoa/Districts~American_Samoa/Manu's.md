@@ -40,11 +40,16 @@ markerFolder: ./Manu's/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/American_Samoa/Counties/Manu's|Manu's]] 
-- [[../../../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/Manu's.public|Manu's.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.internal|Manu's.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/Manu's.protect|Manu's.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/Manu's.private|Manu's.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/Manu's.personal|Manu's.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/Manu's.secret|Manu's.secret]] 
+
+### [Manu's.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.public.md) 
+
+### [Manu's.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.internal.md) 
+
+### [Manu's.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.protect.md) 
+
+### [Manu's.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.private.md) 
+
+### [Manu's.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.personal.md) 
+
+### [Manu's.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaManu's.secret.md)
 

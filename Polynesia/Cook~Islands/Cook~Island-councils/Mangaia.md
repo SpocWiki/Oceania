@@ -40,11 +40,16 @@ markerFolder: ./Mangaia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia|Mangaia]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.public|Mangaia.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.internal|Mangaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.protect|Mangaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.private|Mangaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.personal|Mangaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Mangaia.secret|Mangaia.secret]] 
+
+### [Mangaia.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.public.md) 
+
+### [Mangaia.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.internal.md) 
+
+### [Mangaia.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.protect.md) 
+
+### [Mangaia.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.private.md) 
+
+### [Mangaia.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.personal.md) 
+
+### [Mangaia.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsMangaia.secret.md)
 

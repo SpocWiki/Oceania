@@ -40,11 +40,16 @@ markerFolder: ./Sigave/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave|Sigave]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.public|Sigave.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.internal|Sigave.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.protect|Sigave.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.private|Sigave.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.personal|Sigave.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna/Counties/Sigave.secret|Sigave.secret]] 
+
+### [Sigave.public](/_public/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.public.md) 
+
+### [Sigave.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.internal.md) 
+
+### [Sigave.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.protect.md) 
+
+### [Sigave.private](/_private/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.private.md) 
+
+### [Sigave.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.personal.md) 
+
+### [Sigave.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Wallis_et_Futuna\Districts~Wallis_et_FutunaSigave.secret.md)
 

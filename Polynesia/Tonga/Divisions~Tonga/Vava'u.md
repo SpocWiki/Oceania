@@ -40,11 +40,16 @@ markerFolder: ./Vava'u/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/Counties/Vava'u|Vava'u]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/Counties/Vava'u.public|Vava'u.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Vava'u.internal|Vava'u.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Vava'u.protect|Vava'u.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/Counties/Vava'u.private|Vava'u.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Vava'u.personal|Vava'u.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Vava'u.secret|Vava'u.secret]] 
+
+### [Vava'u.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.public.md) 
+
+### [Vava'u.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.internal.md) 
+
+### [Vava'u.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.protect.md) 
+
+### [Vava'u.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.private.md) 
+
+### [Vava'u.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.personal.md) 
+
+### [Vava'u.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaVava'u.secret.md)
 

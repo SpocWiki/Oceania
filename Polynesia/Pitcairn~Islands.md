@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-25.0667,-130.1] 
 type: Country
 tags:
@@ -35,12 +35,17 @@ Capital :: [[Adamstown]]
 [has_place_latitude::-25.0667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Pitcairn~Islands|Pitcairn~Islands]] 
-- [[../../../../_public/geo/Continent/Oceania/Pitcairn~Islands.public|Pitcairn~Islands.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands.internal|Pitcairn~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands.protect|Pitcairn~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Pitcairn~Islands.private|Pitcairn~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands.personal|Pitcairn~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands.secret|Pitcairn~Islands.secret]] 
+
+### [Pitcairn~Islands.public](/_public/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.public.md) 
+
+### [Pitcairn~Islands.internal](/_internal/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.internal.md) 
+
+### [Pitcairn~Islands.protect](/_protect/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.protect.md) 
+
+### [Pitcairn~Islands.private](/_private/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.private.md) 
+
+### [Pitcairn~Islands.personal](/_personal/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.personal.md) 
+
+### [Pitcairn~Islands.secret](/_secret/\Earth\Continent\Oceania\PolynesiaPitcairn~Islands.secret.md)
+

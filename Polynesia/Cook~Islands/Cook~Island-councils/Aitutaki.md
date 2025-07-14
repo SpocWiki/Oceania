@@ -40,11 +40,16 @@ markerFolder: ./Aitutaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki|Aitutaki]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.public|Aitutaki.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.internal|Aitutaki.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.protect|Aitutaki.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.private|Aitutaki.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.personal|Aitutaki.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Aitutaki.secret|Aitutaki.secret]] 
+
+### [Aitutaki.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.public.md) 
+
+### [Aitutaki.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.internal.md) 
+
+### [Aitutaki.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.protect.md) 
+
+### [Aitutaki.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.private.md) 
+
+### [Aitutaki.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.personal.md) 
+
+### [Aitutaki.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsAitutaki.secret.md)
 

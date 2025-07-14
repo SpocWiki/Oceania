@@ -40,11 +40,16 @@ markerFolder: ./Niuas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/Counties/Niuas|Niuas]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/Counties/Niuas.public|Niuas.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/Counties/Niuas.internal|Niuas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/Counties/Niuas.protect|Niuas.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/Counties/Niuas.private|Niuas.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/Counties/Niuas.personal|Niuas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/Counties/Niuas.secret|Niuas.secret]] 
+
+### [Niuas.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.public.md) 
+
+### [Niuas.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.internal.md) 
+
+### [Niuas.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.protect.md) 
+
+### [Niuas.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.private.md) 
+
+### [Niuas.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.personal.md) 
+
+### [Niuas.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~TongaNiuas.secret.md)
 

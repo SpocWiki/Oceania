@@ -40,11 +40,16 @@ markerFolder: ./Fa'asaleleaga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga|Fa'asaleleaga]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.public|Fa'asaleleaga.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.internal|Fa'asaleleaga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.protect|Fa'asaleleaga.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.private|Fa'asaleleaga.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.personal|Fa'asaleleaga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Fa'asaleleaga.secret|Fa'asaleleaga.secret]] 
+
+### [Fa'asaleleaga.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.public.md) 
+
+### [Fa'asaleleaga.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.internal.md) 
+
+### [Fa'asaleleaga.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.protect.md) 
+
+### [Fa'asaleleaga.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.private.md) 
+
+### [Fa'asaleleaga.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.personal.md) 
+
+### [Fa'asaleleaga.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaFa'asaleleaga.secret.md)
 

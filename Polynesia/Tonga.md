@@ -371,11 +371,18 @@ Capital :: [[Nuku_alofa]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tonga)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Tonga|Tonga]] 
-- [[../../../../_public/geo/Continent/Oceania/Tonga.public|Tonga.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tonga.internal|Tonga.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tonga.protect|Tonga.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tonga.private|Tonga.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tonga.personal|Tonga.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tonga.secret|Tonga.secret]] 
+
+### [Tonga.public](/_public/\Earth\Continent\Oceania\PolynesiaTonga.public.md) 
+
+### [Tonga.internal](/_internal/\Earth\Continent\Oceania\PolynesiaTonga.internal.md) 
+
+### [Tonga.protect](/_protect/\Earth\Continent\Oceania\PolynesiaTonga.protect.md) 
+
+### [Tonga.private](/_private/\Earth\Continent\Oceania\PolynesiaTonga.private.md) 
+
+### [Tonga.personal](/_personal/\Earth\Continent\Oceania\PolynesiaTonga.personal.md) 
+
+### [Tonga.secret](/_secret/\Earth\Continent\Oceania\PolynesiaTonga.secret.md)
+

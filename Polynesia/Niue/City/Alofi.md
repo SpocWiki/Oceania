@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Niue/City/Alofi|Alofi]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Niue/City/Alofi.public|Alofi.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Niue/City/Alofi.internal|Alofi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Niue/City/Alofi.protect|Alofi.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Niue/City/Alofi.private|Alofi.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Niue/City/Alofi.personal|Alofi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Niue/City/Alofi.secret|Alofi.secret]] 
+
+### [Alofi.public](/_public/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.public.md) 
+
+### [Alofi.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.internal.md) 
+
+### [Alofi.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.protect.md) 
+
+### [Alofi.private](/_private/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.private.md) 
+
+### [Alofi.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.personal.md) 
+
+### [Alofi.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Niue\CityAlofi.secret.md)
+

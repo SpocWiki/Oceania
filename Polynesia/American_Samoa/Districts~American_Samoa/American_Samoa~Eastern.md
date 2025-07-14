@@ -40,11 +40,16 @@ markerFolder: ./American_Samoa~Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern|American_Samoa~Eastern]] 
-- [[../../../../../../_public/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.public|American_Samoa~Eastern.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.internal|American_Samoa~Eastern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.protect|American_Samoa~Eastern.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.private|American_Samoa~Eastern.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.personal|American_Samoa~Eastern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/American_Samoa/Counties/American_Samoa~Eastern.secret|American_Samoa~Eastern.secret]] 
+
+### [American_Samoa~Eastern.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.public.md) 
+
+### [American_Samoa~Eastern.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.internal.md) 
+
+### [American_Samoa~Eastern.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.protect.md) 
+
+### [American_Samoa~Eastern.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.private.md) 
+
+### [American_Samoa~Eastern.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.personal.md) 
+
+### [American_Samoa~Eastern.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\Districts~American_SamoaAmerican_Samoa~Eastern.secret.md)
 

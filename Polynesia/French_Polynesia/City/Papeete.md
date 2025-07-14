@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-17.53333,-149.5667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/French_Polynesia/City/Papeete|Papeete]] 
-- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/City/Papeete.public|Papeete.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/City/Papeete.internal|Papeete.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/City/Papeete.protect|Papeete.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/City/Papeete.private|Papeete.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/City/Papeete.personal|Papeete.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/City/Papeete.secret|Papeete.secret]] 
+
+### [Papeete.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.public.md) 
+
+### [Papeete.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.internal.md) 
+
+### [Papeete.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.protect.md) 
+
+### [Papeete.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.private.md) 
+
+### [Papeete.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.personal.md) 
+
+### [Papeete.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\CityPapeete.secret.md)
+

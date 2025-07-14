@@ -37,11 +37,18 @@ markerFolder: ./
 [name-de::Ozeanien]
 [ #has/_code  :: OC ]
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Oceania|Oceania]] 
-- [[../../../_public/geo/Continent/Oceania.public|Oceania.public]] 
-- [[../../../_internal/geo/Continent/Oceania.internal|Oceania.internal]] 
-- [[../../../_protect/geo/Continent/Oceania.protect|Oceania.protect]] 
-- [[../../../_private/geo/Continent/Oceania.private|Oceania.private]] 
-- [[../../../_personal/geo/Continent/Oceania.personal|Oceania.personal]] 
-- [[../../../_secret/geo/Continent/Oceania.secret|Oceania.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\OceaniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\OceaniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\OceaniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\OceaniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\OceaniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\OceaniaReadMe.secret.md)
+

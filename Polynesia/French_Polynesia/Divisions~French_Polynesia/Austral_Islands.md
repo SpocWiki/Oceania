@@ -40,11 +40,16 @@ markerFolder: ./Austral_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands|Austral_Islands]] 
-- [[../../../../../../_public/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.public|Austral_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.internal|Austral_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.protect|Austral_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.private|Austral_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.personal|Austral_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/Counties/Austral_Islands.secret|Austral_Islands.secret]] 
+
+### [Austral_Islands.public](/_public/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.public.md) 
+
+### [Austral_Islands.internal](/_internal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.internal.md) 
+
+### [Austral_Islands.protect](/_protect/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.protect.md) 
+
+### [Austral_Islands.private](/_private/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.private.md) 
+
+### [Austral_Islands.personal](/_personal/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.personal.md) 
+
+### [Austral_Islands.secret](/_secret/\Earth\Continent\Oceania\Polynesia\French_Polynesia\Divisions~French_PolynesiaAustral_Islands.secret.md)
 

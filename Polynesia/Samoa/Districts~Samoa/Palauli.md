@@ -40,11 +40,16 @@ markerFolder: ./Palauli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/Counties/Palauli|Palauli]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Samoa/Counties/Palauli.public|Palauli.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/Counties/Palauli.internal|Palauli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/Counties/Palauli.protect|Palauli.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Samoa/Counties/Palauli.private|Palauli.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/Counties/Palauli.personal|Palauli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/Counties/Palauli.secret|Palauli.secret]] 
+
+### [Palauli.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.public.md) 
+
+### [Palauli.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.internal.md) 
+
+### [Palauli.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.protect.md) 
+
+### [Palauli.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.private.md) 
+
+### [Palauli.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.personal.md) 
+
+### [Palauli.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\Districts~SamoaPalauli.secret.md)
 

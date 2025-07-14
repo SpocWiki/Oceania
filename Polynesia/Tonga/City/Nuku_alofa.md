@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-21.13333,-175.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/City/Nuku_alofa|Nuku_alofa]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/City/Nuku_alofa.public|Nuku_alofa.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.internal|Nuku_alofa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/City/Nuku_alofa.protect|Nuku_alofa.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/City/Nuku_alofa.private|Nuku_alofa.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.personal|Nuku_alofa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/City/Nuku_alofa.secret|Nuku_alofa.secret]] 
+
+### [Nuku_alofa.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.public.md) 
+
+### [Nuku_alofa.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.internal.md) 
+
+### [Nuku_alofa.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.protect.md) 
+
+### [Nuku_alofa.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.private.md) 
+
+### [Nuku_alofa.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.personal.md) 
+
+### [Nuku_alofa.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\CityNuku_alofa.secret.md)
+

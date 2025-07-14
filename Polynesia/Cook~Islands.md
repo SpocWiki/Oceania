@@ -243,12 +243,17 @@ Capital :: [[Avarua]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Cook%20Islands) 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Cook~Islands|Cook~Islands]] 
-- [[../../../../_public/geo/Continent/Oceania/Cook~Islands.public|Cook~Islands.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Cook~Islands.internal|Cook~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Cook~Islands.protect|Cook~Islands.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Cook~Islands.private|Cook~Islands.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Cook~Islands.personal|Cook~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Cook~Islands.secret|Cook~Islands.secret]] 
+
+### [Cook~Islands.public](/_public/\Earth\Continent\Oceania\PolynesiaCook~Islands.public.md) 
+
+### [Cook~Islands.internal](/_internal/\Earth\Continent\Oceania\PolynesiaCook~Islands.internal.md) 
+
+### [Cook~Islands.protect](/_protect/\Earth\Continent\Oceania\PolynesiaCook~Islands.protect.md) 
+
+### [Cook~Islands.private](/_private/\Earth\Continent\Oceania\PolynesiaCook~Islands.private.md) 
+
+### [Cook~Islands.personal](/_personal/\Earth\Continent\Oceania\PolynesiaCook~Islands.personal.md) 
+
+### [Cook~Islands.secret](/_secret/\Earth\Continent\Oceania\PolynesiaCook~Islands.secret.md)
+

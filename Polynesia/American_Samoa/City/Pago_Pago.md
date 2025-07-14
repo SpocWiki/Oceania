@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-14.28333,-170.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/American_Samoa/City/Pago_Pago|Pago_Pago]] 
-- [[../../../../../../_public/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.public|Pago_Pago.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.internal|Pago_Pago.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.protect|Pago_Pago.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.private|Pago_Pago.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.personal|Pago_Pago.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.secret|Pago_Pago.secret]] 
+
+### [Pago_Pago.public](/_public/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.public.md) 
+
+### [Pago_Pago.internal](/_internal/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.internal.md) 
+
+### [Pago_Pago.protect](/_protect/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.protect.md) 
+
+### [Pago_Pago.private](/_private/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.private.md) 
+
+### [Pago_Pago.personal](/_personal/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.personal.md) 
+
+### [Pago_Pago.secret](/_secret/\Earth\Continent\Oceania\Polynesia\American_Samoa\CityPago_Pago.secret.md)
+

@@ -130,12 +130,17 @@ Capital :: [[Papeete]]
 [has_place_latitude::-17.5333] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/French_Polynesia|French_Polynesia]] 
-- [[../../../../_public/geo/Continent/Oceania/French_Polynesia.public|French_Polynesia.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/French_Polynesia.internal|French_Polynesia.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/French_Polynesia.protect|French_Polynesia.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/French_Polynesia.private|French_Polynesia.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/French_Polynesia.personal|French_Polynesia.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/French_Polynesia.secret|French_Polynesia.secret]] 
+
+### [French_Polynesia.public](/_public/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.public.md) 
+
+### [French_Polynesia.internal](/_internal/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.internal.md) 
+
+### [French_Polynesia.protect](/_protect/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.protect.md) 
+
+### [French_Polynesia.private](/_private/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.private.md) 
+
+### [French_Polynesia.personal](/_personal/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.personal.md) 
+
+### [French_Polynesia.secret](/_secret/\Earth\Continent\Oceania\PolynesiaFrench_Polynesia.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -35,12 +35,17 @@ Continent :: [[Oceania]]
 [has_place_latitude::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Other_Shipping|Other_Shipping]] 
-- [[../../../../_public/geo/Continent/Oceania/Other_Shipping.public|Other_Shipping.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Other_Shipping.internal|Other_Shipping.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Other_Shipping.protect|Other_Shipping.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Other_Shipping.private|Other_Shipping.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Other_Shipping.personal|Other_Shipping.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Other_Shipping.secret|Other_Shipping.secret]] 
+
+### [Other_Shipping.public](/_public/\Earth\Continent\OceaniaOther_Shipping.public.md) 
+
+### [Other_Shipping.internal](/_internal/\Earth\Continent\OceaniaOther_Shipping.internal.md) 
+
+### [Other_Shipping.protect](/_protect/\Earth\Continent\OceaniaOther_Shipping.protect.md) 
+
+### [Other_Shipping.private](/_private/\Earth\Continent\OceaniaOther_Shipping.private.md) 
+
+### [Other_Shipping.personal](/_personal/\Earth\Continent\OceaniaOther_Shipping.personal.md) 
+
+### [Other_Shipping.secret](/_secret/\Earth\Continent\OceaniaOther_Shipping.secret.md)
+

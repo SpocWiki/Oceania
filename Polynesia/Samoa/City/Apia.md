@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-13.83333,-171.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Samoa/City/Apia|Apia]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Samoa/City/Apia.public|Apia.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Samoa/City/Apia.internal|Apia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Samoa/City/Apia.protect|Apia.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Samoa/City/Apia.private|Apia.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Samoa/City/Apia.personal|Apia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Samoa/City/Apia.secret|Apia.secret]] 
+
+### [Apia.public](/_public/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.public.md) 
+
+### [Apia.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.internal.md) 
+
+### [Apia.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.protect.md) 
+
+### [Apia.private](/_private/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.private.md) 
+
+### [Apia.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.personal.md) 
+
+### [Apia.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Samoa\CityApia.secret.md)
+

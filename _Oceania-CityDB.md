@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,11 +340,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/_Oceania-CityDB|_Oceania-CityDB]] 
-- [[../../../../_public/geo/Continent/Oceania/_Oceania-CityDB.public|_Oceania-CityDB.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/_Oceania-CityDB.internal|_Oceania-CityDB.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/_Oceania-CityDB.protect|_Oceania-CityDB.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/_Oceania-CityDB.private|_Oceania-CityDB.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/_Oceania-CityDB.personal|_Oceania-CityDB.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/_Oceania-CityDB.secret|_Oceania-CityDB.secret]] 
+
+### [_Oceania-CityDB.public](/_public/\Earth\Continent\Oceania_Oceania-CityDB.public.md) 
+
+### [_Oceania-CityDB.internal](/_internal/\Earth\Continent\Oceania_Oceania-CityDB.internal.md) 
+
+### [_Oceania-CityDB.protect](/_protect/\Earth\Continent\Oceania_Oceania-CityDB.protect.md) 
+
+### [_Oceania-CityDB.private](/_private/\Earth\Continent\Oceania_Oceania-CityDB.private.md) 
+
+### [_Oceania-CityDB.personal](/_personal/\Earth\Continent\Oceania_Oceania-CityDB.personal.md) 
+
+### [_Oceania-CityDB.secret](/_secret/\Earth\Continent\Oceania_Oceania-CityDB.secret.md)
+

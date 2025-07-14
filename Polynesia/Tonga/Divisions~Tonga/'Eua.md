@@ -40,11 +40,16 @@ markerFolder: ./'Eua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Tonga/Counties/'Eua|'Eua]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Tonga/Counties/'Eua.public|'Eua.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Tonga/Counties/'Eua.internal|'Eua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Tonga/Counties/'Eua.protect|'Eua.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Tonga/Counties/'Eua.private|'Eua.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Tonga/Counties/'Eua.personal|'Eua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Tonga/Counties/'Eua.secret|'Eua.secret]] 
+
+### ['Eua.public](/_public/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.public.md) 
+
+### ['Eua.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.internal.md) 
+
+### ['Eua.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.protect.md) 
+
+### ['Eua.private](/_private/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.private.md) 
+
+### ['Eua.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.personal.md) 
+
+### ['Eua.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Tonga\Divisions~Tonga'Eua.secret.md)
 

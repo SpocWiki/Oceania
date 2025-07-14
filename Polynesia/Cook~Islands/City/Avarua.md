@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-21.2,-159.7833] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/City/Avarua|Avarua]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/City/Avarua.public|Avarua.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/City/Avarua.internal|Avarua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/City/Avarua.protect|Avarua.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/City/Avarua.private|Avarua.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/City/Avarua.personal|Avarua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/City/Avarua.secret|Avarua.secret]] 
+
+### [Avarua.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.public.md) 
+
+### [Avarua.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.internal.md) 
+
+### [Avarua.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.protect.md) 
+
+### [Avarua.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.private.md) 
+
+### [Avarua.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.personal.md) 
+
+### [Avarua.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\CityAvarua.secret.md)
+

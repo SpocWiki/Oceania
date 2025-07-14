@@ -40,11 +40,16 @@ markerFolder: ./Pukapuka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka|Pukapuka]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.public|Pukapuka.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.internal|Pukapuka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.protect|Pukapuka.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.private|Pukapuka.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.personal|Pukapuka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/Counties/Pukapuka.secret|Pukapuka.secret]] 
+
+### [Pukapuka.public](/_public/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.public.md) 
+
+### [Pukapuka.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.internal.md) 
+
+### [Pukapuka.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.protect.md) 
+
+### [Pukapuka.private](/_private/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.private.md) 
+
+### [Pukapuka.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.personal.md) 
+
+### [Pukapuka.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Cook~Islands\Cook~Island-councilsPukapuka.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-25.06667,-130.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown|Adamstown]] 
-- [[../../../../../../_public/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.public|Adamstown.public]] 
-- [[../../../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.internal|Adamstown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.protect|Adamstown.protect]] 
-- [[../../../../../../_private/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.private|Adamstown.private]] 
-- [[../../../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.personal|Adamstown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.secret|Adamstown.secret]] 
+
+### [Adamstown.public](/_public/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.public.md) 
+
+### [Adamstown.internal](/_internal/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.internal.md) 
+
+### [Adamstown.protect](/_protect/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.protect.md) 
+
+### [Adamstown.private](/_private/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.private.md) 
+
+### [Adamstown.personal](/_personal/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.personal.md) 
+
+### [Adamstown.secret](/_secret/\Earth\Continent\Oceania\Polynesia\Pitcairn~Islands\CityAdamstown.secret.md)
+

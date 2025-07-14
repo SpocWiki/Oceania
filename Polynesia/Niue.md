@@ -129,12 +129,17 @@ Capital :: [[Alofi]]
 [has_place_latitude::-19.0589] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Niue|Niue]] 
-- [[../../../../_public/geo/Continent/Oceania/Niue.public|Niue.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Niue.internal|Niue.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Niue.protect|Niue.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Niue.private|Niue.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Niue.personal|Niue.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Niue.secret|Niue.secret]] 
+
+### [Niue.public](/_public/\Earth\Continent\Oceania\PolynesiaNiue.public.md) 
+
+### [Niue.internal](/_internal/\Earth\Continent\Oceania\PolynesiaNiue.internal.md) 
+
+### [Niue.protect](/_protect/\Earth\Continent\Oceania\PolynesiaNiue.protect.md) 
+
+### [Niue.private](/_private/\Earth\Continent\Oceania\PolynesiaNiue.private.md) 
+
+### [Niue.personal](/_personal/\Earth\Continent\Oceania\PolynesiaNiue.personal.md) 
+
+### [Niue.secret](/_secret/\Earth\Continent\Oceania\PolynesiaNiue.secret.md)
+

@@ -139,11 +139,18 @@ Capital :: [[Apia]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samoa)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Samoa|Samoa]] 
-- [[../../../../_public/geo/Continent/Oceania/Samoa.public|Samoa.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Samoa.internal|Samoa.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Samoa.protect|Samoa.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Samoa.private|Samoa.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Samoa.personal|Samoa.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Samoa.secret|Samoa.secret]] 
+
+### [Samoa.public](/_public/\Earth\Continent\Oceania\PolynesiaSamoa.public.md) 
+
+### [Samoa.internal](/_internal/\Earth\Continent\Oceania\PolynesiaSamoa.internal.md) 
+
+### [Samoa.protect](/_protect/\Earth\Continent\Oceania\PolynesiaSamoa.protect.md) 
+
+### [Samoa.private](/_private/\Earth\Continent\Oceania\PolynesiaSamoa.private.md) 
+
+### [Samoa.personal](/_personal/\Earth\Continent\Oceania\PolynesiaSamoa.personal.md) 
+
+### [Samoa.secret](/_secret/\Earth\Continent\Oceania\PolynesiaSamoa.secret.md)
+

@@ -39,12 +39,17 @@ Capital :: [[Mata-Utu]]
 [has_place_latitude::-13.2833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Wallis_et_Futuna|Wallis_et_Futuna]] 
-- [[../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna.public|Wallis_et_Futuna.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna.internal|Wallis_et_Futuna.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna.protect|Wallis_et_Futuna.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna.private|Wallis_et_Futuna.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna.personal|Wallis_et_Futuna.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna.secret|Wallis_et_Futuna.secret]] 
+
+### [Wallis_et_Futuna.public](/_public/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.public.md) 
+
+### [Wallis_et_Futuna.internal](/_internal/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.internal.md) 
+
+### [Wallis_et_Futuna.protect](/_protect/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.protect.md) 
+
+### [Wallis_et_Futuna.private](/_private/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.private.md) 
+
+### [Wallis_et_Futuna.personal](/_personal/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.personal.md) 
+
+### [Wallis_et_Futuna.secret](/_secret/\Earth\Continent\Oceania\PolynesiaWallis_et_Futuna.secret.md)
+

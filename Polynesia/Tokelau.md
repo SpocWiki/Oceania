@@ -130,12 +130,17 @@ Capital :: [[Fakaofo]]
 [has_place_latitude::-9.36667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Oceania/Tokelau|Tokelau]] 
-- [[../../../../_public/geo/Continent/Oceania/Tokelau.public|Tokelau.public]] 
-- [[../../../../_internal/geo/Continent/Oceania/Tokelau.internal|Tokelau.internal]] 
-- [[../../../../_protect/geo/Continent/Oceania/Tokelau.protect|Tokelau.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Tokelau.private|Tokelau.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Tokelau.personal|Tokelau.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Tokelau.secret|Tokelau.secret]] 
+
+### [Tokelau.public](/_public/\Earth\Continent\Oceania\PolynesiaTokelau.public.md) 
+
+### [Tokelau.internal](/_internal/\Earth\Continent\Oceania\PolynesiaTokelau.internal.md) 
+
+### [Tokelau.protect](/_protect/\Earth\Continent\Oceania\PolynesiaTokelau.protect.md) 
+
+### [Tokelau.private](/_private/\Earth\Continent\Oceania\PolynesiaTokelau.private.md) 
+
+### [Tokelau.personal](/_personal/\Earth\Continent\Oceania\PolynesiaTokelau.personal.md) 
+
+### [Tokelau.secret](/_secret/\Earth\Continent\Oceania\PolynesiaTokelau.secret.md)
+

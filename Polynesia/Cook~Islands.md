@@ -1,103 +1,104 @@
 ---
 location:
-- -21.2
-- -159.783
+  - -21.2
+  - -159.783
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q26988
 SpocWebEntityId: 26867
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
-title: "Cook Islands"
-linkTitle: 
-keywords: 
-layout: 
+title: Cook Islands
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- "Cook Islands"
-- "Islas Cook"
-- "Îles Cook"
-- "جزر كوك"
-- 库克群岛
-- "Острова Кука"
-- "the Cook Islands"
-- "Cook Islands (the)"
-- "las Islas Cook"
-- "Islas Cook (las)"
+  - Cook Islands
+  - Islas Cook
+  - Îles Cook
+  - جزر كوك
+  - 库克群岛
+  - Острова Кука
+  - the Cook Islands
+  - Cook Islands (the)
+  - las Islas Cook
+  - Islas Cook (las)
 Languages:
-- en-CK
-- mi
+  - en-CK
+  - mi
 instance_of:
-- "[[_Standards/WikiData/WD~island_country,112099]]"
-- "[[_Standards/WikiData/WD~associated_state,1138279]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+  - "[[_Standards/WikiData/WD~island_country,112099]]"
+  - "[[_Standards/WikiData/WD~associated_state,1138279]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
 member_of:
-- "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-capital: '[[_Standards/WikiData/WD~Avarua,170482]]'
+  - "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+capital: "[[_Standards/WikiData/WD~Avarua,170482]]"
 flag: "[[_Standards/WikiData/WD~flag_of_the_Cook_Islands,193693]]"
 highest_point: "[[_Standards/WikiData/WD~Te_Manga,498069]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Cook_Islands,647914]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Cook_Islands,658660]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 part_of: "[[_Standards/WikiData/WD~Realm_of_New_Zealand,889033]]"
 anthem: "[[_Standards/WikiData/WD~Te_Atua_Mou_E,1147730]]"
-has_part_s_: '[[_Standards/WikiData/WD~Mangaia,1359323]]'
+has_part_s_: "[[_Standards/WikiData/WD~Mangaia,1359323]]"
 electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
 head_of_government: "[[_Standards/WikiData/WD~Henry_Puna,2569345]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Cook_Islands,3044355]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~998,25648832]]'
-- '[[_Standards/WikiData/WD~996,25648902]]'
+  - "[[_Standards/WikiData/WD~999,3086706]]"
+  - "[[_Standards/WikiData/WD~998,25648832]]"
+  - "[[_Standards/WikiData/WD~996,25648902]]"
 language_used:
-- '[[_Standards/WikiData/WD~Rakahanga-Manihiki,3119695]]'
-- '[[_Standards/WikiData/WD~Penrhyn,3130301]]'
-- '[[_Standards/WikiData/WD~Rarotongan,31204110]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Pukapukan,36447]]'
-- "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
+  - "[[_Standards/WikiData/WD~Rakahanga-Manihiki,3119695]]"
+  - "[[_Standards/WikiData/WD~Penrhyn,3130301]]"
+  - "[[_Standards/WikiData/WD~Rarotongan,31204110]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Pukapukan,36447]]"
+  - "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Cook_Islands,3578713]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cook_Islands,7112755]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_Cook_Islands,7138950]]"
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_New_Zealand,14931517]]"
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q26834319,26834319]]'
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q26834319,26834319]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cook_Islands,28777635]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_Cook_Islands,39593532]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Pacific_Rarotonga,63285979]]'
-- '[[_Standards/WikiData/WD~UTC−10_00,2163]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS006-E-38664%20-%20View%20of%20the%20Cook%20Islands.jpg"
+  - "[[_Standards/WikiData/WD~Pacific_Rarotonga,63285979]]"
+  - "[[_Standards/WikiData/WD~UTC−10_00,2163]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS006-E-38664%20-%20View%20of%20the%20Cook%20Islands.jpg
 continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Cook_Islands_Maori,36745]]"
 country: "[[_Standards/WikiData/WD~Cook_Islands,26988]]"
 mains_voltage: 240
 area: 240
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Auckland,37100]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.ck,42270]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Polynesia,35942]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Auckland,37100]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.ck,42270]]"
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 number_of_out_of_school_children: 366
 M49_code: 184
@@ -112,30 +113,30 @@ IOC_country_code: COK
 ISO_3166_1_alpha_3_code: COK
 OmegaWiki_Defined_Meaning: 616351
 INSEE_countries_and_foreign_territories_code: 99502
-inception: "1965-08-04T00:00:00Z"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cook%20Islands.svg"
-official_name: "Cook Islands"
-Commons_gallery: "Cook Islands"
-Commons_category: "Cook Islands"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Cook+Islands.map"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Cook%20Islands.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Islands%20Beach%20banner.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Islands%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Insulele%20Cook.wav"
-official_website: "http://www.ck/govt.htm"
-country_calling_code: +682
+inception: 1965-08-04T00:00:00Z
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cook%20Islands.svg
+official_name: Cook Islands
+Commons_gallery: Cook Islands
+Commons_category: Cook Islands
+geoshape: http://commons.wikimedia.org/data/main/Data:Cook+Islands.map
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Cook%20Islands.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Islands%20Beach%20banner.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cook%20Islands%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Insulele%20Cook.wav
+official_website: http://www.ck/govt.htm
+country_calling_code: 682
 U_S_National_Archives_Identifier: 10045269
 Dewey_Decimal_Classification: 2--9623
-Unicode_character: 🇨🇰 
+Unicode_character: 🇨🇰
 hashtag: CookIslands
 demonym:
-- "Cook Islander"
-- Kukinsulano
-- cookese
-- cookesi
-native_label: "Kūki 'Āirani"
-short_name: "\U0001F1E8\U0001F1F0"
-coordinate_location: "Point(-159.783333333 -21.233333333)"
+  - Cook Islander
+  - Kukinsulano
+  - cookese
+  - cookesi
+native_label: Kūki 'Āirani
+short_name: 🇨🇰
+coordinate_location: Point(-159.783333333 -21.233333333)
 ---
 
 [	ISO4217-currency_alphabetic	 :: NZD ] 

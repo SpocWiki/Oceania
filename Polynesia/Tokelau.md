@@ -1,35 +1,36 @@
 ---
 location:
-- -9.36667
-- -171.217
+  - -9.36667
+  - -171.217
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27034
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Tokelau
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Tokelau
-- Tokélaou
-- توكيلاو
-- 托克劳
-- Токелау
-- 
+  - Tokelau
+  - Tokélaou
+  - توكيلاو
+  - 托克劳
+  - Токелау
+  - 
 Languages:
-- tkl
-- en-TK
+  - tkl
+  - en-TK
 ---
 
 

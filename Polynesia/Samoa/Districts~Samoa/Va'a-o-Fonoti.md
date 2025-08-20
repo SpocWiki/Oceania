@@ -1,30 +1,29 @@
 ---
-location: [ -13.96 , 188.46 ] 
+location:
+  - -13.96
+  - 188.46
 type: geo-Region
 title: Va'a-o-Fonoti
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Va'a-o-Fonoti
-
+  - Va'a-o-Fonoti
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Va'a-o-Fonoti

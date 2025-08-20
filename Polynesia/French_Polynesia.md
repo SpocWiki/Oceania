@@ -1,36 +1,37 @@
 ---
 location:
-- -17.5333
-- -149.567
+  - -17.5333
+  - -149.567
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26992
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: French Polynesia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- French Polynesia
-- Polinesia Francesa
-- Polynésie française
-- بولينيزيا الفرنسية
-- 法属波利尼西亚
-- Французская Полинезия
-- 
+  - French Polynesia
+  - Polinesia Francesa
+  - Polynésie française
+  - بولينيزيا الفرنسية
+  - 法属波利尼西亚
+  - Французская Полинезия
+  - 
 Languages:
-- fr-PF
-- ty
+  - fr-PF
+  - ty
 ---
 
 

@@ -1,32 +1,33 @@
 ---
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26937
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Kiribati
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Kiribati
-- كيريباس
-- 基里巴斯
-- Кирибати
-- the Republic of Kiribati
-- la República de Kiribati
+  - Kiribati
+  - كيريباس
+  - 基里巴斯
+  - Кирибати
+  - the Republic of Kiribati
+  - la República de Kiribati
 Languages:
-- en-KI
-- gil
+  - en-KI
+  - gil
 ---
 
 # [[Kiribati-East]] 

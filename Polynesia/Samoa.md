@@ -1,36 +1,37 @@
 ---
 location:
-- -13.8333
-- -171.75
+  - -13.8333
+  - -171.75
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q683 
+  - geo/Country
+has_id_wikidata: Q683
 SpocWebEntityId: 27058
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Samoa
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Samoa
-- ساموا
-- 萨摩亚
-- Самоа
-- the Independent State of Samoa
-- el Estado Independiente de Samoa
+  - Samoa
+  - ساموا
+  - 萨摩亚
+  - Самоа
+  - the Independent State of Samoa
+  - el Estado Independiente de Samoa
 Languages:
-- sm
-- en-WS
+  - sm
+  - en-WS
 ---
 
 # [[Samoa]] 

@@ -1,36 +1,37 @@
 ---
 location:
-- -19.0589
-- -169.875
+  - -19.0589
+  - -169.875
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q34020 
+  - geo/Country
+has_id_wikidata: Q34020
 SpocWebEntityId: 26987
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Niue
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Niue
-- Nioué
-- نيوي
-- 纽埃
-- Ниуэ
-- Niue
+  - Niue
+  - Nioué
+  - نيوي
+  - 纽埃
+  - Ниуэ
+  - Niue
 Languages:
-- niu
-- en-NU
+  - niu
+  - en-NU
 ---
 
 

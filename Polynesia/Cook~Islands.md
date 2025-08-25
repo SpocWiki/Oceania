@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Cook Islands
+  - Cook_Islands
+  - Islas Cook
+  - Îles Cook
+  - جزر كوك
+  - 库克群岛
+  - Острова Кука
+  - the Cook Islands
+  - Cook Islands (the)
+  - las Islas Cook
+  - Islas Cook (las)
 location:
   - -21.2
   - -159.783
@@ -22,17 +34,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Cook Islands
-  - Islas Cook
-  - Îles Cook
-  - جزر كوك
-  - 库克群岛
-  - Острова Кука
-  - the Cook Islands
-  - Cook Islands (the)
-  - las Islas Cook
-  - Islas Cook (las)
 Languages:
   - en-CK
   - mi
@@ -139,6 +140,8 @@ short_name: 🇨🇰
 coordinate_location: Point(-159.783333333 -21.233333333)
 ---
 
+# [[Cook~Islands]] 
+
 [	ISO4217-currency_alphabetic	 :: NZD ] 
 [	ISO4217-currency_name	 :: New Zealand Dollar ] 
 [	ISO4217-currency_numeric	 :: 554 ] 
@@ -202,10 +205,13 @@ Sub-region_Name ::  [[Polynesia]]
 
 [	ISO3166-1-numeric	 :: 184 ] 
 
-
-
 [ISO2::CK] 
 [ISO3::COK] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Cook_Islands,26988|WD~Cook_Islands,26988]] 
+
+## #has_/map 
+
 ```leaflet
 id: Cook Islands
 zoomFeatures: true 

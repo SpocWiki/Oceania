@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: A'ana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./A'ana/
 markerFolder: ./A'ana/

@@ -106,7 +106,7 @@ Sub-region_Name ::  [[Polynesia]]
 ```leaflet
 id: Niue
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Niue/
 markerFolder: ./Niue/

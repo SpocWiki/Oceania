@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rose_Atoll
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rose_Atoll/
 markerFolder: ./Rose_Atoll/

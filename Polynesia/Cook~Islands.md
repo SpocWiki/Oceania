@@ -215,7 +215,7 @@ Sub-region_Name ::  [[Polynesia]]
 ```leaflet
 id: Cook Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cook_Islands/
 markerFolder: ./Cook_Islands/

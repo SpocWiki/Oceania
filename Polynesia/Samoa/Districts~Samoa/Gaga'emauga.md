@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gaga'emauga
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gaga'emauga/
 markerFolder: ./Gaga'emauga/

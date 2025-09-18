@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vava'u
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vava'u/
 markerFolder: ./Vava'u/

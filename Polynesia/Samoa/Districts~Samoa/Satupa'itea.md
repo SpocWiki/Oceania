@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Satupa'itea
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Satupa'itea/
 markerFolder: ./Satupa'itea/

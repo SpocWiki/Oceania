@@ -18,7 +18,7 @@ confidential: public
 ```leaflet
 id: Wallis et Futuna
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Wallis_et_Futuna/
 markerFolder: ./Wallis_et_Futuna/

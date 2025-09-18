@@ -30,7 +30,7 @@ expiryDate:
 ```leaflet
 id: Alo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Alo/
 markerFolder: ./Alo/

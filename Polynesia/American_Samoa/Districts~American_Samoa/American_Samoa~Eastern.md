@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: American_Samoa~Eastern
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./American_Samoa~Eastern/
 markerFolder: ./American_Samoa~Eastern/

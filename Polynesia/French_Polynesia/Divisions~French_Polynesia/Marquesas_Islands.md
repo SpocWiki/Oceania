@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Marquesas_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Marquesas_Islands/
 markerFolder: ./Marquesas_Islands/

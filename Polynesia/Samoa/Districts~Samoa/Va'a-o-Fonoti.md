@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Va'a-o-Fonoti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Va'a-o-Fonoti/
 markerFolder: ./Va'a-o-Fonoti/

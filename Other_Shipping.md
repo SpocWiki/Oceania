@@ -14,7 +14,7 @@ confidential: public
 ```leaflet
 id: Other Shipping
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Other_Shipping/
 markerFolder: ./Other_Shipping/

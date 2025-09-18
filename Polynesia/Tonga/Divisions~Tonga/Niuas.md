@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Niuas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Niuas/
 markerFolder: ./Niuas/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Windward_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Windward_Islands/
 markerFolder: ./Windward_Islands/

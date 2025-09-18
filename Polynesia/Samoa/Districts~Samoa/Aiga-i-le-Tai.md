@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Aiga-i-le-Tai
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Aiga-i-le-Tai/
 markerFolder: ./Aiga-i-le-Tai/

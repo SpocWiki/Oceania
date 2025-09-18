@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Swain's_Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Swain's_Island/
 markerFolder: ./Swain's_Island/

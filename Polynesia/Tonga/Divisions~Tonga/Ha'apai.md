@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ha'apai
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ha'apai/
 markerFolder: ./Ha'apai/

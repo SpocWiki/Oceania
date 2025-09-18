@@ -333,7 +333,7 @@ Sub-region_Name ::  [[Polynesia]]
 ```leaflet
 id: Tonga
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tonga/
 markerFolder: ./Tonga/

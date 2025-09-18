@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: American_Samoa~Western
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./American_Samoa~Western/
 markerFolder: ./American_Samoa~Western/

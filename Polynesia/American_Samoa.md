@@ -256,7 +256,7 @@ Sub-region_Name ::  [[Polynesia]]
 ```leaflet
 id: American Samoa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./American_Samoa//
 markerFolder: ./American_Samoa//

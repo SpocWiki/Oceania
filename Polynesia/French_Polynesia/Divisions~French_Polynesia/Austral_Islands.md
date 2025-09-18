@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Austral_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Austral_Islands/
 markerFolder: ./Austral_Islands/

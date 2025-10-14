@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../Cook~Islands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

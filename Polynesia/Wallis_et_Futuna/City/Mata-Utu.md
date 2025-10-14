@@ -21,7 +21,7 @@ State ::
 Country ::[[../../Polynesia/Wallis_et_Futuna]]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

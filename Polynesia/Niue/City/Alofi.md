@@ -21,7 +21,7 @@ State ::
 Country :: [[Niue]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

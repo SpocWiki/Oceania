@@ -21,7 +21,7 @@ State ::
 Country :: [[geo/Continent/Oceania/Polynesia/Tokelau]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

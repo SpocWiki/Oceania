@@ -21,7 +21,7 @@ State ::
 Country :: [[American_Samoa]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

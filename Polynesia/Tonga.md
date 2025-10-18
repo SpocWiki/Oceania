@@ -326,10 +326,11 @@ Sub-region_Name ::  [[Polynesia]]
 
 [	ISO3166-1-numeric	 :: 776 ] 
 
-
-
 [ISO2::TO] 
 [ISO3::TON] 
+
+## #has_/map 
+
 ```leaflet
 id: Tonga
 zoomFeatures: true 

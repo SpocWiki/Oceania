@@ -1,11 +1,11 @@
 ---
+has_id_wikidata: Q683
 location:
   - -13.8333
   - -171.75
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q683
 SpocWebEntityId: 27058
 isDeleted: false
 confidential: public
@@ -99,10 +99,13 @@ Sub-region_Name ::  [[Polynesia]]
 
 [	ISO3166-1-numeric	 :: 882 ] 
 
-
-
 [ISO2::WS] 
 [ISO3::WSM] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Samoa,683|WD~Samoa,683]] 
+
+## #has_/map 
+
 ```leaflet
 id: Samoa
 zoomFeatures: true 

@@ -1,212 +1,212 @@
 ---
+aliases:
+  - Tonga
+  - تونغا
+  - 汤加
+  - Тонга
+  - Kingdom of Tonga
+  - el Reino de Tonga
+has_id_wikidata: Q678
 location:
-- -21.1333
-- -175.2
+  - -21.1333
+  - -175.2
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27037
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
+source: https://datahub.io/core/country-codes
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Tonga
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
-aliases:
-- Tonga
-- تونغا
-- 汤加
-- Тонга
-- "the Kingdom of Tonga"
-- "el Reino de Tonga"
+publishDate:
+expiryDate:
 Languages:
-- to
-- en-TO
-has_id_wikidata: Q678
+  - to
+  - en-TO
 instance_of:
-- "[[_Standards/WikiData/WD~island_country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~island_country,112099]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 member_of:
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Tonga,188072]]"
 head_of_state: "[[_Standards/WikiData/WD~Tupou_VI_of_Tonga,208497]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Tonga,380354]]"
-different_from: '[[_Standards/WikiData/WD~Rarotonga,471793]]'
+different_from: "[[_Standards/WikiData/WD~Rarotonga,471793]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~911,533806]]'
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~933,25648911]]'
-- '[[_Standards/WikiData/WD~922,25648915]]'
-- '[[_Standards/WikiData/WD~927,25743546]]'
-- '[[_Standards/WikiData/WD~928,25743548]]'
+  - "[[_Standards/WikiData/WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~999,3086706]]"
+  - "[[_Standards/WikiData/WD~933,25648911]]"
+  - "[[_Standards/WikiData/WD~922,25648915]]"
+  - "[[_Standards/WikiData/WD~927,25743546]]"
+  - "[[_Standards/WikiData/WD~928,25743548]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Owariasahi,694893]]'
-- '[[_Standards/WikiData/WD~Auckland,37100]]'
+  - "[[_Standards/WikiData/WD~Owariasahi,694893]]"
+  - "[[_Standards/WikiData/WD~Auckland,37100]]"
 anthem: "[[_Standards/WikiData/WD~Ko_e_fasi_'o_e_tu'i_'o_e_'Otu_Tonga,755676]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Tonga,915636]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Tonga,1075000]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Tonga,1273397]]"
 legislative_body: "[[_Standards/WikiData/WD~Legislative_Assembly_of_Tonga,1287831]]"
-highest_point: '[[_Standards/WikiData/WD~Kao,1520405]]'
+highest_point: "[[_Standards/WikiData/WD~Kao,1520405]]"
 electrical_plug_type: "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tonga,2726935]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tonga,2748202]]"
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Vava‘u,4102091]]'
-- "[[_Standards/WikiData/WD~Niua_district,4321649]]"
-- "[[_Standards/WikiData/WD~Haʻapai_district,4494291]]"
-- "[[_Standards/WikiData/WD~ʻEua_district,4533167]]"
-- '[[_Standards/WikiData/WD~Tongatapu,10383165]]'
+  - "[[_Standards/WikiData/WD~Vava‘u,4102091]]"
+  - "[[_Standards/WikiData/WD~Niua_district,4321649]]"
+  - "[[_Standards/WikiData/WD~Haʻapai_district,4494291]]"
+  - "[[_Standards/WikiData/WD~ʻEua_district,4533167]]"
+  - "[[_Standards/WikiData/WD~Tongatapu,10383165]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Tonga,4405888]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Tonga,7112489]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Pacific_Tongatapu,7122271]]'
-- '[[_Standards/WikiData/WD~UTC+13_00,7118]]'
+  - "[[_Standards/WikiData/WD~Pacific_Tongatapu,7122271]]"
+  - "[[_Standards/WikiData/WD~UTC+13_00,7118]]"
 head_of_government: "[[_Standards/WikiData/WD~ʻAisake_Eke,8083950]]"
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335074,13335074]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tonga,14616289]]'
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q13335074,13335074]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tonga,14616289]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Tonga_topics,15573746]]"
 follows: "[[_Standards/WikiData/WD~British_Tonga,17197946]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103549,27103549]]'
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103549,27103549]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Tonga,42298576]]"
-coordinates_of_westernmost_point: "Point(-175.633333333 -15.6)"
-coordinates_of_easternmost_point: "Point(-173.716666666 -15.85)"
+coordinates_of_westernmost_point: Point(-175.633333333 -15.6)
+coordinates_of_easternmost_point: Point(-173.716666666 -15.85)
 UMLS_CUI: C0040407
 demonym:
-- طونڭي
-- طونڭية
-- طونڭيين
-- طونڭيات
-- טונגאים
-- טונגאי
-- טונגאיות
-- Tongach
-- Tongovec
-- Tongovka
-- tonganu
-- Tongà
-- Tongan
-- Tongien
-- טונגאית
-- tongai
-- tongano
-- tongan
-- tongana
-- tongane
-- tongani
-- تونغاني
-- تونغانية
-- تونغانيون
-- tongana
-- тонгоанци
-- টোঙ্গানি
-- tongana
-- Tongano
-- Tongienne
-- טונגי
-- טונגית
-- Tongano
-- tongana
-- tongane
-- tongani
-- tongan
+  - طونڭي
+  - طونڭية
+  - طونڭيين
+  - طونڭيات
+  - טונגאים
+  - טונגאי
+  - טונגאיות
+  - Tongach
+  - Tongovec
+  - Tongovka
+  - tonganu
+  - Tongà
+  - Tongan
+  - Tongien
+  - טונגאית
+  - tongai
+  - tongano
+  - tongan
+  - tongana
+  - tongane
+  - tongani
+  - تونغاني
+  - تونغانية
+  - تونغانيون
+  - tongana
+  - тонгоанци
+  - টোঙ্গানি
+  - tongana
+  - Tongano
+  - Tongienne
+  - טונגי
+  - טונגית
+  - Tongano
+  - tongana
+  - tongane
+  - tongani
+  - tongan
 motto_text:
-- "Duw a Tonga yw fy etifeddiaeth"
-- "Бог и Тонга са моето наследство"
-- "God and Tonga are my Inheritance"
-- "Ko e ʻOtua mo Tonga ko hoku tofiʻa"
-coordinate_location: "Point(-174.810278 -20.587778)"
+  - Duw a Tonga yw fy etifeddiaeth
+  - Бог и Тонга са моето наследство
+  - God and Tonga are my Inheritance
+  - Ko e ʻOtua mo Tonga ko hoku tofiʻa
+coordinate_location: Point(-174.810278 -20.587778)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-- '[[_Standards/WikiData/WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Fiji,712]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
 continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
-country: '[[_Standards/WikiData/WD~Tonga,678]]'
+country: "[[_Standards/WikiData/WD~Tonga,678]]"
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Tongan,34094]]'
-- "[[_Standards/WikiData/WD~Niuafo'ou,36173]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Tongan,34094]]"
+  - "[[_Standards/WikiData/WD~Niuafo'ou,36173]]"
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Tongan,34094]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Tongan,34094]]"
 shares_border_with: "[[_Standards/WikiData/WD~United_States,30]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-inception: "1970-01-01T00:00:00Z"
+inception: 1970-01-01T00:00:00Z
 VAT_rate: 15
 marriageable_age: 18
 mains_voltage: 240
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-part_of: '[[_Standards/WikiData/WD~Polynesia,35942]]'
-capital: '[[_Standards/WikiData/WD~Nukuʻalofa,38834]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.to,41626]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Polynesia,35942]]"
+part_of: "[[_Standards/WikiData/WD~Polynesia,35942]]"
+capital: "[[_Standards/WikiData/WD~Nukuʻalofa,38834]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.to,41626]]"
 Gini_coefficient: 37.6
 Inequality_adjusted_Human_Development_Index: 0.666
 death_rate:
-- 6.97
-- 6.885
-- 6.909
-- 6.946
+  - 6.97
+  - 6.885
+  - 6.909
+  - 6.946
 Human_Development_Index: 0.745
 rural_population:
-- 80700
-- 80941
-- 81523
-- 82147
+  - 80700
+  - 80941
+  - 81523
+  - 82147
 number_of_out_of_school_children: 3179
 total_fertility_rate: 3.722
 IAB_code:
-- 1459
-- 1194
+  - 1459
+  - 1194
 male_population:
-- 52440
-- 51994
-- 52093
-- 52848
+  - 52440
+  - 51994
+  - 52093
+  - 52848
 female_population:
-- 54010
-- 52956
-- 53161
-- 53578
+  - 54010
+  - 52956
+  - 53161
+  - 53578
 FIPS_10_4_countries_and_regions_: TN
 ISO_3166_1_alpha_2_code: TO
 WIPO_ST_3: TO
@@ -214,48 +214,48 @@ population: 108020
 ISO_3166_1_numeric_code: 776
 M49_code: 776
 birth_rate:
-- 22.894
-- 23.045
-- 23.139
-- 23.424
+  - 22.894
+  - 23.045
+  - 23.139
+  - 23.424
 urban_population:
-- 24251
-- 24313
-- 24494
-- 24711
+  - 24251
+  - 24313
+  - 24494
+  - 24711
 mobile_country_code: 539
 maritime_identification_digits: 570
 life_expectancy: 73.029
 OmegaWiki_Defined_Meaning: 155258
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tonga.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tonga.svg
 PM20_geo_code: D38
 INSEE_countries_and_foreign_territories_code: 99509
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Tonga.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Tonga.svg
 Commons_category: Tonga
 hashtag: Tonga
 subreddit: Tonga
-short_name: "\U0001F1F9\U0001F1F4"
+short_name: 🇹🇴
 official_name:
-- Tonga
-- Tonga
-- "le Royaume des Tonga"
+  - Tonga
+  - Tonga
+  - le Royaume des Tonga
 ISO_3166_1_alpha_3_code: TON
 ITU_letter_code: TON
 IOC_country_code: TGA
-Unicode_character: 🇹🇴 
-coordinates_of_northernmost_point: "Point(-175.63 -15.57)"
+Unicode_character: 🇹🇴
+coordinates_of_northernmost_point: Point(-175.63 -15.57)
 native_label: Tonga
 U_S_National_Archives_Identifier: 10044446
 nominal_GDP: 469228124
 area: 748.506563
-geoshape: "http://commons.wikimedia.org/data/main/Data:Tonga.map"
+geoshape: http://commons.wikimedia.org/data/main/Data:Tonga.map
 pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tonga.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Tonga.wav"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tonga%20banner%20Beach%20with%20palms.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tonga%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg"
-official_website: "http://www.mic.gov.to/"
-country_calling_code: +676
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tonga.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Tonga.wav
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tonga%20banner%20Beach%20with%20palms.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonga%20on%20the%20globe%20%28small%20islands%20magnified%29%20%28Polynesia%20centered%29.svg
+official_website: http://www.mic.gov.to/
+country_calling_code: 676
 Krugosvet_article: strany_mira/TONGA.html
 CIVICUS_Monitor_country_entry: tonga
 MeSH_tree_code: Z01.639.760.815.890
@@ -329,15 +329,20 @@ Sub-region_Name ::  [[Polynesia]]
 [ISO2::TO] 
 [ISO3::TON] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Tonga,678|WD~Tonga,678]]
+
 ## #has_/map 
 
 ```leaflet
 id: Tonga
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 3 
 maxZoom: 18
+defaultZoom: 11 
 geojsonFolder: ./Tonga/
 markerFolder: ./Tonga/
+coordinates: [[Tonga]] 
+markerFile: [[Tonga]] 
 ```
 
 [name-en::Tonga] 
@@ -362,7 +367,8 @@ Capital :: [[Nuku_alofa]]
 
 ## #has_/text_of_/abstract 
 
-> **Tonga** ( TONG-ə,   TONG-gə; Tongan: [ˈtoŋa]), officially the Kingdom of Tonga (Tongan: Puleʻanga Fakatuʻi ʻo Tonga), is an island country in Polynesia, part of Oceania. The country has 171 islands – of which 45 are inhabited. Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean. As of 2021, according to Johnson's Tribune, Tonga has a population of 104,494, 70% of whom reside on the main island, Tongatapu. The country stretches approximately 800 km (500 mi; 430 nmi) north-south. It is surrounded by Fiji and Wallis and Futuna (France) to the northwest, Samoa to the northeast, New Caledonia (France) and Vanuatu to the west, Niue (the nearest foreign territory) to the east and Kermadec (New Zealand) to the southwest. Tonga is about 1,800 km (1,100 mi; 970 nmi) from New Zealand's North Island.
+> **Tonga** (TONG-ə,  TONG-gə; Tongan: [ˈtoŋa]), officially the Kingdom of Tonga 
+> (Tongan: Puleʻanga Fakatuʻi ʻo Tonga), is an island country in Polynesia, part of Oceania. The country has 171 islands – of which 45 are inhabited. Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean. As of 2021, according to Johnson's Tribune, Tonga has a population of 104,494, 70% of whom reside on the main island, Tongatapu. The country stretches approximately 800 km (500 mi; 430 nmi) north-south. It is surrounded by Fiji and Wallis and Futuna (France) to the northwest, Samoa to the northeast, New Caledonia (France) and Vanuatu to the west, Niue (the nearest foreign territory) to the east and Kermadec (New Zealand) to the southwest. Tonga is about 1,800 km (1,100 mi; 970 nmi) from New Zealand's North Island.
 >
 > Tonga was first inhabited roughly 2,500 years ago by the Lapita civilization, Polynesian settlers who gradually evolved a distinct and strong ethnic identity, language, and culture as the Tongan people. They quickly established a powerful footing across the South Pacific, and this period of Tongan expansionism and colonization is known as the Tuʻi Tonga Empire. From the rule of the first Tongan king, ʻAhoʻeitu, Tonga grew into a regional power. It was a thalassocracy that conquered and controlled unprecedented swathes of the Pacific, from parts of the Solomon Islands and the whole of New Caledonia and Fiji in the west to Samoa and Niue and even as far as parts of modern-day French Polynesia in the east. Tuʻi Tonga became renowned for its economic, ethnic, and cultural influence over the Pacific, which remained strong even after the Samoan revolution of the 13th century and Europeans' discovery of the islands in 1616.
 >

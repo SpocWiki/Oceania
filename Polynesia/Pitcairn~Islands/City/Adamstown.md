@@ -1,16 +1,19 @@
 ---
-location: [-25.06667,-130.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Adamstown
+location:
+  - -25.06667
+  - -130.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35979
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

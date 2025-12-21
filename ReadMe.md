@@ -1,8 +1,9 @@
 ---
+aliases:
+  - ReadMe
 type: Continent
 SpocWebEntityId: 27201
 confidential: public
-
 tags:
   - geo/Continent
 isDeleted: false

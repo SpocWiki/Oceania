@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tuamotu-Gambier
 location:
   - -17.77
   - 219.27
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Tuamotu-Gambier
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Tuamotu-Gambier

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Samoa
+  - ساموا
+  - 萨摩亚
+  - Самоа
+  - the Independent State of Samoa
+  - el Estado Independiente de Samoa
 has_id_wikidata: Q683
 location:
   - -13.8333
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Samoa
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Samoa
-  - ساموا
-  - 萨摩亚
-  - Самоа
-  - the Independent State of Samoa
-  - el Estado Independiente de Samoa
+publishDate: ''
+expiryDate: ''
 Languages:
   - sm
   - en-WS

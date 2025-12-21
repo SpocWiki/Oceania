@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rose_Atoll
+  - Rose Atoll
 location:
   - -14.528
   - 191.836
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rose_Atoll
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rose_Atoll

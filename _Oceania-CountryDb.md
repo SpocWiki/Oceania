@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Oceania-CountryDb
+  - ' Oceania-CountryDb'
 database_plugin: basic
 ---
 

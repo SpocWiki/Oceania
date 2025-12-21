@@ -23,12 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Tonga
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - to
   - en-TO

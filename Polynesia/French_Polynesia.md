@@ -1,4 +1,13 @@
 ---
+aliases:
+  - French Polynesia
+  - Polinesia Francesa
+  - Polynésie française
+  - بولينيزيا الفرنسية
+  - 法属波利尼西亚
+  - Французская Полинезия
+  - ''
+  - French_Polynesia
 location:
   - -17.5333
   - -149.567
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: French Polynesia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - French Polynesia
-  - Polinesia Francesa
-  - Polynésie française
-  - بولينيزيا الفرنسية
-  - 法属波利尼西亚
-  - Французская Полинезия
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-PF
   - ty

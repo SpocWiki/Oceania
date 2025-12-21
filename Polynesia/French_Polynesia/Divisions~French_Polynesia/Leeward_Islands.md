@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leeward_Islands
+  - Leeward Islands
 location:
   - -16.8
   - 208.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Leeward_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Leeward_Islands

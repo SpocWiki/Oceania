@@ -1,4 +1,7 @@
 ---
+aliases:
+  - American_Samoa~Eastern
+  - American Samoa~Eastern
 location:
   - -14.3
   - 189.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - American_Samoa~Eastern
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # American_Samoa~Eastern

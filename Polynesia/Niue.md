@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Niue
+  - Nioué
+  - نيوي
+  - 纽埃
+  - Ниуэ
+  - Niue
+has_id_wikidata: Q34020
 location:
   - -19.0589
   - -169.875
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q34020
 SpocWebEntityId: 26987
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Niue
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Niue
-  - Nioué
-  - نيوي
-  - 纽埃
-  - Ниуэ
-  - Niue
+publishDate: ''
+expiryDate: ''
 Languages:
   - niu
   - en-NU

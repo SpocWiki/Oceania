@@ -1,13 +1,15 @@
 ---
-location: [-25.0667,-130.1] 
+aliases:
+  - Pitcairn~Islands
+location:
+  - -25.0667
+  - -130.1
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 26998
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::PN] 
 [ISO3::PCN] 

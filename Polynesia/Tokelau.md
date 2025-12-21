@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Tokelau
+  - Tokélaou
+  - توكيلاو
+  - 托克劳
+  - Токелау
+  - ''
 location:
   - -9.36667
   - -171.217
@@ -15,19 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Tokelau
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Tokelau
-  - Tokélaou
-  - توكيلاو
-  - 托克劳
-  - Токелау
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - tkl
   - en-TK

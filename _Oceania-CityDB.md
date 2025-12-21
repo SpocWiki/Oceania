@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Oceania-CityDB
+  - ' Oceania-CityDB'
 database_plugin: basic
 ---
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Austral_Islands
+  - Austral Islands
 location:
   - -23.37
   - 210.51
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Austral_Islands
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Austral_Islands

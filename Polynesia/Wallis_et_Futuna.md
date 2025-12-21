@@ -1,13 +1,16 @@
 ---
-location: [-13.2833,-176.167] 
+aliases:
+  - Wallis_et_Futuna
+  - Wallis et Futuna
+location:
+  - -13.2833
+  - -176.167
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 27057
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::WF] 
 [ISO3::WLF] 

@@ -11,13 +11,14 @@ aliases:
   - Cook Islands (the)
   - las Islas Cook
   - Islas Cook (las)
+  - Cook~Islands
+has_id_wikidata: Q26988
 location:
   - -21.2
   - -159.783
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q26988
 SpocWebEntityId: 26867
 isDeleted: false
 confidential: public
@@ -28,12 +29,12 @@ cssclasses:
   - Country
 publish: true
 title: Cook Islands
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-CK
   - mi

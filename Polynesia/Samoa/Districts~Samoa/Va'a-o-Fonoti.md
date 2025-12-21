@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Va'a-o-Fonoti
 location:
   - -13.96
   - 188.46
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Va'a-o-Fonoti
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Va'a-o-Fonoti

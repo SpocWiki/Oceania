@@ -1,4 +1,7 @@
 ---
+aliases:
+  - American_Samoa~Western
+  - American Samoa~Western
 location:
   - -14.33
   - 189.24
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - American_Samoa~Western
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # American_Samoa~Western

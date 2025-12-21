@@ -1,16 +1,19 @@
 ---
-location: [-13.28333,-176.1667] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mata-Utu
+location:
+  - -13.28333
+  - -176.1667
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36741
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

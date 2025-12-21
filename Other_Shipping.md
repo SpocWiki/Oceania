@@ -1,13 +1,13 @@
 ---
-
+aliases:
+  - Other_Shipping
+  - Other Shipping
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 72746
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::] 
 [ISO3::] 

@@ -1,16 +1,19 @@
 ---
-location: [-9.366667,-171.2167] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Fakaofo
+location:
+  - -9.366667
+  - -171.2167
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36737
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

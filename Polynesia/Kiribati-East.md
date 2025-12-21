@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Kiribati
+  - كيريباس
+  - 基里巴斯
+  - Кирибати
+  - the Republic of Kiribati
+  - la República de Kiribati
+  - Kiribati-East
 type: Country
 tags:
   - geo/Country
@@ -12,19 +20,12 @@ cssclasses:
   - Country
 publish: true
 title: Kiribati
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Kiribati
-  - كيريباس
-  - 基里巴斯
-  - Кирибати
-  - the Republic of Kiribati
-  - la República de Kiribati
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-KI
   - gil

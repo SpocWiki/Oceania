@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1899-01-01 
 aliases:
   - American Samoa
   - Samoa Americana

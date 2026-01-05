@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1965-08-04 
 aliases:
   - Cook Islands
   - Cook_Islands

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1795-01-01 
 aliases:
   - Nuku'alofa
   - Nuku_alofa

@@ -1,4 +1,53 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: USD
+dv_ISO4217-currency_name: US Dollar
+dv_ISO4217-currency_numeric: 840
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: AMERICAN SAMOA
+dv_Telephone: 1-684
+dv_Global: true
+dv_Global_Name: World
+dv_name: American Samoa
+dv_name-en:
+  - American Samoa
+  - American Samoa
+dv_name-es: Samoa Americana
+dv_name-fr: Samoa américaines
+dv_name-cn: 美属萨摩亚
+dv_name-ar: ساموا الأمريكية
+dv_name-ru: Американское Самоа
+dv_CLDR_display_name: American Samoa
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[American_Samoa]]"
+dv_Sub-region_Name: "[[../Polynesia]]"
+dv_Region: 9
+dv_Sub-region: 61
+dv_Geoname-ID: 5880801
+dv_FIPS: AQ
+dv_FIFA: ASA
+dv_IOC: ASA
+dv_MARC: as
+dv_GAUL: 5
+dv_ITU: SMA
+dv_DS: USA
+dv_TLD: .as
+dv_EDGAR: B5
+dv_M49: 16
+dv_is_independent: Territory of US
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 16
+dv_ISO2: AS
+dv_ISO3: ASM
+dv_name-de: Amerikanisch Samoa
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -170.7
+dv_has_place_latitude: -14.2833
+dv_developed_developing_countries: Developing
+
 has_time_started: 1899-01-01 
 aliases:
   - American Samoa
@@ -188,30 +237,30 @@ ISO_3166_2_code: US-AS
 MeSH_tree_code: Z01.639.760.815.800.100
 ---
 
-[	ISO4217-currency_alphabetic	 :: USD ] 
-[	ISO4217-currency_name	 :: US Dollar ] 
-[	ISO4217-currency_numeric	 :: 840 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: AMERICAN SAMOA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-684 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: American Samoa ] 
+name = `=this.dv_name` 
 [	name-en	 :: American Samoa ] 
-[	name-es	 :: Samoa Americana ] 
-[	name-fr	 :: Samoa américaines ] 
-[	name-cn	 :: 美属萨摩亚 ] 
-[	name-ar	 :: ساموا الأمريكية ] 
-[	name-ru	 :: Американское Самоа ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: American Samoa ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -222,39 +271,39 @@ MeSH_tree_code: Z01.639.760.815.800.100
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Polynesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 61 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 5880801 ] 
-[	FIPS	 :: AQ ] 
-[	FIFA	 :: ASA ] 
-[	IOC	 :: ASA ] 
-[	MARC	 :: as ] 
-[	GAUL	 :: 5 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
 [	WMO	 ::  ] 
-[	ITU	 :: SMA ] 
-[	DS	 :: USA ] 
-[	TLD	 :: .as ] 
-[	EDGAR	 :: B5 ] 
-[	M49	 :: 16 ] 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Territory of US ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 016 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::AS] 
-[ISO3::ASM] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: American Samoa
 zoomFeatures: true 
@@ -265,23 +314,23 @@ markerFolder: ./American_Samoa//
 ```
 
 [name-en::American Samoa] 
-[name-de::Amerikanisch Samoa] 
+name-de = `=this.dv_name-de` 
 
 ![[American_Samoa/Seal_of_American_Samoa.svg|350]] 
 
 ![[American_Samoa/Flag_of_American_Samoa.svg|350]] 
 
-[Area-Total::0] 
-[Area-Land::0] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[Oceania]]  
 [VehicleCode::] 
 Capital :: [[Pago_Pago]]  
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-170.7] 
-[has_place_latitude::-14.2833] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -303,17 +352,17 @@ Capital :: [[Pago_Pago]]
 
 ## Confidential Links & Embeds: 
 
-### [American_Samoa](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa|American_Samoa]] 
 
-### [American_Samoa.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/American_Samoa.public|American_Samoa.public]] 
 
-### [American_Samoa.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa.internal|American_Samoa.internal]] 
 
-### [American_Samoa.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa.protect|American_Samoa.protect]] 
 
-### [American_Samoa.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/American_Samoa.private|American_Samoa.private]] 
 
-### [American_Samoa.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa.personal|American_Samoa.personal]] 
 
-### [American_Samoa.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa.secret|American_Samoa.secret]] 
 

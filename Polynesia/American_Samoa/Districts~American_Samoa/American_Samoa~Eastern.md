@@ -41,17 +41,17 @@ markerFolder: ./American_Samoa~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### [American_Samoa~Eastern](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern|American_Samoa~Eastern]] 
 
-### [American_Samoa~Eastern.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.public|American_Samoa~Eastern.public]] 
 
-### [American_Samoa~Eastern.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.internal|American_Samoa~Eastern.internal]] 
 
-### [American_Samoa~Eastern.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.protect|American_Samoa~Eastern.protect]] 
 
-### [American_Samoa~Eastern.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.private|American_Samoa~Eastern.private]] 
 
-### [American_Samoa~Eastern.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.personal|American_Samoa~Eastern.personal]] 
 
-### [American_Samoa~Eastern.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/American_Samoa~Eastern.secret|American_Samoa~Eastern.secret]] 
 

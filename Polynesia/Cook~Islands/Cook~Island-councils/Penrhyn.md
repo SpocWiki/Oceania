@@ -40,17 +40,17 @@ markerFolder: ./Penrhyn/
 
 ## Confidential Links & Embeds: 
 
-### [Penrhyn](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn|Penrhyn]] 
 
-### [Penrhyn.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.public|Penrhyn.public]] 
 
-### [Penrhyn.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.internal|Penrhyn.internal]] 
 
-### [Penrhyn.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.protect|Penrhyn.protect]] 
 
-### [Penrhyn.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.private|Penrhyn.private]] 
 
-### [Penrhyn.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.personal|Penrhyn.personal]] 
 
-### [Penrhyn.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/Cook~Island-councils/Penrhyn.secret|Penrhyn.secret]] 
 

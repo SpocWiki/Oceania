@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 36746
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -159.7833
+dv_has_place_latitude: -21.2
+dv_name: Avarua
+dv_Country: "[[../../../Cook~Islands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-159.7833] 
-[has_place_latitude::-21.2] 
-[name::Avarua] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../Cook~Islands]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Avarua](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua|Avarua]] 
 
-### [Avarua.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.public|Avarua.public]] 
 
-### [Avarua.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.internal|Avarua.internal]] 
 
-### [Avarua.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.protect|Avarua.protect]] 
 
-### [Avarua.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.private|Avarua.private]] 
 
-### [Avarua.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.personal|Avarua.personal]] 
 
-### [Avarua.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands/City/Avarua.secret|Avarua.secret]] 
 

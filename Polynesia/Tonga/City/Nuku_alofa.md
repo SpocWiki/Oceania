@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -175.2
+dv_has_place_latitude: -21.13333
+dv_name: Nuku?alofa
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Nuku'alofa,38834|WD~Nuku'alofa,38834]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Nuku'alofa,38834|WD~Nuku'alofa,38834]]"
+
 has_time_started: 1795-01-01 
 aliases:
   - Nuku'alofa
@@ -55,17 +64,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20wikivia
 # [[Nuku_alofa]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-175.2] 
-[has_place_latitude::-21.13333] 
-[name::Nuku?alofa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Tonga]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Nuku'alofa,38834|WD~Nuku'alofa,38834]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -86,19 +95,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuku%CA%BBalofa)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nuku_alofa](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa|Nuku_alofa]] 
 
-### [Nuku_alofa.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.public|Nuku_alofa.public]] 
 
-### [Nuku_alofa.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.internal|Nuku_alofa.internal]] 
 
-### [Nuku_alofa.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.protect|Nuku_alofa.protect]] 
 
-### [Nuku_alofa.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.private|Nuku_alofa.private]] 
 
-### [Nuku_alofa.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.personal|Nuku_alofa.personal]] 
 
-### [Nuku_alofa.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Tonga/City/Nuku_alofa.secret|Nuku_alofa.secret]] 
 

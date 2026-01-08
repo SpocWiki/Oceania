@@ -40,17 +40,17 @@ markerFolder: ./`Uvea/
 
 ## Confidential Links & Embeds: 
 
-### [Uvea](/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea|Uvea]] 
 
-### [Uvea.public](/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.public|Uvea.public]] 
 
-### [Uvea.internal](/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.internal|Uvea.internal]] 
 
-### [Uvea.protect](/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.protect|Uvea.protect]] 
 
-### [Uvea.private](/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.private|Uvea.private]] 
 
-### [Uvea.personal](/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.personal|Uvea.personal]] 
 
-### [Uvea.secret](/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/Districts~Wallis_et_Futuna/Uvea.secret|Uvea.secret]] 
 

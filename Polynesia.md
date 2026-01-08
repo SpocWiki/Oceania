@@ -27,17 +27,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Polynesia](/_Standards/Earth/Continent/Oceania/Polynesia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia|Polynesia]] 
 
-### [Polynesia.public](/_public/Earth/Continent/Oceania/Polynesia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia.public|Polynesia.public]] 
 
-### [Polynesia.internal](/_internal/Earth/Continent/Oceania/Polynesia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia.internal|Polynesia.internal]] 
 
-### [Polynesia.protect](/_protect/Earth/Continent/Oceania/Polynesia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia.protect|Polynesia.protect]] 
 
-### [Polynesia.private](/_private/Earth/Continent/Oceania/Polynesia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia.private|Polynesia.private]] 
 
-### [Polynesia.personal](/_personal/Earth/Continent/Oceania/Polynesia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia.personal|Polynesia.personal]] 
 
-### [Polynesia.secret](/_secret/Earth/Continent/Oceania/Polynesia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia.secret|Polynesia.secret]] 
 

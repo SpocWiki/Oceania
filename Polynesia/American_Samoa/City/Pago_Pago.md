@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 36747
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -170.7
+dv_has_place_latitude: -14.28333
+dv_name: Pago Pago
+dv_Country: "[[../../American_Samoa]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-170.7] 
-[has_place_latitude::-14.28333] 
-[name::Pago Pago] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[American_Samoa]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pago_Pago](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago|Pago_Pago]] 
 
-### [Pago_Pago.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.public|Pago_Pago.public]] 
 
-### [Pago_Pago.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.internal|Pago_Pago.internal]] 
 
-### [Pago_Pago.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.protect|Pago_Pago.protect]] 
 
-### [Pago_Pago.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.private|Pago_Pago.private]] 
 
-### [Pago_Pago.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.personal|Pago_Pago.personal]] 
 
-### [Pago_Pago.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/City/Pago_Pago.secret|Pago_Pago.secret]] 
 

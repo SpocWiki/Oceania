@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35948
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -171.75
+dv_has_place_latitude: -13.83333
+dv_name: Apia
+dv_Country: "[[../../Samoa]]"
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-171.75] 
-[has_place_latitude::-13.83333] 
-[name::Apia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Samoa]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apia](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia|Apia]] 
 
-### [Apia.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.public|Apia.public]] 
 
-### [Apia.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.internal|Apia.internal]] 
 
-### [Apia.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.protect|Apia.protect]] 
 
-### [Apia.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.private|Apia.private]] 
 
-### [Apia.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.personal|Apia.personal]] 
 
-### [Apia.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Samoa/City/Apia.secret|Apia.secret]] 
 

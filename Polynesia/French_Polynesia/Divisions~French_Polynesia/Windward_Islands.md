@@ -41,17 +41,17 @@ markerFolder: ./Windward_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Windward_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands|Windward_Islands]] 
 
-### [Windward_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.public|Windward_Islands.public]] 
 
-### [Windward_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.internal|Windward_Islands.internal]] 
 
-### [Windward_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.protect|Windward_Islands.protect]] 
 
-### [Windward_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.private|Windward_Islands.private]] 
 
-### [Windward_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.personal|Windward_Islands.personal]] 
 
-### [Windward_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Windward_Islands.secret|Windward_Islands.secret]] 
 

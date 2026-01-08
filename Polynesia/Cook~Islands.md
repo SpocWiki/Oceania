@@ -1,4 +1,70 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: NZD
+dv_ISO4217-currency_name: New Zealand Dollar
+dv_ISO4217-currency_numeric: 554
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: COOK ISLANDS
+dv_Telephone: 682
+dv_Global: true
+dv_Global_Name: World
+dv_name: Cook Islands
+dv_name-en:
+  - Cook Islands
+  - Cook Islands
+dv_name-es: Islas Cook
+dv_name-fr: Îles Cook
+dv_name-cn: 库克群岛
+dv_name-ar: جزر كوك
+dv_name-ru: Острова Кука
+dv_CLDR_display_name: Cook Islands
+dv_UNTERM_English: Cook Islands (the)    **
+dv_UNTERM_English_Formal: the Cook Islands
+dv_UNTERM_Spanish_Formal: las Islas Cook
+dv_UNTERM_Spanish: Islas Cook (las)    **
+dv_UNTERM_French: Îles Cook (les)    **
+dv_UNTERM_Arabic: جزر كوك    **
+dv_UNTERM_Arabic_Formal: جزر كوك
+dv_UNTERM_Chinese: 库克群岛    **
+dv_UNTERM_Chinese_Formal: 库克群岛
+dv_UNTERM_French_Formal: les Îles Cook
+dv_UNTERM_Russian: Острова Кука    **
+dv_UNTERM_Russian_Formal: Острова Кука
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Cook~Islands]]"
+dv_Sub-region_Name: "[[../Polynesia]]"
+dv_Region: 9
+dv_Sub-region: 61
+dv_Geoname-ID: 1899402
+dv_FIPS: CW
+dv_FIFA: COK
+dv_IOC: COK
+dv_MARC: cw
+dv_GAUL: 60
+dv_WMO: KU
+dv_ITU: CKH
+dv_DS: NZ
+dv_TLD: .ck
+dv_EDGAR: G1
+dv_M49: 184
+dv_is_independent: Associated with NZ
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 184
+dv_ISO2: CK
+dv_ISO3: COK
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Cook_Islands,26988|WD~Cook_Islands,26988]]"
+dv_name-de: Cook Inseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Alcohol-l: 3.7
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -159.783
+dv_has_place_latitude: -21.2
+dv_developed_developing_countries: Developing
+dv_is_same_as: "[[../../../../WikiData/WD~Cook_Islands,26988|WD~Cook_Islands,26988]]"
+
 has_time_started: 1965-08-04 
 aliases:
   - Cook Islands
@@ -144,73 +210,73 @@ coordinate_location: Point(-159.783333333 -21.233333333)
 
 # [[Cook~Islands]] 
 
-[	ISO4217-currency_alphabetic	 :: NZD ] 
-[	ISO4217-currency_name	 :: New Zealand Dollar ] 
-[	ISO4217-currency_numeric	 :: 554 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: COOK ISLANDS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 682 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Cook Islands ] 
+name = `=this.dv_name` 
 [	name-en	 :: Cook Islands ] 
-[	name-es	 :: Islas Cook ] 
-[	name-fr	 :: Îles Cook ] 
-[	name-cn	 :: 库克群岛 ] 
-[	name-ar	 :: جزر كوك ] 
-[	name-ru	 :: Острова Кука ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Cook Islands ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Cook Islands (the)    ** ] 
-[	UNTERM_English_Formal	 :: the Cook Islands ] 
-[	UNTERM_Spanish_Formal	 :: las Islas Cook ] 
-[	UNTERM_Spanish	 :: Islas Cook (las)    ** ] 
-[	UNTERM_French	 :: Îles Cook (les)    ** ] 
-[	UNTERM_Arabic	 :: جزر كوك    ** ] 
-[	UNTERM_Arabic_Formal	 :: جزر كوك ] 
-[	UNTERM_Chinese	 :: 库克群岛    ** ] 
-[	UNTERM_Chinese_Formal	 :: 库克群岛 ] 
-[	UNTERM_French_Formal	 :: les Îles Cook ] 
-[	UNTERM_Russian	 :: Острова Кука    ** ] 
-[	UNTERM_Russian_Formal	 :: Острова Кука ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Polynesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 61 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 1899402 ] 
-[	FIPS	 :: CW ] 
-[	FIFA	 :: COK ] 
-[	IOC	 :: COK ] 
-[	MARC	 :: cw ] 
-[	GAUL	 :: 60 ] 
-[	WMO	 :: KU ] 
-[	ITU	 :: CKH ] 
-[	DS	 :: NZ ] 
-[	TLD	 :: .ck ] 
-[	EDGAR	 :: G1 ] 
-[	M49	 :: 184 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Associated with NZ ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 184 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::CK] 
-[ISO3::COK] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cook_Islands,26988|WD~Cook_Islands,26988]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -224,21 +290,21 @@ markerFolder: ./Cook_Islands/
 ```
 
 [name-en::Cook Islands] 
-[name-de::Cook Inseln] 
+name-de = `=this.dv_name-de` 
 
 ![[Cook_Islands/Coat_of_arms_of_Cook_Islands.svg|350]] 
 
-[Area-Total::0] 
-[Area-Land::0] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[Oceania]]  
 [VehicleCode::] 
 Capital :: [[Avarua]]  
-[Alcohol-l::3.7] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-159.783] 
-[has_place_latitude::-21.2] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -254,17 +320,17 @@ Capital :: [[Avarua]]
 
 ## Confidential Links & Embeds: 
 
-### [Cook~Islands](/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Cook~Islands|Cook~Islands]] 
 
-### [Cook~Islands.public](/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Cook~Islands.public|Cook~Islands.public]] 
 
-### [Cook~Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Cook~Islands.internal|Cook~Islands.internal]] 
 
-### [Cook~Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Cook~Islands.protect|Cook~Islands.protect]] 
 
-### [Cook~Islands.private](/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Cook~Islands.private|Cook~Islands.private]] 
 
-### [Cook~Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Cook~Islands.personal|Cook~Islands.personal]] 
 
-### [Cook~Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Cook~Islands.secret|Cook~Islands.secret]] 
 

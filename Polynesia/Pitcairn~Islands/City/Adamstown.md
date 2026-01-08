@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35979
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -130.1
+dv_has_place_latitude: -25.06667
+dv_name: Adamstown
+dv_Country: "[[Pitcairn~Islands]]]"
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-130.1] 
-[has_place_latitude::-25.06667] 
-[name::Adamstown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[Pitcairn~Islands]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adamstown](/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown|Adamstown]] 
 
-### [Adamstown.public](/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.public|Adamstown.public]] 
 
-### [Adamstown.internal](/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.internal|Adamstown.internal]] 
 
-### [Adamstown.protect](/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.protect|Adamstown.protect]] 
 
-### [Adamstown.private](/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.private|Adamstown.private]] 
 
-### [Adamstown.personal](/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.personal|Adamstown.personal]] 
 
-### [Adamstown.secret](/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands/City/Adamstown.secret|Adamstown.secret]] 
 

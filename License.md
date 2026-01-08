@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/Oceania/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/License|License]] 
 
-### [License.public](/_public/Earth/Continent/Oceania/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/Oceania/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/Oceania/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/Oceania/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/Oceania/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/Oceania/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/License.secret|License.secret]] 
 

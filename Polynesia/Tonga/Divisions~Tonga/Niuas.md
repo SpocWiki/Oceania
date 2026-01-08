@@ -40,17 +40,17 @@ markerFolder: ./Niuas/
 
 ## Confidential Links & Embeds: 
 
-### [Niuas](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas|Niuas]] 
 
-### [Niuas.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.public|Niuas.public]] 
 
-### [Niuas.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.internal|Niuas.internal]] 
 
-### [Niuas.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.protect|Niuas.protect]] 
 
-### [Niuas.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.private|Niuas.private]] 
 
-### [Niuas.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.personal|Niuas.personal]] 
 
-### [Niuas.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Niuas.secret|Niuas.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 36740
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -149.5667
+dv_has_place_latitude: -17.53333
+dv_name: Papeete
+dv_Country: "[[../../Polynesia/French_Polynesia]]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-149.5667] 
-[has_place_latitude::-17.53333] 
-[name::Papeete] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[../../Polynesia/French_Polynesia]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Papeete](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete|Papeete]] 
 
-### [Papeete.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.public|Papeete.public]] 
 
-### [Papeete.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.internal|Papeete.internal]] 
 
-### [Papeete.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.protect|Papeete.protect]] 
 
-### [Papeete.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.private|Papeete.private]] 
 
-### [Papeete.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.personal|Papeete.personal]] 
 
-### [Papeete.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/City/Papeete.secret|Papeete.secret]] 
 

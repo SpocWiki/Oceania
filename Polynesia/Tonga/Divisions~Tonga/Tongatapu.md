@@ -40,17 +40,17 @@ markerFolder: ./Tongatapu/
 
 ## Confidential Links & Embeds: 
 
-### [Tongatapu](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu|Tongatapu]] 
 
-### [Tongatapu.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.public|Tongatapu.public]] 
 
-### [Tongatapu.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.internal|Tongatapu.internal]] 
 
-### [Tongatapu.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.protect|Tongatapu.protect]] 
 
-### [Tongatapu.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.private|Tongatapu.private]] 
 
-### [Tongatapu.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.personal|Tongatapu.personal]] 
 
-### [Tongatapu.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Tonga/Divisions~Tonga/Tongatapu.secret|Tongatapu.secret]] 
 

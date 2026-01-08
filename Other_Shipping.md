@@ -8,6 +8,10 @@ tags:
 SpocWebEntityId: 72746
 isDeleted: false
 confidential: public
+dv_name-en: Other Shipping
+dv_name-de: Andere Schiffahrt
+dv_Continent: "[[../Oceania]]"
+dv_is_a_: "[[../../Geography/Place]]"
 ---
 [ISO2::] 
 [ISO3::] 
@@ -20,34 +24,34 @@ geojsonFolder: ./Other_Shipping/
 markerFolder: ./Other_Shipping/
 ```
 
-[name-en::Other Shipping] 
-[name-de::Andere Schiffahrt] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: [[Oceania]]  
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 
 
 ## Confidential Links & Embeds: 
 
-### [Other_Shipping](/_Standards/Earth/Continent/Oceania/Other_Shipping.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Other_Shipping|Other_Shipping]] 
 
-### [Other_Shipping.public](/_public/Earth/Continent/Oceania/Other_Shipping.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Other_Shipping.public|Other_Shipping.public]] 
 
-### [Other_Shipping.internal](/_internal/Earth/Continent/Oceania/Other_Shipping.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Other_Shipping.internal|Other_Shipping.internal]] 
 
-### [Other_Shipping.protect](/_protect/Earth/Continent/Oceania/Other_Shipping.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Other_Shipping.protect|Other_Shipping.protect]] 
 
-### [Other_Shipping.private](/_private/Earth/Continent/Oceania/Other_Shipping.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Other_Shipping.private|Other_Shipping.private]] 
 
-### [Other_Shipping.personal](/_personal/Earth/Continent/Oceania/Other_Shipping.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Other_Shipping.personal|Other_Shipping.personal]] 
 
-### [Other_Shipping.secret](/_secret/Earth/Continent/Oceania/Other_Shipping.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Other_Shipping.secret|Other_Shipping.secret]] 
 

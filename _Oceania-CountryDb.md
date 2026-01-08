@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Oceania-CountryDb](/_Standards/Earth/Continent/Oceania/_Oceania-CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/_Oceania-CountryDb|_Oceania-CountryDb]] 
 
-### [_Oceania-CountryDb.public](/_public/Earth/Continent/Oceania/_Oceania-CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/_Oceania-CountryDb.public|_Oceania-CountryDb.public]] 
 
-### [_Oceania-CountryDb.internal](/_internal/Earth/Continent/Oceania/_Oceania-CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/_Oceania-CountryDb.internal|_Oceania-CountryDb.internal]] 
 
-### [_Oceania-CountryDb.protect](/_protect/Earth/Continent/Oceania/_Oceania-CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/_Oceania-CountryDb.protect|_Oceania-CountryDb.protect]] 
 
-### [_Oceania-CountryDb.private](/_private/Earth/Continent/Oceania/_Oceania-CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/_Oceania-CountryDb.private|_Oceania-CountryDb.private]] 
 
-### [_Oceania-CountryDb.personal](/_personal/Earth/Continent/Oceania/_Oceania-CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/_Oceania-CountryDb.personal|_Oceania-CountryDb.personal]] 
 
-### [_Oceania-CountryDb.secret](/_secret/Earth/Continent/Oceania/_Oceania-CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/_Oceania-CountryDb.secret|_Oceania-CountryDb.secret]] 
 

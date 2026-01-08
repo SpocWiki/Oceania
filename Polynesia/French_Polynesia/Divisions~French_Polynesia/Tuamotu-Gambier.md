@@ -40,17 +40,17 @@ markerFolder: ./Tuamotu-Gambier/
 
 ## Confidential Links & Embeds: 
 
-### [Tuamotu-Gambier](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier|Tuamotu-Gambier]] 
 
-### [Tuamotu-Gambier.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.public|Tuamotu-Gambier.public]] 
 
-### [Tuamotu-Gambier.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.internal|Tuamotu-Gambier.internal]] 
 
-### [Tuamotu-Gambier.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.protect|Tuamotu-Gambier.protect]] 
 
-### [Tuamotu-Gambier.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.private|Tuamotu-Gambier.private]] 
 
-### [Tuamotu-Gambier.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.personal|Tuamotu-Gambier.personal]] 
 
-### [Tuamotu-Gambier.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Tuamotu-Gambier.secret|Tuamotu-Gambier.secret]] 
 

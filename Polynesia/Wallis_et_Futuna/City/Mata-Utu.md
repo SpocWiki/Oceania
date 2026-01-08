@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 36741
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -176.1667
+dv_has_place_latitude: -13.28333
+dv_name: Mata-Utu
+dv_Country: "[[../../Polynesia/Wallis_et_Futuna]]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-176.1667] 
-[has_place_latitude::-13.28333] 
-[name::Mata-Utu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[../../Polynesia/Wallis_et_Futuna]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mata-Utu](/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu|Mata-Utu]] 
 
-### [Mata-Utu.public](/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.public|Mata-Utu.public]] 
 
-### [Mata-Utu.internal](/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.internal|Mata-Utu.internal]] 
 
-### [Mata-Utu.protect](/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.protect|Mata-Utu.protect]] 
 
-### [Mata-Utu.private](/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.private|Mata-Utu.private]] 
 
-### [Mata-Utu.personal](/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.personal|Mata-Utu.personal]] 
 
-### [Mata-Utu.secret](/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Wallis_et_Futuna/City/Mata-Utu.secret|Mata-Utu.secret]] 
 

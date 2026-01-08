@@ -41,17 +41,17 @@ markerFolder: ./Rose_Atoll/
 
 ## Confidential Links & Embeds: 
 
-### [Rose_Atoll](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll|Rose_Atoll]] 
 
-### [Rose_Atoll.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.public|Rose_Atoll.public]] 
 
-### [Rose_Atoll.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.internal|Rose_Atoll.internal]] 
 
-### [Rose_Atoll.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.protect|Rose_Atoll.protect]] 
 
-### [Rose_Atoll.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.private|Rose_Atoll.private]] 
 
-### [Rose_Atoll.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.personal|Rose_Atoll.personal]] 
 
-### [Rose_Atoll.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Rose_Atoll.secret|Rose_Atoll.secret]] 
 

@@ -10,9 +10,20 @@ tags:
 SpocWebEntityId: 26998
 isDeleted: false
 confidential: public
+dv_ISO2: PN
+dv_ISO3: PCN
+dv_name-en: Pitcairn
+dv_name-de: Pitcairn Inseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[../../Oceania]]"
+dv_Capital: "[[Pitcairn~Islands/City/Adamstown]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -130.1
+dv_has_place_latitude: -25.0667
 ---
-[ISO2::PN] 
-[ISO3::PCN] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Pitcairn
 zoomFeatures: true 
@@ -22,34 +33,34 @@ geojsonFolder: ./Pitcairn/
 markerFolder: ./Pitcairn/
 ```
 
-[name-en::Pitcairn] 
-[name-de::Pitcairn Inseln] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[Oceania]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
-Capital :: [[Adamstown]]  
+Capital = `=this.dv_Capital`
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-130.1] 
-[has_place_latitude::-25.0667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [Pitcairn~Islands](/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands|Pitcairn~Islands]] 
 
-### [Pitcairn~Islands.public](/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.public|Pitcairn~Islands.public]] 
 
-### [Pitcairn~Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.internal|Pitcairn~Islands.internal]] 
 
-### [Pitcairn~Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.protect|Pitcairn~Islands.protect]] 
 
-### [Pitcairn~Islands.private](/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.private|Pitcairn~Islands.private]] 
 
-### [Pitcairn~Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.personal|Pitcairn~Islands.personal]] 
 
-### [Pitcairn~Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Pitcairn~Islands.secret|Pitcairn~Islands.secret]] 
 

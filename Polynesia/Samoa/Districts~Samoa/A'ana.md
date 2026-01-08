@@ -40,17 +40,17 @@ markerFolder: ./A'ana/
 
 ## Confidential Links & Embeds: 
 
-### [A'ana](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana|A'ana]] 
 
-### [A'ana.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.public|A'ana.public]] 
 
-### [A'ana.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.internal|A'ana.internal]] 
 
-### [A'ana.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.protect|A'ana.protect]] 
 
-### [A'ana.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.private|A'ana.private]] 
 
-### [A'ana.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.personal|A'ana.personal]] 
 
-### [A'ana.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/A'ana.secret|A'ana.secret]] 
 

@@ -346,17 +346,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Oceania-CityDB](/_Standards/Earth/Continent/Oceania/_Oceania-CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/_Oceania-CityDB|_Oceania-CityDB]] 
 
-### [_Oceania-CityDB.public](/_public/Earth/Continent/Oceania/_Oceania-CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/_Oceania-CityDB.public|_Oceania-CityDB.public]] 
 
-### [_Oceania-CityDB.internal](/_internal/Earth/Continent/Oceania/_Oceania-CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/_Oceania-CityDB.internal|_Oceania-CityDB.internal]] 
 
-### [_Oceania-CityDB.protect](/_protect/Earth/Continent/Oceania/_Oceania-CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/_Oceania-CityDB.protect|_Oceania-CityDB.protect]] 
 
-### [_Oceania-CityDB.private](/_private/Earth/Continent/Oceania/_Oceania-CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/_Oceania-CityDB.private|_Oceania-CityDB.private]] 
 
-### [_Oceania-CityDB.personal](/_personal/Earth/Continent/Oceania/_Oceania-CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/_Oceania-CityDB.personal|_Oceania-CityDB.personal]] 
 
-### [_Oceania-CityDB.secret](/_secret/Earth/Continent/Oceania/_Oceania-CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/_Oceania-CityDB.secret|_Oceania-CityDB.secret]] 
 

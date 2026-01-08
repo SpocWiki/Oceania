@@ -40,17 +40,17 @@ markerFolder: ./Va'a-o-Fonoti/
 
 ## Confidential Links & Embeds: 
 
-### [Va'a-o-Fonoti](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti|Va'a-o-Fonoti]] 
 
-### [Va'a-o-Fonoti.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.public|Va'a-o-Fonoti.public]] 
 
-### [Va'a-o-Fonoti.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.internal|Va'a-o-Fonoti.internal]] 
 
-### [Va'a-o-Fonoti.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.protect|Va'a-o-Fonoti.protect]] 
 
-### [Va'a-o-Fonoti.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.private|Va'a-o-Fonoti.private]] 
 
-### [Va'a-o-Fonoti.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.personal|Va'a-o-Fonoti.personal]] 
 
-### [Va'a-o-Fonoti.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Va'a-o-Fonoti.secret|Va'a-o-Fonoti.secret]] 
 

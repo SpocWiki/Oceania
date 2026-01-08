@@ -1,4 +1,72 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: TOP
+dv_ISO4217-currency_name: Pa’anga
+dv_ISO4217-currency_numeric: 776
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: TONGA
+dv_Telephone: 676
+dv_Global: true
+dv_Global_Name: World
+dv_name: Tonga
+dv_name-en:
+  - Tonga
+  - Tonga
+dv_name-es: Tonga
+dv_name-fr: Tonga
+dv_name-cn: 汤加
+dv_name-ar: تونغا
+dv_name-ru: Тонга
+dv_CLDR_display_name: Tonga
+dv_UNTERM_English: Tonga
+dv_UNTERM_English_Formal: the Kingdom of Tonga
+dv_UNTERM_Spanish_Formal: el Reino de Tonga
+dv_UNTERM_Spanish: Tonga
+dv_UNTERM_French: Tonga (les) [fém.]
+dv_UNTERM_Arabic: تونغا
+dv_UNTERM_Arabic_Formal: مملكة تونغا
+dv_UNTERM_Chinese: 汤加
+dv_UNTERM_Chinese_Formal: 汤加王国
+dv_UNTERM_French_Formal: le Royaume des Tonga
+dv_UNTERM_Russian: Тонга
+dv_UNTERM_Russian_Formal: Королевство Тонга
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Tonga]]"
+dv_Sub-region_Name: "[[../Polynesia]]"
+dv_Region: 9
+dv_Sub-region: 61
+dv_Geoname-ID: 4032283
+dv_FIPS: TN
+dv_FIFA: TGA
+dv_IOC: TGA
+dv_MARC: to
+dv_GAUL: 245
+dv_WMO: TO
+dv_ITU: TON
+dv_DS: TO
+dv_TLD: .to
+dv_EDGAR: W4
+dv_M49: 776
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 776
+dv_ISO2: TO
+dv_ISO3: TON
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Tonga,678|WD~Tonga,678]]"
+dv_name-de: Tonga
+dv_Area-Total: 748
+dv_Area-Land: 720
+dv_VehicleCode: TON
+dv_Alcohol-l: 3.8
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -175.2
+dv_has_place_latitude: -21.1333
+dv_developed_developing_countries: Developing
+dv_is_same_as: "[[../../../../WikiData/WD~Tonga,678|WD~Tonga,678]]"
+
 has_time_started: 1970-01-01 
 aliases:
   - Tonga
@@ -264,73 +332,73 @@ MeSH_tree_code: Z01.639.760.815.890
 
 # [[Tonga]] 
 
-[	ISO4217-currency_alphabetic	 :: TOP ] 
-[	ISO4217-currency_name	 :: Pa’anga ] 
-[	ISO4217-currency_numeric	 :: 776 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: TONGA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 676 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Tonga ] 
+name = `=this.dv_name` 
 [	name-en	 :: Tonga ] 
-[	name-es	 :: Tonga ] 
-[	name-fr	 :: Tonga ] 
-[	name-cn	 :: 汤加 ] 
-[	name-ar	 :: تونغا ] 
-[	name-ru	 :: Тонга ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Tonga ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Tonga ] 
-[	UNTERM_English_Formal	 :: the Kingdom of Tonga ] 
-[	UNTERM_Spanish_Formal	 :: el Reino de Tonga ] 
-[	UNTERM_Spanish	 :: Tonga ] 
-[	UNTERM_French	 :: Tonga (les) [fém.] ] 
-[	UNTERM_Arabic	 :: تونغا ] 
-[	UNTERM_Arabic_Formal	 :: مملكة تونغا ] 
-[	UNTERM_Chinese	 :: 汤加 ] 
-[	UNTERM_Chinese_Formal	 :: 汤加王国 ] 
-[	UNTERM_French_Formal	 :: le Royaume des Tonga ] 
-[	UNTERM_Russian	 :: Тонга ] 
-[	UNTERM_Russian_Formal	 :: Королевство Тонга ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Polynesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 61 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 4032283 ] 
-[	FIPS	 :: TN ] 
-[	FIFA	 :: TGA ] 
-[	IOC	 :: TGA ] 
-[	MARC	 :: to ] 
-[	GAUL	 :: 245 ] 
-[	WMO	 :: TO ] 
-[	ITU	 :: TON ] 
-[	DS	 :: TO ] 
-[	TLD	 :: .to ] 
-[	EDGAR	 :: W4 ] 
-[	M49	 :: 776 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 776 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::TO] 
-[ISO3::TON] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Tonga,678|WD~Tonga,678]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -347,23 +415,23 @@ markerFile: [[Tonga]]
 ```
 
 [name-en::Tonga] 
-[name-de::Tonga] 
+name-de = `=this.dv_name-de` 
 
 ![[Coat_of_arms_of_Tonga.svg|350]] 
 
 ![[Flag_of_Tonga.svg|350]] 
 
-[Area-Total::748] 
-[Area-Land::720] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[Oceania]]  
-[VehicleCode::TON] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Nuku_alofa]]  
-[Alcohol-l::3.8] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-175.2] 
-[has_place_latitude::-21.1333] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -382,17 +450,17 @@ Capital :: [[Nuku_alofa]]
 
 ## Confidential Links & Embeds: 
 
-### [Tonga](/_Standards/Earth/Continent/Oceania/Polynesia/Tonga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Tonga|Tonga]] 
 
-### [Tonga.public](/_public/Earth/Continent/Oceania/Polynesia/Tonga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Tonga.public|Tonga.public]] 
 
-### [Tonga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Tonga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Tonga.internal|Tonga.internal]] 
 
-### [Tonga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Tonga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Tonga.protect|Tonga.protect]] 
 
-### [Tonga.private](/_private/Earth/Continent/Oceania/Polynesia/Tonga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Tonga.private|Tonga.private]] 
 
-### [Tonga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Tonga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Tonga.personal|Tonga.personal]] 
 
-### [Tonga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Tonga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Tonga.secret|Tonga.secret]] 
 

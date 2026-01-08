@@ -40,17 +40,17 @@ markerFolder: ./Satupa'itea/
 
 ## Confidential Links & Embeds: 
 
-### [Satupa'itea](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea|Satupa'itea]] 
 
-### [Satupa'itea.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.public|Satupa'itea.public]] 
 
-### [Satupa'itea.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.internal|Satupa'itea.internal]] 
 
-### [Satupa'itea.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.protect|Satupa'itea.protect]] 
 
-### [Satupa'itea.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.private|Satupa'itea.private]] 
 
-### [Satupa'itea.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.personal|Satupa'itea.personal]] 
 
-### [Satupa'itea.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Satupa'itea.secret|Satupa'itea.secret]] 
 

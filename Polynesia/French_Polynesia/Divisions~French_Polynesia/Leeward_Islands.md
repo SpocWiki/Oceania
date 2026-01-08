@@ -41,17 +41,17 @@ markerFolder: ./Leeward_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Leeward_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands|Leeward_Islands]] 
 
-### [Leeward_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.public|Leeward_Islands.public]] 
 
-### [Leeward_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.internal|Leeward_Islands.internal]] 
 
-### [Leeward_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.protect|Leeward_Islands.protect]] 
 
-### [Leeward_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.private|Leeward_Islands.private]] 
 
-### [Leeward_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.personal|Leeward_Islands.personal]] 
 
-### [Leeward_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Leeward_Islands.secret|Leeward_Islands.secret]] 
 

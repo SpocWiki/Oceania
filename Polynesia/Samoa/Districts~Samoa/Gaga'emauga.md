@@ -40,17 +40,17 @@ markerFolder: ./Gaga'emauga/
 
 ## Confidential Links & Embeds: 
 
-### [Gaga'emauga](/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga|Gaga'emauga]] 
 
-### [Gaga'emauga.public](/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.public|Gaga'emauga.public]] 
 
-### [Gaga'emauga.internal](/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.internal|Gaga'emauga.internal]] 
 
-### [Gaga'emauga.protect](/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.protect|Gaga'emauga.protect]] 
 
-### [Gaga'emauga.private](/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.private|Gaga'emauga.private]] 
 
-### [Gaga'emauga.personal](/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.personal|Gaga'emauga.personal]] 
 
-### [Gaga'emauga.secret](/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Samoa/Districts~Samoa/Gaga'emauga.secret|Gaga'emauga.secret]] 
 

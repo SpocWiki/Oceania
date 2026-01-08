@@ -41,17 +41,17 @@ markerFolder: ./Marquesas_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Marquesas_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands|Marquesas_Islands]] 
 
-### [Marquesas_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.public|Marquesas_Islands.public]] 
 
-### [Marquesas_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.internal|Marquesas_Islands.internal]] 
 
-### [Marquesas_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.protect|Marquesas_Islands.protect]] 
 
-### [Marquesas_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.private|Marquesas_Islands.private]] 
 
-### [Marquesas_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.personal|Marquesas_Islands.personal]] 
 
-### [Marquesas_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Marquesas_Islands.secret|Marquesas_Islands.secret]] 
 

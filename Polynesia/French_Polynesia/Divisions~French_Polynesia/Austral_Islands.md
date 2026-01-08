@@ -41,17 +41,17 @@ markerFolder: ./Austral_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Austral_Islands](/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands|Austral_Islands]] 
 
-### [Austral_Islands.public](/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.public|Austral_Islands.public]] 
 
-### [Austral_Islands.internal](/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.internal|Austral_Islands.internal]] 
 
-### [Austral_Islands.protect](/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.protect|Austral_Islands.protect]] 
 
-### [Austral_Islands.private](/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.private|Austral_Islands.private]] 
 
-### [Austral_Islands.personal](/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.personal|Austral_Islands.personal]] 
 
-### [Austral_Islands.secret](/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/French_Polynesia/Divisions~French_Polynesia/Austral_Islands.secret|Austral_Islands.secret]] 
 

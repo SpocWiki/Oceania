@@ -7,6 +7,11 @@ confidential: public
 tags:
   - geo/Continent
 isDeleted: false
+dv_name-en: Oceania
+dv_name-de: Ozeanien
+dv_#has:
+  _code: OC
+dv_has_code: OC
 ---
 
 # [[../Oceania]] 
@@ -34,24 +39,24 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Oceania]
-[name-de::Ozeanien]
-[ #has/_code  :: OC ]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+has_code = `=this.dv_has_code`
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Oceania/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Oceania/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Oceania/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Oceania/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Oceania/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Oceania/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Oceania/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/ReadMe.secret|ReadMe.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Swain's_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Swain's_Island](/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island|Swain's_Island]] 
 
-### [Swain's_Island.public](/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.public|Swain's_Island.public]] 
 
-### [Swain's_Island.internal](/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.internal|Swain's_Island.internal]] 
 
-### [Swain's_Island.protect](/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.protect|Swain's_Island.protect]] 
 
-### [Swain's_Island.private](/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.private|Swain's_Island.private]] 
 
-### [Swain's_Island.personal](/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.personal|Swain's_Island.personal]] 
 
-### [Swain's_Island.secret](/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/American_Samoa/Districts~American_Samoa/Swain's_Island.secret|Swain's_Island.secret]] 
 

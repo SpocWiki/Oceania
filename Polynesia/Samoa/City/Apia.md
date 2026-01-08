@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -171.75
 dv_has_place_latitude: -13.83333
-dv_name: Apia
+dv_has_name_: Apia
 dv_Country: "[[../../Samoa]]"
 dv_Unknown: 32
 ---

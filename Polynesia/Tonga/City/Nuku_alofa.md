@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -175.2
 dv_has_place_latitude: -21.13333
-dv_name: Nuku?alofa
+dv_has_name_: Nuku?alofa
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Nuku'alofa,38834|WD~Nuku'alofa,38834]]"

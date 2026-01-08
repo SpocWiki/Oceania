@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: TOKELAU
 dv_Telephone: 690
 dv_Global: true
 dv_Global_Name: World
-dv_name: Tokelau
-dv_name-en:
-  - Tokelau
-  - Tokelau
-dv_name-es: Tokelau
-dv_name-fr: Tokélaou
-dv_name-cn: 托克劳
-dv_name-ar: توكيلاو
-dv_name-ru: Токелау
+dv_has_name_: Tokelau
+dv_has_name_en: Tokelau
+dv_has_name_es: Tokelau
+dv_has_name_fr: Tokélaou
+dv_has_name_cn: 托克劳
+dv_has_name_ar: توكيلاو
+dv_has_name_ru: Токелау
 dv_CLDR_display_name: Tokelau
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[Tokelau]]"
@@ -71,7 +69,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 772
 dv_ISO2: TK
 dv_ISO3: TKL
-dv_name-de: Tokelau
+dv_has_name_de: Tokelau
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -95,12 +93,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Tokelau ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Tokelau ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -162,8 +160,8 @@ geojsonFolder: ./Tokelau//
 markerFolder: ./Tokelau/
 ```
 
-[name-en::Tokelau] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Tokelau] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Flag_of_Tokelau.svg|350]] 
 

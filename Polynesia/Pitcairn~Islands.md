@@ -12,8 +12,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: PN
 dv_ISO3: PCN
-dv_name-en: Pitcairn
-dv_name-de: Pitcairn Inseln
+dv_has_name_en: Pitcairn
+dv_has_name_de: Pitcairn Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -33,8 +33,8 @@ geojsonFolder: ./Pitcairn/
 markerFolder: ./Pitcairn/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

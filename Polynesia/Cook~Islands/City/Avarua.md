@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -159.7833
 dv_has_place_latitude: -21.2
-dv_name: Avarua
+dv_has_name_: Avarua
 dv_Country: "[[../../../Cook~Islands]]"
 ---
 #is_a_/Place  

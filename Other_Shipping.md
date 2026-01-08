@@ -8,8 +8,8 @@ tags:
 SpocWebEntityId: 72746
 isDeleted: false
 confidential: public
-dv_name-en: Other Shipping
-dv_name-de: Andere Schiffahrt
+dv_has_name_en: Other Shipping
+dv_has_name_de: Andere Schiffahrt
 dv_Continent: "[[../Oceania]]"
 dv_is_a_: "[[../../Geography/Place]]"
 ---
@@ -24,8 +24,8 @@ geojsonFolder: ./Other_Shipping/
 markerFolder: ./Other_Shipping/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

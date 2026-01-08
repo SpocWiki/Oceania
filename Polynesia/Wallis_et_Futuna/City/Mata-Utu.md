@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -176.1667
 dv_has_place_latitude: -13.28333
-dv_name: Mata-Utu
+dv_has_name_: Mata-Utu
 dv_Country: "[[../../Polynesia/Wallis_et_Futuna]]]"
 ---
 #is_a_/Place  

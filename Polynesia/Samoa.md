@@ -40,15 +40,13 @@ dv_ISO4217-currency_country_name: SAMOA
 dv_Telephone: 685
 dv_Global: true
 dv_Global_Name: World
-dv_name: Samoa
-dv_name-en:
-  - Samoa
-  - Samoa
-dv_name-es: Samoa
-dv_name-fr: Samoa
-dv_name-cn: 萨摩亚
-dv_name-ar: ساموا
-dv_name-ru: Самоа
+dv_has_name_: Samoa
+dv_has_name_en: Samoa
+dv_has_name_es: Samoa
+dv_has_name_fr: Samoa
+dv_has_name_cn: 萨摩亚
+dv_has_name_ar: ساموا
+dv_has_name_ru: Самоа
 dv_CLDR_display_name: Samoa
 dv_UNTERM_English: Samoa
 dv_UNTERM_English_Formal: the Independent State of Samoa
@@ -88,7 +86,7 @@ dv_ISO2: WS
 dv_ISO3: WSM
 dv_is_:
   same_as: "[[../../../../WikiData/WD~Samoa,683|WD~Samoa,683]]"
-dv_name-de: Samoa
+dv_has_name_de: Samoa
 dv_Area-Total: 2831
 dv_Area-Land: 2850
 dv_Continent: "[[../../Oceania]]"
@@ -117,12 +115,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Samoa ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Samoa ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -184,8 +182,8 @@ geojsonFolder: ./Samoa//
 markerFolder: ./Samoa//
 ```
 
-[name-en::Samoa] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Samoa] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Samoa.svg|350]] 
 

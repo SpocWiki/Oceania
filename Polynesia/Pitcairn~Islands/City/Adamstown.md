@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -130.1
 dv_has_place_latitude: -25.06667
-dv_name: Adamstown
+dv_has_name_: Adamstown
 dv_Country: "[[Pitcairn~Islands]]]"
 dv_Unknown: 32
 ---

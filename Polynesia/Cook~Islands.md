@@ -7,15 +7,15 @@ dv_ISO4217-currency_country_name: COOK ISLANDS
 dv_Telephone: 682
 dv_Global: true
 dv_Global_Name: World
-dv_name: Cook Islands
-dv_name-en:
+dv_has_name_: Cook Islands
+dv_has_name_en:
   - Cook Islands
   - Cook Islands
-dv_name-es: Islas Cook
-dv_name-fr: Îles Cook
-dv_name-cn: 库克群岛
-dv_name-ar: جزر كوك
-dv_name-ru: Острова Кука
+dv_has_name_es: Islas Cook
+dv_has_name_fr: Îles Cook
+dv_has_name_cn: 库克群岛
+dv_has_name_ar: جزر كوك
+dv_has_name_ru: Острова Кука
 dv_CLDR_display_name: Cook Islands
 dv_UNTERM_English: Cook Islands (the)    **
 dv_UNTERM_English_Formal: the Cook Islands
@@ -55,7 +55,7 @@ dv_ISO2: CK
 dv_ISO3: COK
 dv_is_:
   same_as: "[[../../../../WikiData/WD~Cook_Islands,26988|WD~Cook_Islands,26988]]"
-dv_name-de: Cook Inseln
+dv_has_name_de: Cook Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Alcohol-l: 3.7
@@ -222,12 +222,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Cook Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Cook Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -289,8 +289,8 @@ geojsonFolder: ./Cook_Islands/
 markerFolder: ./Cook_Islands/
 ```
 
-[name-en::Cook Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Cook Islands] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Cook_Islands/Coat_of_arms_of_Cook_Islands.svg|350]] 
 

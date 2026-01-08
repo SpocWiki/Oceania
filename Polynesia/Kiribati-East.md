@@ -37,15 +37,13 @@ dv_ISO4217-currency_country_name: KIRIBATI
 dv_Telephone: 686
 dv_Global: true
 dv_Global_Name: World
-dv_name: Kiribati
-dv_name-en:
-  - Kiribati
-  - Kiribati
-dv_name-es: Kiribati
-dv_name-fr: Kiribati
-dv_name-cn: 基里巴斯
-dv_name-ar: كيريباس
-dv_name-ru: Кирибати
+dv_has_name_: Kiribati
+dv_has_name_en: Kiribati
+dv_has_name_es: Kiribati
+dv_has_name_fr: Kiribati
+dv_has_name_cn: 基里巴斯
+dv_has_name_ar: كيريباس
+dv_has_name_ru: Кирибати
 dv_CLDR_display_name: Kiribati
 dv_UNTERM_English: Kiribati
 dv_UNTERM_English_Formal: the Republic of Kiribati
@@ -83,7 +81,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 296
 dv_ISO2: KI
 dv_ISO3: KIR
-dv_name-de: Kiribati
+dv_has_name_de: Kiribati
 dv_Area-Total: 811
 dv_Area-Land: 730
 dv_Continent: "[[../../Oceania]]"
@@ -116,12 +114,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Kiribati ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Kiribati ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -184,8 +182,8 @@ markerFile: [[Kiribati-East]]
 defaultZoom: 5 
 ```
 
-[name-en::Kiribati] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Kiribati] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Kiribati.svg|350]] 
 

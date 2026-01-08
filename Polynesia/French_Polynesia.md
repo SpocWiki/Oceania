@@ -41,15 +41,15 @@ dv_ISO4217-currency_country_name: FRENCH POLYNESIA
 dv_Telephone: 689
 dv_Global: true
 dv_Global_Name: World
-dv_name: French Polynesia
-dv_name-en:
+dv_has_name_: French Polynesia
+dv_has_name_en:
   - French Polynesia
   - French Polynesia
-dv_name-es: Polinesia Francesa
-dv_name-fr: Polynésie française
-dv_name-cn: 法属波利尼西亚
-dv_name-ar: بولينيزيا الفرنسية
-dv_name-ru: Французская Полинезия
+dv_has_name_es: Polinesia Francesa
+dv_has_name_fr: Polynésie française
+dv_has_name_cn: 法属波利尼西亚
+dv_has_name_ar: بولينيزيا الفرنسية
+dv_has_name_ru: Французская Полинезия
 dv_CLDR_display_name: French Polynesia
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[French_Polynesia]]"
@@ -75,7 +75,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 258
 dv_ISO2: PF
 dv_ISO3: PYF
-dv_name-de: Französisch Polynesien
+dv_has_name_de: Französisch Polynesien
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -99,12 +99,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: French Polynesia ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: French Polynesia ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -163,8 +163,8 @@ geojsonFolder: ./French_Polynesia/
 markerFolder: ./French_Polynesia/
 ```
 
-[name-en::French Polynesia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::French Polynesia] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[French_Polynesia/Coat_of_arms_of_French_Polynesia.svg|350]] 
 

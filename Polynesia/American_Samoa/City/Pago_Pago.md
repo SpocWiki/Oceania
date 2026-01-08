@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -170.7
 dv_has_place_latitude: -14.28333
-dv_name: Pago Pago
+dv_has_name_: Pago Pago
 dv_Country: "[[../../American_Samoa]]"
 ---
 #is_a_/Place  

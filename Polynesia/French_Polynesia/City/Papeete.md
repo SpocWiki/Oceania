@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -149.5667
 dv_has_place_latitude: -17.53333
-dv_name: Papeete
+dv_has_name_: Papeete
 dv_Country: "[[../../Polynesia/French_Polynesia]]]"
 ---
 #is_a_/Place  

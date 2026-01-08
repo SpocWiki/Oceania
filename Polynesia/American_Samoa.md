@@ -7,15 +7,15 @@ dv_ISO4217-currency_country_name: AMERICAN SAMOA
 dv_Telephone: 1-684
 dv_Global: true
 dv_Global_Name: World
-dv_name: American Samoa
-dv_name-en:
+dv_has_name_: American Samoa
+dv_has_name_en:
   - American Samoa
   - American Samoa
-dv_name-es: Samoa Americana
-dv_name-fr: Samoa américaines
-dv_name-cn: 美属萨摩亚
-dv_name-ar: ساموا الأمريكية
-dv_name-ru: Американское Самоа
+dv_has_name_es: Samoa Americana
+dv_has_name_fr: Samoa américaines
+dv_has_name_cn: 美属萨摩亚
+dv_has_name_ar: ساموا الأمريكية
+dv_has_name_ru: Американское Самоа
 dv_CLDR_display_name: American Samoa
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[American_Samoa]]"
@@ -40,7 +40,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 16
 dv_ISO2: AS
 dv_ISO3: ASM
-dv_name-de: Amerikanisch Samoa
+dv_has_name_de: Amerikanisch Samoa
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_is_a_: "[[../../../Geography/Place]]"
@@ -249,12 +249,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: American Samoa ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: American Samoa ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -313,8 +313,8 @@ geojsonFolder: ./American_Samoa//
 markerFolder: ./American_Samoa//
 ```
 
-[name-en::American Samoa] 
-name-de = `=this.dv_name-de` 
+[has_name_en::American Samoa] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[American_Samoa/Seal_of_American_Samoa.svg|350]] 
 

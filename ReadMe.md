@@ -7,8 +7,8 @@ confidential: public
 tags:
   - geo/Continent
 isDeleted: false
-dv_name-en: Oceania
-dv_name-de: Ozeanien
+dv_has_name_en: Oceania
+dv_has_name_de: Ozeanien
 dv_#has:
   _code: OC
 dv_has_code: OC
@@ -39,8 +39,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

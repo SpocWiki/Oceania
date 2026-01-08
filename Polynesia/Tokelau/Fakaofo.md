@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -171.2167
 dv_has_place_latitude: -9.366667
-dv_name: Fakaofo
+dv_has_name_: Fakaofo
 dv_Country: "[[geo/Continent/Oceania/Polynesia/Tokelau]]"
 ---
 #is_a_/Place  

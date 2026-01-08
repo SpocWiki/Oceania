@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -169.8754
 dv_has_place_latitude: -19.05887
-dv_name: Alofi
+dv_has_name_: Alofi
 dv_Country: "[[../../Niue]]"
 ---
 #is_a_/Place  

@@ -7,15 +7,13 @@ dv_ISO4217-currency_country_name: TONGA
 dv_Telephone: 676
 dv_Global: true
 dv_Global_Name: World
-dv_name: Tonga
-dv_name-en:
-  - Tonga
-  - Tonga
-dv_name-es: Tonga
-dv_name-fr: Tonga
-dv_name-cn: 汤加
-dv_name-ar: تونغا
-dv_name-ru: Тонга
+dv_has_name_: Tonga
+dv_has_name_en: Tonga
+dv_has_name_es: Tonga
+dv_has_name_fr: Tonga
+dv_has_name_cn: 汤加
+dv_has_name_ar: تونغا
+dv_has_name_ru: Тонга
 dv_CLDR_display_name: Tonga
 dv_UNTERM_English: Tonga
 dv_UNTERM_English_Formal: the Kingdom of Tonga
@@ -55,7 +53,7 @@ dv_ISO2: TO
 dv_ISO3: TON
 dv_is_:
   same_as: "[[../../../../WikiData/WD~Tonga,678|WD~Tonga,678]]"
-dv_name-de: Tonga
+dv_has_name_de: Tonga
 dv_Area-Total: 748
 dv_Area-Land: 720
 dv_VehicleCode: TON
@@ -344,12 +342,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Tonga ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Tonga ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -414,8 +412,8 @@ coordinates: [[Tonga]]
 markerFile: [[Tonga]] 
 ```
 
-[name-en::Tonga] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Tonga] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Tonga.svg|350]] 
 

@@ -13,8 +13,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: WF
 dv_ISO3: WLF
-dv_name-en: Wallis et Futuna
-dv_name-de: Wallis und Futuna Inseln
+dv_has_name_en: Wallis et Futuna
+dv_has_name_de: Wallis und Futuna Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../Oceania]]"
@@ -38,8 +38,8 @@ geojsonFolder: ./Wallis_et_Futuna/
 markerFolder: ./Wallis_et_Futuna/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -175.2
 dv_has_place_latitude: -21.13333
-dv_has_name_: Nuku?alofa
+dv_has_name: Nuku?alofa
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Nuku'alofa,38834|WD~Nuku'alofa,38834]]"
@@ -67,7 +67,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20wikivia
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Tonga]]  
 [StateId::] 

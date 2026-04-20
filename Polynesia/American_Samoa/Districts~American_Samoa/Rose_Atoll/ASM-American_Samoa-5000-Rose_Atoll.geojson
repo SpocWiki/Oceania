@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","fill":"#F0F","id":"5000","name":"Rose Atoll"},
-"geometry":{"type": "Polygon","coordinates": [[[-168.16157,-14.53289,0.0],[-168.16047,-14.52093,0.0],[-168.16352,-14.51979,0.0],[-168.17309,-14.5237,0.0],[-168.16157,-14.53289,0.0]]]}}
+{"type": "Feature","id": "5000","bbox": [-168.17309,-14.53289,-168.16047,-14.51979],"geometry": {"type": "Polygon","coordinates": [[[-168.16157,-14.53289,0.0],[-168.16047,-14.52093,0.0],[-168.16352,-14.51979,0.0],[-168.17309,-14.5237,0.0],[-168.16157,-14.53289,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "ASM","country": "American Samoa","fill": "#F0F","name": "Rose Atoll","area_km2": 1.0057024,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 1.0057024}}}

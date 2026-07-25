@@ -359,7 +359,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Oceania
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Oceania,55643|WD~Oceania,55643]]'
+  - '[[../../../WikiData/WD~Oceania,55643|WD~Oceania,55643]]'
   - '[[/_Standards/Earth/Continent/Oceania|Oceania]]'
   - '[[/_public/Earth/Continent/Oceania.public|Oceania.public]]'
   - '[[/_internal/Earth/Continent/Oceania.internal|Oceania.internal]]'
@@ -372,7 +372,7 @@ dv_has_name_de: Ozeanien
 dv_geographicregion-oceania: kpx45"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Oceania
 dv_is_same_as:
-- '[[../../WikiData/WD~Oceania,55643|WD~Oceania,55643]]'
+- '[[../../../WikiData/WD~Oceania,55643|WD~Oceania,55643]]'
 - '[[/_Standards/Earth/Continent/Oceania|Oceania]]'
 - '[[/_public/Earth/Continent/Oceania.public|Oceania.public]]'
 - '[[/_internal/Earth/Continent/Oceania.internal|Oceania.internal]]'
@@ -388,9 +388,9 @@ dv_has_code: OC
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Oceania/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
-#is_/same_as :: [[../../WikiData/WD~Oceania,55643|WD~Oceania,55643]] 
+#is_/same_as :: [[../../../WikiData/WD~Oceania,55643|WD~Oceania,55643]] 
 
 ## #has_/map 
 

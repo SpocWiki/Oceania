@@ -9,9 +9,12 @@ aliases:
 location:
   - -9.36667
   - -171.217
+  - -9.35
+  - 188.81
 type: Country
 tags:
   - geo/Country
+  - geo/Country/Region
 SpocWebEntityId: 27034
 isDeleted: false
 confidential: public
@@ -20,6 +23,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
+  - geo-Region
 publish: true
 title: Tokelau
 linkTitle: ""
@@ -31,6 +35,7 @@ expiryDate: ""
 Languages:
   - tkl
   - en-TK
+  - de
 dv_ISO4217-currency_alphabetic: NZD
 dv_ISO4217-currency_name: New Zealand Dollar
 dv_ISO4217-currency_numeric: 554
@@ -194,3 +199,16 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Oceania/Polynesia/Tokelau.secret|Tokelau.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Australasia/New_Zealand/Island-New_Zealand/Tokelau.md`
+
+# [[Tokelau]]
+
+```leaflet
+id: Tokelau
+zoomFeatures: true
+minZoom: 4
+maxZoom: 18
+geojsonFolder: ./Tokelau/
+markerFolder: ./Tokelau/
+```
